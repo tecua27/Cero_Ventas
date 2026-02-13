@@ -1,0 +1,2837 @@
+[
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "CHEDRAUI EDUARDO MOLINA",
+    "nombre": "ALONDRA CARRALES CASTILLA",
+    "ventas": 8,
+    "logro": 64,
+    "fechaStr": "14/12/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "CHEDRAUI EDUARDO MOLINA",
+    "nombre": "ISAAC MARTINEZ HERNANDEZ",
+    "ventas": 6,
+    "logro": 48,
+    "fechaStr": "10/8/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "CHEDRAUI EDUARDO MOLINA",
+    "nombre": "JOAQUIN AUGUSTO HERNANDEZ CASTILLO",
+    "ventas": 2,
+    "logro": 16,
+    "fechaStr": "12/1/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "CHEDRAUI EDUARDO MOLINA",
+    "nombre": "JONATHAN FERNANDO RUIZ NUÑEZ",
+    "ventas": 8,
+    "logro": 64,
+    "fechaStr": "22/6/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP ATLACOMULCO TOL",
+    "nombre": "ANA KAREN GARCIA PLATA",
+    "ventas": 6,
+    "logro": 80,
+    "fechaStr": "19/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP ATLACOMULCO TOL",
+    "nombre": "EDGAR MORENO MENDRANO",
+    "ventas": 2,
+    "logro": 26.7,
+    "fechaStr": "19/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP ATLACOMULCO TOL",
+    "nombre": "GRETSHEL FERNANDA URBINA CUEVAS",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "26/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP ATLACOMULCO TOL",
+    "nombre": "MARIO MARTINEZ LOPEZ",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "25/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP ATLACOMULCO TOL",
+    "nombre": "RICARDO LOPEZ SOTO",
+    "ventas": 2,
+    "logro": 26.7,
+    "fechaStr": "25/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP CENTRO TEPOZAN",
+    "nombre": "BRAYAN NOGUEDA CATALAN",
+    "ventas": 16,
+    "logro": 58.2,
+    "fechaStr": "19/11/2023",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP CENTRO TEPOZAN",
+    "nombre": "JESUS ZARATE PEREZ",
+    "ventas": 15,
+    "logro": 54.5,
+    "fechaStr": "25/2/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP CENTRO TEPOZAN",
+    "nombre": "KAREN GUADALUPE CARO LOPEZ",
+    "ventas": 9,
+    "logro": 32.7,
+    "fechaStr": "16/9/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP CENTRO TEPOZAN",
+    "nombre": "YESSIKA JUDITH MALDONADO MORENO",
+    "ventas": 14,
+    "logro": 50.9,
+    "fechaStr": "15/11/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP CHEDRAUI ANFORA",
+    "nombre": "ADRIAN ALONSO RIOS SANTILLAN",
+    "ventas": 11,
+    "logro": 52.8,
+    "fechaStr": "12/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP CHEDRAUI ANFORA",
+    "nombre": "ALEXIS ISAAC NICOLI DIAZ",
+    "ventas": 12,
+    "logro": 57.6,
+    "fechaStr": "19/2/2023",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP CHEDRAUI ANFORA",
+    "nombre": "DANNA CAMILA VEGA ALFARO",
+    "ventas": 10,
+    "logro": 48,
+    "fechaStr": "17/3/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP CHEDRAUI ANFORA",
+    "nombre": "FILIBERTO LOPEZ ALBINO",
+    "ventas": 9,
+    "logro": 43.2,
+    "fechaStr": "31/3/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP CHEDRAUI ANFORA",
+    "nombre": "JUAN CARLOS JIMENEZ HERNANDEZ",
+    "ventas": 9,
+    "logro": 43.2,
+    "fechaStr": "15/10/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP CHEDRAUI ANFORA",
+    "nombre": "ODIN EMERSON LOPEZ SORIANO",
+    "ventas": 5,
+    "logro": 24,
+    "fechaStr": "25/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP CHEDRAUI METEPEC",
+    "nombre": "ADRIAN DE LIBRADO FERRA",
+    "ventas": 16,
+    "logro": 1.3,
+    "fechaStr": "27/7/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP CHEDRAUI METEPEC",
+    "nombre": "BEATRIZ ADRIANA OLIVOS HERNANDEZ",
+    "ventas": 1,
+    "logro": 8,
+    "fechaStr": "25/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP CHEDRAUI METEPEC",
+    "nombre": "JOSE DE JESUS RENDON JIMENEZ",
+    "ventas": 1,
+    "logro": 8,
+    "fechaStr": "13/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP CHEDRAUI METEPEC",
+    "nombre": "RAFAEL ROBERTO BECERRA MACHUCA",
+    "ventas": 11,
+    "logro": 88,
+    "fechaStr": "27/4/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP COSMOPOL 2",
+    "nombre": "AIDE NOHEMI ALCUDIA HERNANDEZ",
+    "ventas": 13,
+    "logro": 65,
+    "fechaStr": "2/1/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP COSMOPOL 2",
+    "nombre": "ALINNE JOHANNY CALDERON RUIZ",
+    "ventas": 10,
+    "logro": 35.3,
+    "fechaStr": "24/10/2023",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP COSMOPOL 2",
+    "nombre": "ANA DANIELA RODRIGUEZ MARCIAL",
+    "ventas": 3,
+    "logro": 15,
+    "fechaStr": "11/1/2026",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP COSMOPOL 2",
+    "nombre": "ENRIQUE DIDIER PEREZ ALVARADO",
+    "ventas": 10,
+    "logro": 50,
+    "fechaStr": "28/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP COSMOPOL 2",
+    "nombre": "MA. DE LOS ANGELES SANCHEZ ARZATE",
+    "ventas": 6,
+    "logro": 30,
+    "fechaStr": "2/11/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP GALERIAS TOLUCA",
+    "nombre": "DAVID CARRASCO ATENOGENES",
+    "ventas": 6,
+    "logro": 27.7,
+    "fechaStr": "3/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP GALERIAS TOLUCA",
+    "nombre": "DIANA LORENA PICHARDO ALMAZAN",
+    "ventas": 6,
+    "logro": 27.7,
+    "fechaStr": "17/8/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP GALERIAS TOLUCA",
+    "nombre": "JUAN CARLOS REZA VILCHIS",
+    "ventas": 8,
+    "logro": 36.9,
+    "fechaStr": "14/5/2023",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP IZTAPALAPA 2",
+    "nombre": "GERARDO CADENA DIAZ",
+    "ventas": 8,
+    "logro": 24,
+    "fechaStr": "27/10/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP IZTAPALAPA 2",
+    "nombre": "JOSE CARLOS TOVAR VELASQUILLO",
+    "ventas": 22,
+    "logro": 66,
+    "fechaStr": "14/10/2014",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP IZTAPALAPA 2",
+    "nombre": "MIRIAM CALVA HERNANDEZ",
+    "ventas": 3,
+    "logro": 10.9,
+    "fechaStr": "9/11/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP KSK PATIO TEXCOCO",
+    "nombre": "DIEGO ANTONIO MUÑOZ GARCIA",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "11/1/2026",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP KSK PATIO TEXCOCO",
+    "nombre": "VERONICA GARCIA RODRIGUEZ",
+    "ventas": 4,
+    "logro": 26.7,
+    "fechaStr": "5/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP KSK SENDERO IXTAPALUCA",
+    "nombre": "DEMIAN FABIAN GALINDO HERNANDEZ",
+    "ventas": 8,
+    "logro": 37.6,
+    "fechaStr": "9/2/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP KSK SENDERO IXTAPALUCA",
+    "nombre": "DULCE SHARON SANTAMARIA MATEOS",
+    "ventas": 6,
+    "logro": 28.2,
+    "fechaStr": "18/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP KSK SENDERO IXTAPALUCA",
+    "nombre": "JANETTE GUADALUPE GONZALEZ BONILLA",
+    "ventas": 12,
+    "logro": 56.5,
+    "fechaStr": "29/1/2023",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP KSK SENDERO IXTAPALUCA",
+    "nombre": "JESUS ANDRES CEBALLOS ZAMORA",
+    "ventas": 11,
+    "logro": 51.8,
+    "fechaStr": "22/6/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP NAUCALPAN",
+    "nombre": "LINDA JUDITH ROSILLO MANZANARES",
+    "ventas": 2,
+    "logro": 15,
+    "fechaStr": "7/12/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP NAUCALPAN",
+    "nombre": "LUIS OSCAR ROMERO RIVERA",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "25/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP NAUCALPAN",
+    "nombre": "RAYMUNDO EFRAIN MEDINA FLORES",
+    "ventas": 5,
+    "logro": 37.5,
+    "fechaStr": "3/4/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP PATIO TLALPAN",
+    "nombre": "DANIELA OLTEHUA MARQUEZ",
+    "ventas": 8,
+    "logro": 40,
+    "fechaStr": "16/9/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP PATIO TLALPAN",
+    "nombre": "DILAN GALVAN NUÑEZ",
+    "ventas": 9,
+    "logro": 45,
+    "fechaStr": "14/7/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP PATIO TLALPAN",
+    "nombre": "JOSE DANIEL ARENAS HERNANDEZ",
+    "ventas": 14,
+    "logro": 70,
+    "fechaStr": "19/2/2023",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP PATIO TLALPAN",
+    "nombre": "MADELINE CARPINTEYRO NIEVA",
+    "ventas": 3,
+    "logro": 15,
+    "fechaStr": "6/8/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP PATIO TLALPAN",
+    "nombre": "OSKAR SAUCEDO TELLEZ",
+    "ventas": 8,
+    "logro": 40,
+    "fechaStr": "7/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP PLAZA TOLLOCAN",
+    "nombre": "ALEXANDRA FLORES PALMA",
+    "ventas": 3,
+    "logro": 30,
+    "fechaStr": "17/8/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP PLAZA TOLLOCAN",
+    "nombre": "ANA MISHELL GARCIA TIBURCIO",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "9/2/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP PLAZA TOLLOCAN",
+    "nombre": "ELYAER MARTINEZ ARRIAGA",
+    "ventas": 3,
+    "logro": 30,
+    "fechaStr": "21/3/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP PLAZA TOLLOCAN",
+    "nombre": "PAULINO VILCHIS PEREZ",
+    "ventas": 4,
+    "logro": 40,
+    "fechaStr": "28/12/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP SENDERO TOLUCA II",
+    "nombre": "CRISTHIAN ALBA REYES",
+    "ventas": 9,
+    "logro": 49.1,
+    "fechaStr": "2/11/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP SENDERO TOLUCA II",
+    "nombre": "IVAN FLORES MATIAS",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "8/2/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP SENDERO TOLUCA II",
+    "nombre": "JOSE IVAN RAMIREZ VALENCIA",
+    "ventas": 7,
+    "logro": 38.2,
+    "fechaStr": "8/7/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP SENDERO TOLUCA II",
+    "nombre": "LINDA MINELLY CONTRERAS QUIÑONES",
+    "ventas": 6,
+    "logro": 32.7,
+    "fechaStr": "6/8/2023",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP SENDERO TOLUCA II",
+    "nombre": "LORENA LIZBETH VARGAS SILVA",
+    "ventas": 9,
+    "logro": 49.1,
+    "fechaStr": "21/9/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP SENDERO TOLUCA II",
+    "nombre": "XENIA XANAT GUTIERREZ REYES",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "23/6/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP TDA CDMX MULTIPLAZA ARAGON",
+    "nombre": "GEORGINA PAMELA PEREZ MORENO",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "25/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP TDA CDMX MULTIPLAZA ARAGON",
+    "nombre": "GISELA TAMARA MACIAS GARCIA",
+    "ventas": 9,
+    "logro": 31.8,
+    "fechaStr": "13/11/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP TDA CDMX MULTIPLAZA ARAGON",
+    "nombre": "NOE IVAN NOYA GARCIA",
+    "ventas": 11,
+    "logro": 38.8,
+    "fechaStr": "29/11/2019",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP TOWN CENTER NICOLAS ROMERO DFN",
+    "nombre": "ARTURO RODRIGUEZ HERNANDEZ",
+    "ventas": 8,
+    "logro": 36.9,
+    "fechaStr": "1/7/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP TOWN CENTER NICOLAS ROMERO DFN",
+    "nombre": "AYDE GUADALUPE LARA MARTINEZ",
+    "ventas": 11,
+    "logro": 50.8,
+    "fechaStr": "6/7/2015",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP TOWN CENTER NICOLAS ROMERO DFN",
+    "nombre": "CHRISTIAN LOPEZ JIMENEZ",
+    "ventas": 11,
+    "logro": 50.8,
+    "fechaStr": "18/10/2020",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP TOWN CENTER NICOLAS ROMERO DFN",
+    "nombre": "CITLALI REYES SANTOS",
+    "ventas": 9,
+    "logro": 41.5,
+    "fechaStr": "20/3/2022",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP TOWN CENTER NICOLAS ROMERO DFN",
+    "nombre": "GUILLERMO DELGADO FLORES",
+    "ventas": 6,
+    "logro": 27.7,
+    "fechaStr": "27/10/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP TOWN CENTER NICOLAS ROMERO DFN",
+    "nombre": "KARLA VERONICA MATA GARCIA",
+    "ventas": 9,
+    "logro": 41.5,
+    "fechaStr": "19/6/2022",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR MXI / SLRC",
+    "tienda": "EXP KSK SENDERO MEXICALI",
+    "nombre": "BRANDON DANIEL VALENZUELA MORGA",
+    "ventas": 6,
+    "logro": 43.6,
+    "fechaStr": "23/11/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR MXI / SLRC",
+    "tienda": "EXP KSK SENDERO MEXICALI",
+    "nombre": "EMILY KARINA RAMIREZ VARGAS",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "4/2/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "2.-BAJA-NOR MXI / SLRC",
+    "tienda": "EXP KSK SENDERO MEXICALI",
+    "nombre": "FRANCISCO LUIS AVILES ALAPISCO",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "9/2/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "2.-BAJA-NOR MXI / SLRC",
+    "tienda": "EXP KSK SENDERO MEXICALI",
+    "nombre": "VIDA ALEJANDRA CAYEROS RODRIGUEZ",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "4/2/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "2.-BAJA-NOR MXI / SLRC",
+    "tienda": "EXP PLAZA SAN PEDRO BC",
+    "nombre": "ABRAHAM AGUILAR HUAPE",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "9/2/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "2.-BAJA-NOR MXI / SLRC",
+    "tienda": "EXP PLAZA SAN PEDRO BC",
+    "nombre": "ANA KAREN LOPEZ CASTRO",
+    "ventas": 5,
+    "logro": 100,
+    "fechaStr": "5/1/2026",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR MXI / SLRC",
+    "tienda": "EXP PLAZA SAN PEDRO BC",
+    "nombre": "ANGELICA JANET VALLE BARRIOS",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "8/2/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "2.-BAJA-NOR MXI / SLRC",
+    "tienda": "EXP PLAZA SAN PEDRO BC",
+    "nombre": "CESAR ANTONIO LUNA CRUZ",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "20/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "2.-BAJA-NOR MXI / SLRC",
+    "tienda": "EXP PLAZA SAN PEDRO BC",
+    "nombre": "JAVIER ALEJANDRO CAMPOS ALMODOVAR",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "13/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "2.-BAJA-NOR MXI / SLRC",
+    "tienda": "EXP PLAZA SAN PEDRO BC",
+    "nombre": "NOE SALINAS VELAZQUEZ",
+    "ventas": 1,
+    "logro": 20,
+    "fechaStr": "13/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "2.-BAJA-NOR MXI / SLRC",
+    "tienda": "EXP PLAZA SAN PEDRO BC",
+    "nombre": "RAMON DAVID DE LUNA QUINTERO",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "8/2/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP CASA BLANCA BC",
+    "nombre": "ADAMARYS LIZETTE BARRERAS DIAZ",
+    "ventas": 3,
+    "logro": 40,
+    "fechaStr": "2/12/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP CASA BLANCA BC",
+    "nombre": "ALEXYS ROBERTO GONZALEZ ZAVALA",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "8/2/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP CASA BLANCA BC",
+    "nombre": "ITZA MERARI BATRES OLIVA",
+    "ventas": 2,
+    "logro": 26.7,
+    "fechaStr": "2/12/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP CASA BLANCA BC",
+    "nombre": "JESUS ANTONIO OSEGUERA CASTILLO",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "27/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP JAUJA TIJUANA",
+    "nombre": "ALLISON VALERIA RODRIGUEZ AVILA",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "19/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP JAUJA TIJUANA",
+    "nombre": "ANGEL RUBEN PEREZ NOLASCO",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "19/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP JAUJA TIJUANA",
+    "nombre": "JACOB HERNANDEZ JIMENEZ",
+    "ventas": 2,
+    "logro": 20,
+    "fechaStr": "18/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP JAUJA TIJUANA",
+    "nombre": "MARIA EUGENIA GOMEZ DEL CASTILLO CONTRERAS",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "19/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP KSK MACROPLAZA TIJUANA",
+    "nombre": "ALEXA VALERIA VEGA HIGAREDA",
+    "ventas": 6,
+    "logro": 30,
+    "fechaStr": "8/1/2026",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP KSK MACROPLAZA TIJUANA",
+    "nombre": "CRISTIAN CARRASCO TLAPALAMATL",
+    "ventas": 17,
+    "logro": 85,
+    "fechaStr": "25/4/2021",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP PENINSULA TIJUANA",
+    "nombre": "ALEXIS GONZALEZ DE LA CRUZ",
+    "ventas": 6,
+    "logro": 34.1,
+    "fechaStr": "26/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP PENINSULA TIJUANA",
+    "nombre": "MARIA DE LOS ANGELES LOPEZ GARCIA",
+    "ventas": 3,
+    "logro": 17,
+    "fechaStr": "27/4/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP PENINSULA TIJUANA",
+    "nombre": "MIGUEL ALFONSO AMBRIZ RODRIGUEZ",
+    "ventas": 5,
+    "logro": 28.4,
+    "fechaStr": "14/11/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP PENINSULA TIJUANA",
+    "nombre": "OSVALDO ALONSO HERNANDEZ MONTAÑO",
+    "ventas": 9,
+    "logro": 51.1,
+    "fechaStr": "27/10/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP PENINSULA TIJUANA",
+    "nombre": "VICTOR JOEL HERNANDEZ RODRIGUEZ",
+    "ventas": 7,
+    "logro": 39.8,
+    "fechaStr": "24/8/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP PLAZA 5 y 10",
+    "nombre": "ALEJANDRA MAILYN RIOS TRUJILLO",
+    "ventas": 6,
+    "logro": 60,
+    "fechaStr": "6/7/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP PLAZA 5 y 10",
+    "nombre": "DANIEL ALBERTO BAUTISTA SOLIS",
+    "ventas": 2,
+    "logro": 20,
+    "fechaStr": "22/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP PLAZA 5 y 10",
+    "nombre": "RICARDO GASPAR RUIZ",
+    "ventas": 1,
+    "logro": 10,
+    "fechaStr": "23/11/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP PLAZA 5 y 10",
+    "nombre": "VICTOR GAEL ROMERO SANTIAGO",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "21/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP PUNTO SUR TIJUANA",
+    "nombre": "JOSE MIGUEL IBARRA POLANCO",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "9/2/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP PUNTO SUR TIJUANA",
+    "nombre": "LUIS DANIEL ITURBE MORALES",
+    "ventas": 4,
+    "logro": 40,
+    "fechaStr": "28/9/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP PUNTO SUR TIJUANA",
+    "nombre": "MARIA GRACIELA MARTINEZ HUITRON",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "8/2/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP PUNTO SUR TIJUANA",
+    "nombre": "YAREMI BRISEIDA PONCE GUZMAN",
+    "ventas": 2,
+    "logro": 20,
+    "fechaStr": "28/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP SENDERO ENSENADA",
+    "nombre": "LUIS RICARDO MELENDEZ RODRIGUEZ",
+    "ventas": 9,
+    "logro": 67.5,
+    "fechaStr": "23/11/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP SENDERO ENSENADA",
+    "nombre": "MARIA ARACELY ZAVALA GUARNEROS",
+    "ventas": 5,
+    "logro": 37.5,
+    "fechaStr": "27/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP SENDERO ENSENADA",
+    "nombre": "MAURICIO ALBERTO LOPEZ CRUZ",
+    "ventas": 4,
+    "logro": 24,
+    "fechaStr": "20/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP SENDERO ENSENADA 2",
+    "nombre": "ADAN GIANCARLO OJEDA RODRIGUEZ",
+    "ventas": 5,
+    "logro": 30,
+    "fechaStr": "28/9/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP SENDERO ENSENADA 2",
+    "nombre": "BRISA DANIELA DE LOS SANTOS BULBARELA",
+    "ventas": 2,
+    "logro": 12,
+    "fechaStr": "23/11/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP SENDERO ENSENADA 2",
+    "nombre": "LINDA YANEL SALGADO ZAMORA",
+    "ventas": 7,
+    "logro": 42,
+    "fechaStr": "2/11/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP TIJUANA",
+    "nombre": "BRAYAN AVALOS TORRES",
+    "ventas": 3,
+    "logro": 15.2,
+    "fechaStr": "14/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP TIJUANA",
+    "nombre": "GERMAN OLIVER CUADRAS RAMIREZ",
+    "ventas": 6,
+    "logro": 30.5,
+    "fechaStr": "13/3/2022",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP TIJUANA",
+    "nombre": "ISAAC OSVALDO SANCHEZ CASTRO",
+    "ventas": 7,
+    "logro": 35.5,
+    "fechaStr": "6/10/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP TIJUANA",
+    "nombre": "JAVIER MORALES HERNANDEZ",
+    "ventas": 1,
+    "logro": 10,
+    "fechaStr": "16/2/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP TIJUANA",
+    "nombre": "JONATHAN JESUS MADRIGAL CLEMENTE",
+    "ventas": 7,
+    "logro": 35.5,
+    "fechaStr": "12/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP TIJUANA",
+    "nombre": "JOSE JOAQUIN CORIA HOYOS",
+    "ventas": 7,
+    "logro": 35.5,
+    "fechaStr": "5/2/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP TIJUANA",
+    "nombre": "LEONARDO ROGELIO GAMBOA OTERO",
+    "ventas": 8,
+    "logro": 40.6,
+    "fechaStr": "15/5/2023",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP TIJUANA",
+    "nombre": "NORBERTO SOTERO SALAZAR",
+    "ventas": 12,
+    "logro": 60.9,
+    "fechaStr": "26/11/2023",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP TIJUANA",
+    "nombre": "PABLO PALAGOT MONTERO",
+    "ventas": 5,
+    "logro": 25.4,
+    "fechaStr": "13/1/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP TIJUANA",
+    "nombre": "YAEL ENRIQUE TORRES HERNANDEZ",
+    "ventas": 7,
+    "logro": 35.5,
+    "fechaStr": "7/12/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP TIJUANA PLAZA SENDERO",
+    "nombre": "ALEJANDRA NAOMI VAZQUEZ MARIN",
+    "ventas": 8,
+    "logro": 44.4,
+    "fechaStr": "12/2/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP TIJUANA PLAZA SENDERO",
+    "nombre": "DIANA KRISTAL GAMBOA OTERO",
+    "ventas": 9,
+    "logro": 50,
+    "fechaStr": "10/5/2021",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP TIJUANA PLAZA SENDERO",
+    "nombre": "IRVIN JOSHUAN IGNACIO TOSCANO",
+    "ventas": 7,
+    "logro": 38.9,
+    "fechaStr": "30/10/2022",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP TIJUANA PLAZA SENDERO",
+    "nombre": "JOSE DANIEL GARCIA SANTIAGO",
+    "ventas": 4,
+    "logro": 22.2,
+    "fechaStr": "12/1/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP TIJUANA PLAZA SENDERO",
+    "nombre": "RUBEN SANCHEZ SANCHEZ",
+    "ventas": 4,
+    "logro": 22.2,
+    "fechaStr": "28/8/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "2.-BAJA-NOR TIJ / ENS",
+    "tienda": "EXP TIJUANA PLAZA SENDERO",
+    "nombre": "SOFIA CECILIA PEREZ RUBIO",
+    "ventas": 8,
+    "logro": 44.4,
+    "fechaStr": "22/4/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP CENTRO MTY",
+    "nombre": "KARLA PAOLA AVELINO MARCIAL",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "11/11/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP CENTRO MTY",
+    "nombre": "LUIS ENRIQUE PEREZ HERBERT",
+    "ventas": 1,
+    "logro": 9.4,
+    "fechaStr": "25/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP CENTRO MTY",
+    "nombre": "RUBEN SUAREZ SALAS",
+    "ventas": 3,
+    "logro": 28.1,
+    "fechaStr": "12/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP CUMBRES MONTERREY",
+    "nombre": "GERARDO DANIEL LUNA LOPEZ",
+    "ventas": 3,
+    "logro": 18.8,
+    "fechaStr": "14/12/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP CUMBRES MONTERREY",
+    "nombre": "MARCOS GAMALIEL GUTIERREZ RODRIGUEZ",
+    "ventas": 2,
+    "logro": 12.5,
+    "fechaStr": "14/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP GALERIAS MONTERREY",
+    "nombre": "ALBERTO RUEDA RODRIGUEZ",
+    "ventas": 8,
+    "logro": 47.1,
+    "fechaStr": "12/6/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP GALERIAS MONTERREY",
+    "nombre": "DANIELA MICHELLE CORPUS LOPEZ",
+    "ventas": 5,
+    "logro": 29.4,
+    "fechaStr": "13/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP GALERIAS MONTERREY",
+    "nombre": "FRANCISCO JOEL LAREDO BAEZ",
+    "ventas": 10,
+    "logro": 58.8,
+    "fechaStr": "27/8/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP GALERIAS MONTERREY",
+    "nombre": "KEVIN ALEJANDRO SOLIS MARTINEZ",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "30/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP GALERIAS MONTERREY",
+    "nombre": "LUIS ANGEL DE ANDA MATA",
+    "ventas": 9,
+    "logro": 52.9,
+    "fechaStr": "4/8/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP KSK GALERIAS MONTERREY",
+    "nombre": "DIEGO MORENO ONDARZA",
+    "ventas": 6,
+    "logro": 30,
+    "fechaStr": "13/5/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP KSK GALERIAS MONTERREY",
+    "nombre": "LUIS ANGEL HERNANDEZ LEJIA",
+    "ventas": 13,
+    "logro": 65,
+    "fechaStr": "20/10/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP KSK GALERIAS MONTERREY",
+    "nombre": "LUIS ENRIQUE CANDANOSA DE LA TORRE",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "5/2/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP KSK GALERIAS MONTERREY",
+    "nombre": "PAOLA EDITH AVILES AGUILAR",
+    "ventas": 10,
+    "logro": 50,
+    "fechaStr": "3/8/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP KSK GALERIAS SALTILLO",
+    "nombre": "JOSE MIGUEL MORENO DOÑEZ",
+    "ventas": 4,
+    "logro": 25,
+    "fechaStr": "7/12/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP KSK GALERIAS SALTILLO",
+    "nombre": "KARLA ARACELI ROSALES JURADO",
+    "ventas": 4,
+    "logro": 25,
+    "fechaStr": "21/12/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP LA NOGALERA SALTILLO COA",
+    "nombre": "ANDREA GARCIA CARRIZALES",
+    "ventas": 2,
+    "logro": 26.7,
+    "fechaStr": "15/12/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP LA NOGALERA SALTILLO COA",
+    "nombre": "BRIAN JOSE SEGURA FLORES",
+    "ventas": 3,
+    "logro": 40,
+    "fechaStr": "26/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP LA NOGALERA SALTILLO COA",
+    "nombre": "DANIEL ISAIAS HUERTA MARTINEZ",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "5/1/2026",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP LA NOGALERA SALTILLO COA",
+    "nombre": "MARCO ANTONIO FLORES MORALES",
+    "ventas": 1,
+    "logro": 13.3,
+    "fechaStr": "2/11/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP MALL PLAZA LINCOLN",
+    "nombre": "GUILLERMO DANIEL CORTEZ TORRES",
+    "ventas": 1,
+    "logro": 8.6,
+    "fechaStr": "20/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP MALL PLAZA LINCOLN",
+    "nombre": "JORGE ALDAHIR MARROQUIN RAMIREZ",
+    "ventas": 4,
+    "logro": 34.3,
+    "fechaStr": "9/11/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP MALL PLAZA LINCOLN",
+    "nombre": "OSCAR URIEL FIGUEROA MORENO",
+    "ventas": 4,
+    "logro": 34.3,
+    "fechaStr": "14/8/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP MOL CONCORDIA",
+    "nombre": "DANIELA ABIGAIL HERNANDEZ RAMOS",
+    "ventas": 1,
+    "logro": 7.5,
+    "fechaStr": "1/2/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP MOL CONCORDIA",
+    "nombre": "EMILIANO CAVAZOS MARTINEZ",
+    "ventas": 8,
+    "logro": 60,
+    "fechaStr": "13/2/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP MOL CONCORDIA",
+    "nombre": "HECTOR DANIEL VILLARREAL ARAUJO",
+    "ventas": 7,
+    "logro": 52.5,
+    "fechaStr": "20/5/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP PASEO TEC",
+    "nombre": "JOAQUIN MANRIQUEZ SAUCEDA",
+    "ventas": 13,
+    "logro": 28.9,
+    "fechaStr": "1/8/2023",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP PLAZA CONCORDIA",
+    "nombre": "DEBANI GABRIELA SOLORSANO RODRIGUEZ",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "6/10/2023",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP PLAZA CONCORDIA",
+    "nombre": "EDER MAURICIO MARQUEZ CORREA",
+    "ventas": 4,
+    "logro": 37.5,
+    "fechaStr": "18/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP PLAZA CONCORDIA",
+    "nombre": "GUSTAVO MARCELO ACEVEDO ARROYO",
+    "ventas": 3,
+    "logro": 28.1,
+    "fechaStr": "20/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP PZA REAL SALTILLO COA",
+    "nombre": "DANIELA ALEJANDRA RODRIGUEZ SILLER",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "21/12/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP PZA REAL SALTILLO COA",
+    "nombre": "MARIA FERNANDA MARIN LOPEZ",
+    "ventas": 2,
+    "logro": 18.2,
+    "fechaStr": "13/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP SENDERO APODACA",
+    "nombre": "ANGELA TERESA FUENTES VALTIER",
+    "ventas": 8,
+    "logro": 49.4,
+    "fechaStr": "4/11/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP SENDERO APODACA",
+    "nombre": "EMILY YAMILET ROBLES AGUIRRE",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "6/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP SENDERO APODACA",
+    "nombre": "JONATHAN GARCIA ALVARADO",
+    "ventas": 6,
+    "logro": 37,
+    "fechaStr": "26/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP SENDERO APODACA",
+    "nombre": "LEONARDO MIGUEL MERCADO ASCENCIO",
+    "ventas": 10,
+    "logro": 61.7,
+    "fechaStr": "17/8/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP SENDERO APODACA",
+    "nombre": "MARCO ANTONIO MORENO RIVERA",
+    "ventas": 9,
+    "logro": 55.6,
+    "fechaStr": "18/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP SENDERO APODACA 2",
+    "nombre": "DENZEL DAVID DIAZ HERRERA",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "4/2/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP SENDERO APODACA 2",
+    "nombre": "FATIMA MARGARITA AVITIA COBOS",
+    "ventas": 9,
+    "logro": 33.3,
+    "fechaStr": "4/9/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP SENDERO APODACA 2",
+    "nombre": "ISMAEL SANCHEZ MORALES",
+    "ventas": 14,
+    "logro": 51.9,
+    "fechaStr": "1/9/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP SENDERO APODACA 2",
+    "nombre": "LESSLY VIANEY BACAB MANRIQUE",
+    "ventas": 14,
+    "logro": 51.9,
+    "fechaStr": "26/4/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP SENDERO APODACA 2",
+    "nombre": "SHARA ANGELICA ALARCON SANCHEZ",
+    "ventas": 12,
+    "logro": 44.4,
+    "fechaStr": "29/8/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP SENDERO ESCOBEDO 2",
+    "nombre": "ANDREA SABRINA CASTILLEJA ARIAS",
+    "ventas": 17,
+    "logro": 68,
+    "fechaStr": "19/2/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP SENDERO ESCOBEDO 2",
+    "nombre": "ERICK ROGELIO CASTILLO DEL ANGEL",
+    "ventas": 7,
+    "logro": 28,
+    "fechaStr": "25/4/2023",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP SENDERO ESCOBEDO 2",
+    "nombre": "NESTOR DANIEL CAMACHO URIARTE",
+    "ventas": 4,
+    "logro": 16,
+    "fechaStr": "19/8/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP SENDERO ESCOBEDO NL",
+    "nombre": "DIBANHI ALEJANDRA HERNANDEZ GONZALEZ",
+    "ventas": 8,
+    "logro": 35.7,
+    "fechaStr": "19/8/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP SENDERO ESCOBEDO NL",
+    "nombre": "EDGAR ALAN RIVERA SAMPAYO",
+    "ventas": 13,
+    "logro": 58,
+    "fechaStr": "25/7/2021",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP SENDERO ESCOBEDO NL",
+    "nombre": "IRVING DANIEL BETANCOURT LUEZA",
+    "ventas": 9,
+    "logro": 40.2,
+    "fechaStr": "7/1/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP SENDERO ESCOBEDO NL",
+    "nombre": "MARIA FERNANDA COBOS OSORIO",
+    "ventas": 5,
+    "logro": 22.3,
+    "fechaStr": "12/1/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP SENDERO ESCOBEDO NL",
+    "nombre": "NOE ULISES LIRA LUNA",
+    "ventas": 5,
+    "logro": 22.3,
+    "fechaStr": "12/10/2023",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP SENDERO SALTILLO COA",
+    "nombre": "ALEXA MICHELLE REYES HERNANDEZ",
+    "ventas": 5,
+    "logro": 68.2,
+    "fechaStr": "16/12/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP SENDERO SALTILLO COA",
+    "nombre": "CESAR OSVALDO RUBIO HERNANDEZ",
+    "ventas": 1,
+    "logro": 13.6,
+    "fechaStr": "25/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP SENDERO SALTILLO COA",
+    "nombre": "LESLEY MICHELLE XALA PARRA",
+    "ventas": 2,
+    "logro": 27.3,
+    "fechaStr": "12/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP SORIANA COUNTRY",
+    "nombre": "AXEL ANTONIO LERMA CRUZ",
+    "ventas": 8,
+    "logro": 17.8,
+    "fechaStr": "24/6/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP TDA LA PASTORA NL",
+    "nombre": "GABRIELA FERNANDA ROCHA BAZALDUA",
+    "ventas": 3,
+    "logro": 9.4,
+    "fechaStr": "31/8/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP VALLE SOLEADO NL",
+    "nombre": "ANGEL ABRAHAM RODRIGUEZ MENDOZA",
+    "ventas": 8,
+    "logro": 35.7,
+    "fechaStr": "17/7/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP VALLE SOLEADO NL",
+    "nombre": "DANIEL ALONZO MENDOZA",
+    "ventas": 4,
+    "logro": 17.9,
+    "fechaStr": "20/4/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP VALLE SOLEADO NL",
+    "nombre": "DENISSE AZBETH COLORADO RAMIREZ",
+    "ventas": 7,
+    "logro": 31.3,
+    "fechaStr": "21/12/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP VALLE SOLEADO NL",
+    "nombre": "JONATHAN EMMANUEL OCHOA FUENTES",
+    "ventas": 15,
+    "logro": 67,
+    "fechaStr": "18/8/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "3.-NORTE",
+    "tienda": "EXP VALLE SOLEADO NL",
+    "nombre": "LAURA ALICIA MALDONADO SERNA",
+    "ventas": 7,
+    "logro": 31.3,
+    "fechaStr": "22/4/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "4.-PACIFICO - BAJIO",
+    "tienda": "EXP CENTRO GUADALAJARA",
+    "nombre": "CHRISTOPHER MONTOYA PEREZ",
+    "ventas": 5,
+    "logro": 27.8,
+    "fechaStr": "5/8/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "4.-PACIFICO - BAJIO",
+    "tienda": "EXP CENTRO GUADALAJARA",
+    "nombre": "DALIA PAOLA ROBLEDO DIAZ",
+    "ventas": 5,
+    "logro": 27.8,
+    "fechaStr": "18/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "4.-PACIFICO - BAJIO",
+    "tienda": "EXP CENTRO GUADALAJARA",
+    "nombre": "IVAN MICHELLE CHAIRES MENDEZ",
+    "ventas": 7,
+    "logro": 38.9,
+    "fechaStr": "15/12/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "4.-PACIFICO - BAJIO",
+    "tienda": "EXP CENTRO GUADALAJARA",
+    "nombre": "MARTIN DE JESUS EGUIARTE BEJARANO",
+    "ventas": 10,
+    "logro": 55.6,
+    "fechaStr": "26/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "4.-PACIFICO - BAJIO",
+    "tienda": "EXP CENTRO GUADALAJARA",
+    "nombre": "VICTOR ERNESTO PEREZ ROBLES",
+    "ventas": 10,
+    "logro": 55.6,
+    "fechaStr": "4/5/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "4.-PACIFICO - BAJIO",
+    "tienda": "EXP HIPER GALERIAS JAL",
+    "nombre": "AKIM DAVID MIRAMONTES MACIAS",
+    "ventas": 6,
+    "logro": 48,
+    "fechaStr": "18/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "4.-PACIFICO - BAJIO",
+    "tienda": "EXP HIPER GALERIAS JAL",
+    "nombre": "ARATH MAXIMILIANO ORBE LOPEZ",
+    "ventas": 4,
+    "logro": 32,
+    "fechaStr": "18/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "4.-PACIFICO - BAJIO",
+    "tienda": "EXP HIPER GALERIAS JAL",
+    "nombre": "CYNTHIA VANESSA IBARRA DEL MURO",
+    "ventas": 7,
+    "logro": 56,
+    "fechaStr": "13/11/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "4.-PACIFICO - BAJIO",
+    "tienda": "EXP HIPER GALERIAS JAL",
+    "nombre": "DIEGO ALEXIS HERNANDEZ SOTO",
+    "ventas": 4,
+    "logro": 32,
+    "fechaStr": "6/11/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "4.-PACIFICO - BAJIO",
+    "tienda": "EXP KSK GALERIAS GDL",
+    "nombre": "DAVID RENATO MUÑOZ AGUILAR",
+    "ventas": 6,
+    "logro": 24,
+    "fechaStr": "22/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "4.-PACIFICO - BAJIO",
+    "tienda": "EXP KSK GALERIAS GDL",
+    "nombre": "LUIS ANTONIO QUEZADA GONZALEZ",
+    "ventas": 1,
+    "logro": 4,
+    "fechaStr": "27/7/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "4.-PACIFICO - BAJIO",
+    "tienda": "EXP PLAZA ALCALDE ZAPOPAN",
+    "nombre": "CESAR JAVIER MARTINEZ MEDINA",
+    "ventas": 11,
+    "logro": 55,
+    "fechaStr": "4/1/2026",
+    "esNuevo": false
+  },
+  {
+    "reg": "4.-PACIFICO - BAJIO",
+    "tienda": "EXP PLAZA ALCALDE ZAPOPAN",
+    "nombre": "JOHAN ALEXANDER PEREGRINA BERMUDEZ",
+    "ventas": 3,
+    "logro": 15,
+    "fechaStr": "18/11/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "4.-PACIFICO - BAJIO",
+    "tienda": "EXP PLAZA ALCALDE ZAPOPAN",
+    "nombre": "MAURICIO HERNANDEZ GARCIA",
+    "ventas": 13,
+    "logro": 65,
+    "fechaStr": "12/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "4.-PACIFICO - BAJIO",
+    "tienda": "EXP PLAZA ALCALDE ZAPOPAN",
+    "nombre": "VERONICA ALVAREZ RAMIREZ",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "8/2/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "4.-PACIFICO - BAJIO",
+    "tienda": "EXP PLAZA ATEMAJAC GDL",
+    "nombre": "ANDRES AVALOS ESTRADA",
+    "ventas": 9,
+    "logro": 41.7,
+    "fechaStr": "20/10/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "4.-PACIFICO - BAJIO",
+    "tienda": "EXP PLAZA ATEMAJAC GDL",
+    "nombre": "DENIS JAIRO ALFARO HERRERA",
+    "ventas": 13,
+    "logro": 60.2,
+    "fechaStr": "15/6/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "4.-PACIFICO - BAJIO",
+    "tienda": "EXP PLAZA ATEMAJAC GDL",
+    "nombre": "FERNANDO HERNANDEZ OLEA",
+    "ventas": 10,
+    "logro": 46.3,
+    "fechaStr": "5/6/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "4.-PACIFICO - BAJIO",
+    "tienda": "EXP PLAZA ATEMAJAC GDL",
+    "nombre": "GABRIEL ANTONIO GONZALEZ JIMENEZ",
+    "ventas": 17,
+    "logro": 78.7,
+    "fechaStr": "24/10/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "4.-PACIFICO - BAJIO",
+    "tienda": "EXP PLAZA ATEMAJAC GDL",
+    "nombre": "MONSERRAT GUADALUPE MONTERO MUÑOZ",
+    "ventas": 9,
+    "logro": 41.7,
+    "fechaStr": "31/3/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP 5 DE MAYO PUE",
+    "nombre": "ADOLFO FLORES MIRANDA",
+    "ventas": 4,
+    "logro": 21.3,
+    "fechaStr": "30/9/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP 5 DE MAYO PUE",
+    "nombre": "ANAY JOVANELLI SALGADO LOPEZ",
+    "ventas": 6,
+    "logro": 32,
+    "fechaStr": "20/11/2023",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP 5 DE MAYO PUE",
+    "nombre": "JUAN ROMERO LOPEZ",
+    "ventas": 6,
+    "logro": 32,
+    "fechaStr": "1/4/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP 5 DE MAYO PUE",
+    "nombre": "NESTOR DANIEL GUTIERREZ PACHECO",
+    "ventas": 7,
+    "logro": 37.3,
+    "fechaStr": "7/11/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP ANTEQUERA PUE",
+    "nombre": "AUGUSTO JAVIER SERRANO MORENO",
+    "ventas": 1,
+    "logro": 11.1,
+    "fechaStr": "2/4/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP ANTEQUERA PUE",
+    "nombre": "JOSE FRANCISCO RAMIREZ GARCIA",
+    "ventas": 2,
+    "logro": 22.2,
+    "fechaStr": "27/10/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP ANTEQUERA PUE",
+    "nombre": "LUIS ABRAHAM FRANCO RAMIREZ",
+    "ventas": 1,
+    "logro": 11.1,
+    "fechaStr": "12/8/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP ANTEQUERA PUE",
+    "nombre": "MARYCRUZ SANCHEZ ORTIZ",
+    "ventas": 1,
+    "logro": 11.1,
+    "fechaStr": "12/8/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP CHEDRAUI CRUZ DEL SUR",
+    "nombre": "ABIGAIL REYES ORTIZ",
+    "ventas": 9,
+    "logro": 58.1,
+    "fechaStr": "12/8/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP CHEDRAUI CRUZ DEL SUR",
+    "nombre": "AYDEE ARISTA SANCHEZ",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "25/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP CHEDRAUI CRUZ DEL SUR",
+    "nombre": "JONATHAN JESUS CHERLIN GARCIA",
+    "ventas": 8,
+    "logro": 51.6,
+    "fechaStr": "4/9/2022",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP CHEDRAUI CRUZ DEL SUR",
+    "nombre": "KAREN MICHELLE MARTINEZ FLORES",
+    "ventas": 8,
+    "logro": 51.6,
+    "fechaStr": "31/3/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP CHOLULA II PUE",
+    "nombre": "JADET IGNACIO HERNANDEZ",
+    "ventas": 3,
+    "logro": 21.8,
+    "fechaStr": "16/12/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP CHOLULA II PUE",
+    "nombre": "MARCELINO SANCHEZ ACUÑA",
+    "ventas": 1,
+    "logro": 7.3,
+    "fechaStr": "17/10/2021",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP CHOLULA II PUE",
+    "nombre": "MARIO ALBERTO RODRIGUEZ ROBLES",
+    "ventas": 3,
+    "logro": 21.8,
+    "fechaStr": "18/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP CHOLULA II PUE",
+    "nombre": "NANCY AURORA BARAJAS PEREZ",
+    "ventas": 7,
+    "logro": 50.9,
+    "fechaStr": "9/2/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PATIO TLAXCALA",
+    "nombre": "CRISTIAN EDI SALDAÑA CUAMATZI",
+    "ventas": 5,
+    "logro": 40,
+    "fechaStr": "19/8/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PATIO TLAXCALA",
+    "nombre": "VALERIA FERNANDA MONCAYO TEOMITZI",
+    "ventas": 2,
+    "logro": 16,
+    "fechaStr": "13/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PATIO TLAXCALA",
+    "nombre": "YESICA ERIKA HERNANDEZ HERNANDEZ",
+    "ventas": 1,
+    "logro": 8,
+    "fechaStr": "25/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PATIO TLAXCALA",
+    "nombre": "YEZMANI TLILAYATZI ROMANO",
+    "ventas": 6,
+    "logro": 48,
+    "fechaStr": "30/9/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PLAZA ASESORES PUE",
+    "nombre": "ALONDRA VELASCO YLLANES",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "2/2/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PLAZA ASESORES PUE",
+    "nombre": "DANIEL NAVA PALACIOS",
+    "ventas": 3,
+    "logro": 39.5,
+    "fechaStr": "23/11/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PLAZA ASESORES PUE",
+    "nombre": "GEORGINA PEREZ LARA",
+    "ventas": 4,
+    "logro": 52.6,
+    "fechaStr": "1/7/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PLAZA ASESORES PUE",
+    "nombre": "LEONOR VICTORIA ROMERO MEJIA",
+    "ventas": 2,
+    "logro": 26.3,
+    "fechaStr": "7/9/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PLAZA SAN DIEGO PUE",
+    "nombre": "ALINE LUYANDO FRIAS",
+    "ventas": 5,
+    "logro": 32.4,
+    "fechaStr": "5/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PLAZA SAN DIEGO PUE",
+    "nombre": "ANAKAREN ZEMPOALTECATL COATL",
+    "ventas": 4,
+    "logro": 25.9,
+    "fechaStr": "27/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PLAZA SAN DIEGO PUE",
+    "nombre": "ARMANDO VALERIO MENDEZ",
+    "ventas": 6,
+    "logro": 38.8,
+    "fechaStr": "9/10/2017",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PLAZA SAN DIEGO PUE",
+    "nombre": "DAVID MICHEL CHERLIN GARCIA",
+    "ventas": 10,
+    "logro": 64.7,
+    "fechaStr": "28/2/2018",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PLAZA SAN DIEGO PUE",
+    "nombre": "ERICK GENARO PEREZ VIDAL",
+    "ventas": 5,
+    "logro": 32.4,
+    "fechaStr": "5/3/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PLAZA SAN DIEGO PUE",
+    "nombre": "FERNANDO CHAVEZ CALDERON",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "9/6/2019",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PLAZA SAN DIEGO PUE",
+    "nombre": "GUILLERMO ADRIEL PALMA HERRERA",
+    "ventas": 8,
+    "logro": 51.8,
+    "fechaStr": "13/7/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PLAZA SAN DIEGO PUE",
+    "nombre": "JESUS ALBERTO DELFIN RODRIGUEZ",
+    "ventas": 5,
+    "logro": 32.4,
+    "fechaStr": "6/3/2023",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PLAZA SAN DIEGO PUE",
+    "nombre": "JOSE DANIEL OROZCO RODRIGUEZ",
+    "ventas": 6,
+    "logro": 38.8,
+    "fechaStr": "16/3/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PLAZA SAN DIEGO PUE",
+    "nombre": "LEONEL ROMERO LOPEZ",
+    "ventas": 4,
+    "logro": 25.9,
+    "fechaStr": "22/5/2022",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PLAZA SAN DIEGO PUE",
+    "nombre": "OSCAR BUSTAMANTE GARCIA",
+    "ventas": 5,
+    "logro": 32.4,
+    "fechaStr": "8/2/2018",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PLAZA SANTA JULIA APIZACO TLAXCALA PUE",
+    "nombre": "ALEJANDRO RAMIREZ HERNANDEZ",
+    "ventas": 7,
+    "logro": 64.6,
+    "fechaStr": "24/4/2022",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PLAZA SANTA JULIA APIZACO TLAXCALA PUE",
+    "nombre": "DANIELA LUNA REYNA",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "23/12/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PLAZA SANTA JULIA APIZACO TLAXCALA PUE",
+    "nombre": "EDWIN JARET MENDEZ ROMERO",
+    "ventas": 7,
+    "logro": 64.6,
+    "fechaStr": "4/12/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PLAZA SANTA JULIA APIZACO TLAXCALA PUE",
+    "nombre": "MARIA VIRGINIA VELAZQUEZ BERNARDINO",
+    "ventas": 2,
+    "logro": 18.5,
+    "fechaStr": "23/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PLAZA SANTA JULIA APIZACO TLAXCALA PUE",
+    "nombre": "MELANIE LIZZETH HERNANDEZ PEREZ",
+    "ventas": 5,
+    "logro": 46.2,
+    "fechaStr": "24/10/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP PLAZA SANTA JULIA APIZACO TLAXCALA PUE",
+    "nombre": "NANCY NETZAHUAL BELEN",
+    "ventas": 7,
+    "logro": 64.6,
+    "fechaStr": "2/9/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP REFORMA LA PAZ PUE",
+    "nombre": "ABRAHAM MALDONADO RUIZ",
+    "ventas": 11,
+    "logro": 93.9,
+    "fechaStr": "12/9/2021",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP REFORMA LA PAZ PUE",
+    "nombre": "BRAULIO ACA TEXCA",
+    "ventas": 9,
+    "logro": 76.8,
+    "fechaStr": "22/8/2021",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP REFORMA LA PAZ PUE",
+    "nombre": "DANAE MENDEZ DIAZ",
+    "ventas": 9,
+    "logro": 76.8,
+    "fechaStr": "2/6/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP REFORMA LA PAZ PUE",
+    "nombre": "JESICA CUETLACH COLIENTE",
+    "ventas": 1,
+    "logro": 8.5,
+    "fechaStr": "14/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP REFORMA LA PAZ PUE",
+    "nombre": "LIDIA CONCEPCION GARCIA SANTANA",
+    "ventas": 4,
+    "logro": 34.1,
+    "fechaStr": "18/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP REFORMA LA PAZ PUE",
+    "nombre": "LUIS ALBERTO JUAREZ DELGADILLO",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "8/2/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP REFORMA LA PAZ PUE",
+    "nombre": "YAVETH ENOC VALENCIA MORA",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "14/12/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP SAN MARTIN CENTRO",
+    "nombre": "ANGEL FELIPE JUAREZ CONTRERAS",
+    "ventas": 4,
+    "logro": 25,
+    "fechaStr": "16/12/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP SAN MARTIN CENTRO",
+    "nombre": "ARIEL GUTIERREZ LARRAINZAR",
+    "ventas": 1,
+    "logro": 6.3,
+    "fechaStr": "6/1/2026",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP SAN MARTIN CENTRO",
+    "nombre": "DIEGO FLORES MIRON",
+    "ventas": 10,
+    "logro": 62.5,
+    "fechaStr": "6/1/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP SAN MARTIN CENTRO",
+    "nombre": "GABRIELA MORA GONZALEZ",
+    "ventas": 2,
+    "logro": 12.5,
+    "fechaStr": "8/1/2026",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP SAN MARTIN CENTRO",
+    "nombre": "MARIA REBECA MEJIA DE LA CRUZ",
+    "ventas": 14,
+    "logro": 87.5,
+    "fechaStr": "4/7/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP SORIANA HIPER TLAXCALA",
+    "nombre": "AXEL GAEL OROZCO PEREZ",
+    "ventas": 5,
+    "logro": 34.5,
+    "fechaStr": "23/12/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP SORIANA HIPER TLAXCALA",
+    "nombre": "EDGAR CARLOS ZAMORA PELAYO",
+    "ventas": 6,
+    "logro": 41.4,
+    "fechaStr": "4/2/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP SORIANA HIPER TLAXCALA",
+    "nombre": "RENE DANIEL HERNANDEZ SANCHEZ",
+    "ventas": 6,
+    "logro": 41.4,
+    "fechaStr": "30/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXP SORIANA HIPER TLAXCALA",
+    "nombre": "YERAY ADONAI PIEDRAS LIUMA",
+    "ventas": 1,
+    "logro": 6.9,
+    "fechaStr": "29/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXPERTCELL-GRANPLAZASURPUE",
+    "nombre": "ALMA LILIA SERRANO GONZALEZ",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "10/1/2016",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXPERTCELL-GRANPLAZASURPUE",
+    "nombre": "ANDREA AGUIRRE SEVILLA",
+    "ventas": 5,
+    "logro": 38.1,
+    "fechaStr": "14/12/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXPERTCELL-GRANPLAZASURPUE",
+    "nombre": "MARIA MAGDALENA LEAL AMOR",
+    "ventas": 6,
+    "logro": 45.7,
+    "fechaStr": "23/10/2016",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXPERTCELL-GRANPLAZASURPUE",
+    "nombre": "PAOLA BEATRIZ REYES ALVAREZ",
+    "ventas": 3,
+    "logro": 22.9,
+    "fechaStr": "21/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXPERTCELL-GRANPLAZASURPUE",
+    "nombre": "PEDRO BENAVIDES CASTAÑEDA",
+    "ventas": 8,
+    "logro": 61,
+    "fechaStr": "17/8/2014",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXPERTCELL-GRANPLAZASURPUE",
+    "nombre": "SERGIO SIXTO BRUNO GONZALEZ",
+    "ventas": 6,
+    "logro": 45.7,
+    "fechaStr": "21/3/2021",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXPERTCELL-GRANPLAZASURPUE",
+    "nombre": "VIVIANA LEMUS ARRIAGA",
+    "ventas": 14,
+    "logro": 106.7,
+    "fechaStr": "12/12/2013",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXPERTCELL-PLAZASANDIEGOPUE",
+    "nombre": "ABRAHAM GONZALEZ LEAL",
+    "ventas": 11,
+    "logro": 62.9,
+    "fechaStr": "5/10/2023",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXPERTCELL-PLAZASANDIEGOPUE",
+    "nombre": "ISAAC RAFAEL ZAVALA DE LA HUERTA",
+    "ventas": 10,
+    "logro": 57.1,
+    "fechaStr": "5/12/2019",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXPERTCELL-PLAZASANDIEGOPUE",
+    "nombre": "NOHEMI SUSANA CUAYA PAJARO",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "11/12/2022",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "EXPERTCELL-PLAZASANDIEGOPUE",
+    "nombre": "PERLA CUAUTLE AZCATL",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "28/4/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "SORIANA HIPER",
+    "nombre": "ALONSO AARON MUÑOZ RIVERA",
+    "ventas": 9,
+    "logro": 60,
+    "fechaStr": "9/11/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "SORIANA HIPER",
+    "nombre": "DAFNE ALEXA SANCHEZ CORTES",
+    "ventas": 7,
+    "logro": 46.7,
+    "fechaStr": "27/7/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "SORIANA HIPER",
+    "nombre": "MOISES JONATHAN RODRIGUEZ ACOCAL",
+    "ventas": 2,
+    "logro": 13.3,
+    "fechaStr": "25/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "5.-SUR - PUE",
+    "tienda": "SORIANA HIPER",
+    "nombre": "RICARDO LOPEZ TOBON",
+    "ventas": 4,
+    "logro": 26.7,
+    "fechaStr": "14/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP EL MIRADOR VER",
+    "nombre": "ALFREDO ALEJANDRO ESPEJO VAZQUEZ",
+    "ventas": 8,
+    "logro": 1.3,
+    "fechaStr": "9/11/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP EL MIRADOR VER",
+    "nombre": "ELISAHY ANELL OLARTE",
+    "ventas": 1,
+    "logro": 16.7,
+    "fechaStr": "16/12/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP EL MIRADOR VER",
+    "nombre": "FRANCISCO ALARCON ALEMAN",
+    "ventas": 4,
+    "logro": 66.7,
+    "fechaStr": "11/1/2026",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP EL MIRADOR VER",
+    "nombre": "JAQUELINE GUZMAN MENDEZ",
+    "ventas": 2,
+    "logro": 33.3,
+    "fechaStr": "30/11/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP EL MIRADOR VER",
+    "nombre": "JORGE ARTURO CRUZ PAZ",
+    "ventas": 5,
+    "logro": 83.3,
+    "fechaStr": "18/11/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP ISLA BELLA VER",
+    "nombre": "ARTURO IGNACIO SANCHEZ GONZALEZ",
+    "ventas": 5,
+    "logro": 50,
+    "fechaStr": "16/9/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP ISLA BELLA VER",
+    "nombre": "BENITO RODRIGUEZ DOMINGUEZ",
+    "ventas": 4,
+    "logro": 40,
+    "fechaStr": "18/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP ISLA BELLA VER",
+    "nombre": "GUSTAVO ANGEL GARCIA VAZQUEZ",
+    "ventas": 2,
+    "logro": 20,
+    "fechaStr": "27/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP ISLA BELLA VER",
+    "nombre": "PAOLA MARCELA PEREA AZUA",
+    "ventas": 2,
+    "logro": 20,
+    "fechaStr": "16/9/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP ISLA BELLA VER",
+    "nombre": "ZULEM ROJAS PEREZ",
+    "ventas": 2,
+    "logro": 20,
+    "fechaStr": "20/3/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP KSK PATIO TEJERIA VER",
+    "nombre": "MIGUEL ANGEL JIMENEZ BARRERA",
+    "ventas": 3,
+    "logro": 40,
+    "fechaStr": "20/2/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP KSK PATIO TEJERIA VER",
+    "nombre": "MIGUEL ANGEL REYNOSO RAMOS",
+    "ventas": 4,
+    "logro": 53.3,
+    "fechaStr": "13/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP MARIO MOLINA VER",
+    "nombre": "FELIPE COBOS MORALES",
+    "ventas": 4,
+    "logro": 26.7,
+    "fechaStr": "2/12/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP MARIO MOLINA VER",
+    "nombre": "MAGDALY RAMOS VILLACORTA",
+    "ventas": 1,
+    "logro": 6.7,
+    "fechaStr": "6/1/2026",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP MARIO MOLINA VER",
+    "nombre": "MAURA NALLELY GONZALEZ SALAZAR",
+    "ventas": 3,
+    "logro": 20,
+    "fechaStr": "4/11/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP PLAZA AMERICAS VER",
+    "nombre": "ALFREDO GONZALEZ MONTES",
+    "ventas": 3,
+    "logro": 18.8,
+    "fechaStr": "11/9/2022",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP PLAZA AMERICAS VER",
+    "nombre": "DAVID RIVAS GONZALEZ",
+    "ventas": 3,
+    "logro": 18.8,
+    "fechaStr": "11/9/2022",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP PLAZA AMERICAS VER",
+    "nombre": "GERARDO ALONSO ZARATE MESA",
+    "ventas": 0,
+    "logro": 0,
+    "fechaStr": "29/1/2026",
+    "esNuevo": true
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP PLAZA AMERICAS VER",
+    "nombre": "JOSE GUADALUPE HERNANDEZ GARCIA",
+    "ventas": 5,
+    "logro": 31.3,
+    "fechaStr": "14/2/2021",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP PLAZA AMERICAS VER",
+    "nombre": "SANDRA PAULINA ESCALONA JIMENEZ",
+    "ventas": 4,
+    "logro": 25,
+    "fechaStr": "16/9/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP PORTAL CENTRO VERACRUZ",
+    "nombre": "ALEJANDRO VALDOVINOS VALENCIA",
+    "ventas": 5,
+    "logro": 27.8,
+    "fechaStr": "18/11/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP PORTAL CENTRO VERACRUZ",
+    "nombre": "ESTELA CANO GONZALEZ",
+    "ventas": 5,
+    "logro": 27.8,
+    "fechaStr": "7/12/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP PORTAL CENTRO VERACRUZ",
+    "nombre": "JOSE LUIS VAZQUEZ PEÑA",
+    "ventas": 4,
+    "logro": 22.2,
+    "fechaStr": "28/1/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP PORTAL CENTRO VERACRUZ",
+    "nombre": "LIZBETH AGUILAR DOMINGO",
+    "ventas": 11,
+    "logro": 61.1,
+    "fechaStr": "6/8/2023",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXP PORTAL CENTRO VERACRUZ",
+    "nombre": "OLIVER DE JESUS LOPEZ JIMENEZ",
+    "ventas": 7,
+    "logro": 38.9,
+    "fechaStr": "12/11/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXPERTCELL-PLAZACRYSTALVER",
+    "nombre": "ANDRIK JOVANI PEREZ GARCIA",
+    "ventas": 8,
+    "logro": 53.3,
+    "fechaStr": "9/8/2023",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXPERTCELL-PLAZACRYSTALVER",
+    "nombre": "JORGE LUIS HERNANDEZ BARRON",
+    "ventas": 9,
+    "logro": 60,
+    "fechaStr": "27/2/2022",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXPERTCELL-PLAZACRYSTALVER",
+    "nombre": "PABLO DE JESUS VELASCO REYES",
+    "ventas": 11,
+    "logro": 73.3,
+    "fechaStr": "23/9/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXPERTCELL-PLAZACRYSTALVER",
+    "nombre": "TADEO GUADALUPE SANCHEZ TORRES",
+    "ventas": 7,
+    "logro": 46.7,
+    "fechaStr": "12/1/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXPPLAZAVALLEORI",
+    "nombre": "CARLOS OMAR GUTIERREZ PRIEGO",
+    "ventas": 6,
+    "logro": 33.3,
+    "fechaStr": "13/4/2018",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXPPLAZAVALLEORI",
+    "nombre": "ESPERANZA MELO PEREZ",
+    "ventas": 8,
+    "logro": 44.4,
+    "fechaStr": "5/11/2023",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXPPLAZAVALLEORI",
+    "nombre": "GABRIELA GARCIA GONZALEZ",
+    "ventas": 7,
+    "logro": 38.9,
+    "fechaStr": "11/6/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXPPLAZAVALLEORI",
+    "nombre": "GUADALUPE ESCAMILLA MARTINEZ",
+    "ventas": 5,
+    "logro": 27.8,
+    "fechaStr": "17/7/2008",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXPPLAZAVALLEORI",
+    "nombre": "MARICARMEN GOMEZ SUMOHANO",
+    "ventas": 6,
+    "logro": 33.3,
+    "fechaStr": "13/8/2024",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "EXPPLAZAVALLEORI",
+    "nombre": "NANCY ABREGO BALDERAS",
+    "ventas": 7,
+    "logro": 38.9,
+    "fechaStr": "12/10/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "ORIENTE 6 CENTRO",
+    "nombre": "AMERICA ARRIETA FALCÓN",
+    "ventas": 6,
+    "logro": 40.5,
+    "fechaStr": "17/8/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "ORIENTE 6 CENTRO",
+    "nombre": "ANEL GUERRERO BARRADAS",
+    "ventas": 5,
+    "logro": 33.8,
+    "fechaStr": "7/7/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "ORIENTE 6 CENTRO",
+    "nombre": "JUAN MARTINEZ MORALES",
+    "ventas": 3,
+    "logro": 20.3,
+    "fechaStr": "12/6/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "ORIENTE 6 CENTRO",
+    "nombre": "MAIRA ANGELICA TEJEDA CORONA",
+    "ventas": 2,
+    "logro": 13.5,
+    "fechaStr": "20/4/2025",
+    "esNuevo": false
+  },
+  {
+    "reg": "5.-SUR - VER",
+    "tienda": "ORIENTE 6 CENTRO",
+    "nombre": "STEFANIA SOLANO MENDEZ",
+    "ventas": 1,
+    "logro": 6.8,
+    "fechaStr": "4/12/2022",
+    "esNuevo": false
+  }
+]
