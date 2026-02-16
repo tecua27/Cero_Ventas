@@ -8,14 +8,14 @@
     <style>
         :root { 
             --sidebar-width: 280px; 
-            --primary-dark: #0f192a; 
-            --verde-pasto: #7CB342; /* Nuevo color Verde Pasto */
+            --primary-dark: #0f172a; 
+            --verde-pasto: #7CB342; 
             --accent-green: #50E094; 
             --danger-bold: #ef4444; 
         }
 
-        /* Fondo no tan blanco (Gris perla suave) */
-        body { background-color: #bddad0; font-family: 'Segoe UI', sans-serif; }
+        /* Fondo gris perla suave */
+        body { background-color: #f4f7f6; font-family: 'Segoe UI', sans-serif; }
         
         #login-screen {
             position: fixed; top: 0; left: 0; width: 100%; height: 100%;
@@ -29,13 +29,13 @@
         .kpi-card { border: none; border-radius: 12px; padding: 1.2rem; background: white; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
         .glass-card { background: white; border-radius: 16px; border: 1px solid #e2e8f0; padding: 1.5rem; margin-bottom: 2rem; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05); }
         
-        /* Badge con el nuevo verde pasto */
-        .badge-new { background: #e8f5e9; color: var(--verde-pasto); padding: 3px 7px; border-radius: 6px; font-size: 0.65rem; font-weight: bold; border: 1px solid var(--verde-pasto); }
+        .badge-new { background: #f1f8e9; color: var(--verde-pasto); padding: 3px 7px; border-radius: 6px; font-size: 0.65rem; font-weight: bold; border: 1px solid var(--verde-pasto); }
         .scrollable { max-height: 400px; overflow-y: auto; }
         
         .btn-primary { background-color: var(--accent-green); border-color: var(--accent-green); color: #0f172a; font-weight: bold; }
         .btn-primary:hover { background-color: #3ab578; border-color: #3ab578; color: white; }
         .bg-success { background-color: var(--accent-green) !important; color: #0f172a !important; font-weight: bold; }
+        .table thead { background: #f8faf9; }
     </style>
 </head>
 <body>
@@ -53,21 +53,22 @@
 <div id="dashboard-view" style="display:none">
     <div class="sidebar">
         <div class="text-center mb-5">
-            <h5 class="fw-bold">EXPERTCELL</h5>
+            <h5 class="fw-bold text-white">EXPERTCELL</h5>
             <div id="userRole" class="badge bg-success small mb-2 text-wrap">Cargando...</div>
         </div>
         
         <div id="filterControls">
             <label>REGIÓN</label>
-            <select id="selRegion" class="form-select bg-dark text-white border-0 mb-4" onchange="actualizarTiendas()"></select>
+            <select id="selRegion" class="form-select bg-dark text-white border-0 mb-4 shadow-none" onchange="actualizarTiendas()"></select>
             <label>TIENDA</label>
-            <select id="selTienda" class="form-select bg-dark text-white border-0 mb-3" onchange="renderizar()"></select>
-                <div class="mt-5 p-2" style="border-left: 3px solid var(--accent-green); background: rgba(255,255,255,0.05);">
-                    <label class="small"><b>Avance al 12 / 02 / 2026</b></label>
+            <select id="selTienda" class="form-select bg-dark text-white border-0 mb-3 shadow-none" onchange="renderizar()"></select>
+
+            <div class="mt-4 p-2" style="background: rgba(249, 246, 246, 0.05); border-radius: 8px; border-left: 3px solid var(--accent-green);">
+                <div id="fechaCorte" class="fw-bold" style="font-size: 0.9rem; color: var(--accent-green);">
+                    Avance al 12 / 02 / 2026
                 </div>
+            </div>
         </div>
-        
-       <!-- <button onclick="location.reload()">Cerrar Sesión</button>-->
     </div>
 
     <div class="main-content">
@@ -87,7 +88,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="glass-card">
-                    <h6 class="fw-bold text-primary mb-3">Ranking de Desempeño</h6>
+                    <h6 class="fw-bold mb-3" style="color: var(--primary-dark);">Ranking de Desempeño</h6>
                     <div class="scrollable"><table class="table table-hover table-sm small"><thead><tr><th>NOMBRE</th><th>VENTAS</th><th>LOGRO</th><th>ESTADO</th></tr></thead><tbody id="listaGeneral"></tbody></table></div>
                 </div>
             </div>
@@ -98,24 +99,10 @@
 
 <script>
     const ACCESS_MAP = {
-        "julian": ["TODAS"],
-        "az": ["TODAS"],  
-        "yara": ["TODAS"], 
-        "blanca": ["TODAS"],
-        "moises": ["1.-CENTRO-CDMX"], 
-        "juan": ["5.-SUR - VER"],
-        "yesenia": ["2.-BAJA-NOR MXI / SLRC", "2.-BAJA-NOR TIJ / ENS"],
-        "jorge": ["3.-NORTE"], 
-        "saryali": ["5.-SUR - PUE"], 
-        "german": ["4.-PACIFICO - BAJIO"], 
-        "aego": ["1.-CENTRO-CDMX", "3.-NORTE","2.-BAJA-NOR TIJ / ENS","4.-PACIFICO - BAJIO"],
-        "liliana":["5.-SUR - VER","5.-SUR - PUE"],
-        "bonilla":["5.-SUR - PUE"],
-        "itsel":["5.-SUR - VER"],
-        "damrys":["2.-BAJA-NOR TIJ / ENS"],
-        "perla":["3.-NORTE"],
-        "keyla":["3.-NORTE"],
-        "mariana":["1.-CENTRO-CDMX"]
+        "julian": ["TODAS"], "yara": ["TODAS"], "blanca": ["TODAS"],
+        "moises": ["1.-CENTRO-CDMX"], "juan": ["5.-SUR - VER"],
+        "yesenia": ["1.-CENTRO-CDMX", "5.-SUR - VER"],
+        "jorge": ["3.-NORTE"], "saryali": ["5.-SUR - PUE"], "german": ["4.-PACIFICO - BAJIO"]
     };
 
     let rawData = [];
@@ -180,11 +167,52 @@
             data: {
                 labels: data.map(d => d.nombre),
                 datasets: [
-                    { type: 'bar', label: 'Ventas', data: data.map(d => d.ventas), backgroundColor: data.map(d => d.ventas === 0 ? '#ef4444' : (d.esNuevo ? '#7CB342' : '#0f172a')), yAxisID: 'y', borderRadius: 5 },
-                    { type: 'line', label: '% Logro', data: data.map(d => d.logro), borderColor: '#50E094', borderWidth: 2, yAxisID: 'y1', tension: 0.2 }
+                    { 
+                        type: 'bar', 
+                        label: 'Ventas Reales', 
+                        data: data.map(d => d.ventas), 
+                        backgroundColor: data.map(d => d.ventas === 0 ? '#ef4444' : (d.esNuevo ? '#7CB342' : '#50E094')), 
+                        yAxisID: 'y', 
+                        borderRadius: 5 
+                    },
+                    { 
+                        type: 'line', 
+                        label: '% Logro', 
+                        data: data.map(d => d.logro), 
+                        borderColor: '#0f172a', 
+                        borderWidth: 2, 
+                        yAxisID: 'y1', 
+                        tension: 0.3,
+                        pointBackgroundColor: '#0f172a',
+                        pointRadius: 4
+                    }
                 ]
             },
-            options: { responsive: true, maintainAspectRatio: false, scales: { y: { position: 'left' }, y1: { position: 'right', min: 0, max: 130 } } }
+            options: { 
+                responsive: true, 
+                maintainAspectRatio: false, 
+                scales: { 
+                    y: { 
+                        position: 'left',
+                        grid: { color: '#eef2f1' },
+                        ticks: { color: '#94a3b8' }
+                    }, 
+                    y1: { 
+                        position: 'right', 
+                        min: 0, 
+                        max: 130,
+                        grid: { display: false },
+                        ticks: { color: '#94a3b8' }
+                    },
+                    x: {
+                        grid: { display: false },
+                        ticks: { color: '#94a3b8', font: { size: 10 } }
+                    }
+                },
+                plugins: {
+                    legend: { position: 'bottom', labels: { boxWidth: 12, padding: 20, font: { size: 12 } } }
+                }
+            }
         });
     }
 </script>
