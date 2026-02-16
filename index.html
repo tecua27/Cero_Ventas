@@ -2,39 +2,75 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>ExpertCell - Dashboard Público</title>
+    <title>ExpertCell - Dashboard Corporativo</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
-        :root { --sidebar-width: 280px; --primary-dark: #0f172a; --accent-blue: #3b82f6; }
-        body { background-color: #f1f5f9; font-family: 'Segoe UI', sans-serif; }
+        :root { 
+            --sidebar-width: 280px; 
+            --primary-dark: #0f192a; 
+            --verde-pasto: #7CB342; /* Nuevo color Verde Pasto */
+            --accent-green: #50E094; 
+            --danger-bold: #ef4444; 
+        }
+
+        /* Fondo no tan blanco (Gris perla suave) */
+        body { background-color: #bddad0; font-family: 'Segoe UI', sans-serif; }
+        
+        #login-screen {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: var(--primary-dark); z-index: 9999;
+            display: flex; align-items: center; justify-content: center; color: white;
+        }
+
         .sidebar { width: var(--sidebar-width); height: 100vh; position: fixed; background: var(--primary-dark); color: white; padding: 2rem 1.2rem; z-index: 100; }
         .main-content { margin-left: var(--sidebar-width); padding: 2.5rem; }
+        
         .kpi-card { border: none; border-radius: 12px; padding: 1.2rem; background: white; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
-        .glass-card { background: white; border-radius: 16px; border: 1px solid #e2e8f0; padding: 1.5rem; margin-bottom: 2rem; }
-        .badge-new { background: #fef3c7; color: #92400e; padding: 3px 7px; border-radius: 6px; font-size: 0.65rem; font-weight: bold; }
+        .glass-card { background: white; border-radius: 16px; border: 1px solid #e2e8f0; padding: 1.5rem; margin-bottom: 2rem; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05); }
+        
+        /* Badge con el nuevo verde pasto */
+        .badge-new { background: #e8f5e9; color: var(--verde-pasto); padding: 3px 7px; border-radius: 6px; font-size: 0.65rem; font-weight: bold; border: 1px solid var(--verde-pasto); }
         .scrollable { max-height: 400px; overflow-y: auto; }
+        
+        .btn-primary { background-color: var(--accent-green); border-color: var(--accent-green); color: #0f172a; font-weight: bold; }
+        .btn-primary:hover { background-color: #3ab578; border-color: #3ab578; color: white; }
+        .bg-success { background-color: var(--accent-green) !important; color: #0f172a !important; font-weight: bold; }
     </style>
 </head>
 <body>
 
-<div class="sidebar">
-    <div class="text-center mb-5">
-        <h5 class="fw-bold">EXPERTCELL</h5>
-        <div class="badge bg-primary">Administración de Ventas</div>
-    </div>
-    <div id="filterControls">
-        <label class="form-label small fw-bold text-muted">REGIÓN</label>
-        <select id="selRegion" class="form-select bg-dark text-white border-0 mb-4" onchange="actualizarTiendas()"></select>
-        <label class="form-label small fw-bold text-muted">TIENDA</label>
-        <select id="selTienda" class="form-select bg-dark text-white border-0" onchange="renderizar()"></select>
+<div id="login-screen">
+    <div class="text-center" style="max-width: 350px; width: 90%;">
+        <h2 class="fw-bold mb-4" style="color: var(--accent-green);">EXPERTCELL</h2>
+        <p>Ingresa tu contraseña de acceso regional</p>
+        <input type="password" id="passInput" class="form-control form-control-lg bg-dark text-white border-secondary mb-3" placeholder="Contraseña">
+        <button class="btn btn-primary btn-lg w-100" onclick="validateAccess()">Entrar al Sistema</button>
+        <div id="loginError" class="text-danger mt-3 small" style="display:none">Contraseña incorrecta.</div>
     </div>
 </div>
 
-<div class="main-content">
-    <div id="loading" class="text-center py-5"><h3 class="text-muted">Cargando información...</h3></div>
+<div id="dashboard-view" style="display:none">
+    <div class="sidebar">
+        <div class="text-center mb-5">
+            <h5 class="fw-bold">EXPERTCELL</h5>
+            <div id="userRole" class="badge bg-success small mb-2 text-wrap">Cargando...</div>
+        </div>
+        
+        <div id="filterControls">
+            <label>REGIÓN</label>
+            <select id="selRegion" class="form-select bg-dark text-white border-0 mb-4" onchange="actualizarTiendas()"></select>
+            <label>TIENDA</label>
+            <select id="selTienda" class="form-select bg-dark text-white border-0 mb-3" onchange="renderizar()"></select>
+                <div class="mt-5 p-2" style="border-left: 3px solid var(--accent-green); background: rgba(255,255,255,0.05);">
+                    <label class="small"><b>Avance al 12 / 02 / 2026</b></label>
+                </div>
+        </div>
+        
+       <!-- <button onclick="location.reload()">Cerrar Sesión</button>-->
+    </div>
 
-    <div id="content" style="display:none">
+    <div class="main-content">
         <div class="row g-3 mb-4">
             <div class="col-md-3"><div class="kpi-card border-start border-primary border-4"><div class="text-muted small">EJECUTIVOS</div><div class="h4 fw-bold" id="kpiTotal">0</div></div></div>
             <div class="col-md-3"><div class="kpi-card border-start border-danger border-4"><div class="text-danger small">CERO VENTAS</div><div class="h4 fw-bold text-danger" id="kpiCeros">0</div></div></div>
@@ -46,40 +82,73 @@
             <div class="col-lg-6">
                 <div class="glass-card">
                     <h6 class="fw-bold text-danger mb-3">🚨 Alerta: Sin Ventas</h6>
-                    <div class="scrollable"><table class="table table-sm small"><thead class="text-muted"><tr><th>NOMBRE</th><th>TIENDA</th><th>INGRESO</th></tr></thead><tbody id="listaCeros"></tbody></table></div>
+                    <div class="scrollable"><table class="table table-sm small"><thead><tr><th>NOMBRE</th><th>TIENDA</th><th>INGRESO</th></tr></thead><tbody id="listaCeros"></tbody></table></div>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="glass-card">
-                    <h6 class="fw-bold text-primary mb-3">Ranking Detallado</h6>
-                    <div class="scrollable"><table class="table table-hover table-sm small align-middle"><thead class="text-muted"><tr><th>NOMBRE</th><th>VENTAS</th><th>LOGRO</th><th>ESTADO</th></tr></thead><tbody id="listaGeneral"></tbody></table></div>
+                    <h6 class="fw-bold text-primary mb-3">Ranking de Desempeño</h6>
+                    <div class="scrollable"><table class="table table-hover table-sm small"><thead><tr><th>NOMBRE</th><th>VENTAS</th><th>LOGRO</th><th>ESTADO</th></tr></thead><tbody id="listaGeneral"></tbody></table></div>
                 </div>
             </div>
         </div>
-        <div class="row"><div class="col-12"><div class="glass-card"><canvas id="mainChart" height="400"></canvas></div></div></div>
+        <div class="row"><div class="col-12"><div class="glass-card"><canvas id="mainChart" height="450"></canvas></div></div></div>
     </div>
 </div>
 
 <script>
+    const ACCESS_MAP = {
+        "julian": ["TODAS"],
+        "az": ["TODAS"],  
+        "yara": ["TODAS"], 
+        "blanca": ["TODAS"],
+        "moises": ["1.-CENTRO-CDMX"], 
+        "juan": ["5.-SUR - VER"],
+        "yesenia": ["2.-BAJA-NOR MXI / SLRC", "2.-BAJA-NOR TIJ / ENS"],
+        "jorge": ["3.-NORTE"], 
+        "saryali": ["5.-SUR - PUE"], 
+        "german": ["4.-PACIFICO - BAJIO"], 
+        "aego": ["1.-CENTRO-CDMX", "3.-NORTE","2.-BAJA-NOR TIJ / ENS","4.-PACIFICO - BAJIO"],
+        "liliana":["5.-SUR - VER","5.-SUR - PUE"],
+        "bonilla":["5.-SUR - PUE"],
+        "itsel":["5.-SUR - VER"],
+        "damrys":["2.-BAJA-NOR TIJ / ENS"],
+        "perla":["3.-NORTE"],
+        "keyla":["3.-NORTE"],
+        "mariana":["1.-CENTRO-CDMX"]
+    };
+
     let rawData = [];
     let myChart = null;
+    let userRegionsPermitted = [];
 
-    // CARGA DESDE EL ARCHIVO JSON EXTERNO
-    async function fetchData() {
-        try {
-            const response = await fetch('datos.json');
-            rawData = await response.json();
-            document.getElementById('loading').style.display = 'none';
-            document.getElementById('content').style.display = 'block';
-            initFilters();
-        } catch (error) {
-            document.getElementById('loading').innerHTML = '<h3 class="text-danger">Error al cargar datos.json</h3>';
+    async function validateAccess() {
+        const pass = document.getElementById('passInput').value;
+        if (ACCESS_MAP[pass]) {
+            userRegionsPermitted = ACCESS_MAP[pass];
+            document.getElementById('login-screen').style.display = 'none';
+            document.getElementById('dashboard-view').style.display = 'block';
+            document.getElementById('userRole').innerText = userRegionsPermitted.includes("TODAS") ? "ACCESO TOTAL" : "MULTI-REGIÓN";
+            fetchData();
+        } else {
+            document.getElementById('loginError').style.display = 'block';
         }
     }
 
+    async function fetchData() {
+        try {
+            const response = await fetch('datos.json');
+            const fullData = await response.json();
+            rawData = userRegionsPermitted.includes("TODAS") ? fullData : fullData.filter(d => userRegionsPermitted.includes(d.reg));
+            initFilters();
+        } catch (error) { console.error("Error", error); }
+    }
+
     function initFilters() {
-        const regs = ['TODAS', ...new Set(rawData.map(d => d.reg))];
-        document.getElementById('selRegion').innerHTML = regs.map(r => `<option value="${r}">${r}</option>`).join('');
+        const regs = userRegionsPermitted.includes("TODAS") ? ['TODAS', ...new Set(rawData.map(d => d.reg))] : (userRegionsPermitted.length > 1 ? ['TODAS', ...userRegionsPermitted] : userRegionsPermitted);
+        const selReg = document.getElementById('selRegion');
+        selReg.innerHTML = regs.map(r => `<option value="${r}">${r}</option>`).join('');
+        if (userRegionsPermitted.length === 1 && !userRegionsPermitted.includes("TODAS")) selReg.disabled = true;
         actualizarTiendas();
     }
 
@@ -102,15 +171,8 @@
         document.getElementById('kpiBajos').innerText = data.filter(d => d.logro < 60 && d.ventas > 0).length;
         document.getElementById('kpiNuevos').innerText = data.filter(d => d.esNuevo).length;
 
-        document.getElementById('listaCeros').innerHTML = data.filter(d => d.ventas === 0).map(d => `
-            <tr class="table-danger"><td>${d.nombre}</td><td>${d.tienda}</td><td>${d.fechaStr}</td></tr>
-        `).join('') || '<tr><td colspan="3" class="text-center">Sin incidencias</td></tr>';
-        
-        document.getElementById('listaGeneral').innerHTML = data.map(d => `
-            <tr><td><b>${d.nombre}</b><br><small>${d.tienda}</small></td><td class="text-center">${d.ventas}</td>
-            <td class="text-center ${d.logro < 60 ? 'text-danger fw-bold' : ''}">${d.logro}%</td>
-            <td class="text-center">${d.esNuevo ? '<span class="badge-new">NUEVO</span>' : ''}</td></tr>
-        `).join('');
+        document.getElementById('listaCeros').innerHTML = data.filter(d => d.ventas === 0).map(d => `<tr class="table-danger"><td>${d.nombre}</td><td>${d.tienda}</td><td>${d.fechaStr}</td></tr>`).join('') || '<tr><td colspan="3" class="text-center py-3 text-muted">Sin incidencias</td></tr>';
+        document.getElementById('listaGeneral').innerHTML = data.map(d => `<tr><td><b>${d.nombre}</b><br><small>${d.tienda}</small></td><td class="text-center fw-bold">${d.ventas}</td><td class="text-center ${d.logro < 60 ? 'text-danger fw-bold' : ''}">${d.logro}%</td><td class="text-center">${d.esNuevo ? '<span class="badge-new">NUEVO</span>' : ''}</td></tr>`).join('');
 
         const ctx = document.getElementById('mainChart').getContext('2d');
         if (myChart) myChart.destroy();
@@ -118,16 +180,13 @@
             data: {
                 labels: data.map(d => d.nombre),
                 datasets: [
-                    { type: 'bar', label: 'Ventas', data: data.map(d => d.ventas), backgroundColor: data.map(d => d.ventas === 0 ? '#ef4444' : (d.esNuevo ? '#f59e0b' : '#3b82f6')), yAxisID: 'y' },
-                    { type: 'line', label: '% Logro', data: data.map(d => d.logro), borderColor: '#0f172a', borderWidth: 2, yAxisID: 'y1', tension: 0.2 }
+                    { type: 'bar', label: 'Ventas', data: data.map(d => d.ventas), backgroundColor: data.map(d => d.ventas === 0 ? '#ef4444' : (d.esNuevo ? '#7CB342' : '#0f172a')), yAxisID: 'y', borderRadius: 5 },
+                    { type: 'line', label: '% Logro', data: data.map(d => d.logro), borderColor: '#50E094', borderWidth: 2, yAxisID: 'y1', tension: 0.2 }
                 ]
             },
             options: { responsive: true, maintainAspectRatio: false, scales: { y: { position: 'left' }, y1: { position: 'right', min: 0, max: 130 } } }
         });
     }
-
-    window.onload = fetchData;
 </script>
 </body>
-
 </html>
