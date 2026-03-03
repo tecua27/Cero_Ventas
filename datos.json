@@ -3,7 +3,7 @@
     "reg": "1.-CENTRO-CDMX",
     "tienda": "CHEDRAUI EDUARDO MOLINA",
     "nombre": "ALONDRA CARRALES CASTILLA",
-    "ventas": 0,
+    "ventas": 20,
     "logro": 160,
     "fechaStr": "15/12/2025",
     "esNuevo": false
@@ -129,7 +129,7 @@
     "reg": "1.-CENTRO-CDMX",
     "tienda": "EXP CHEDRAUI ANFORA",
     "nombre": "ALEXIS ISAAC NICOLI DIAZ",
-    "ventas": 0,
+    "ventas": 28,
     "logro": 134.4,
     "fechaStr": "19/2/2023",
     "esNuevo": false
@@ -156,7 +156,7 @@
     "reg": "1.-CENTRO-CDMX",
     "tienda": "EXP CHEDRAUI ANFORA",
     "nombre": "JUAN CARLOS JIMENEZ HERNANDEZ",
-    "ventas": 0,
+    "ventas": 23,
     "logro": 110.4,
     "fechaStr": "15/10/2024",
     "esNuevo": false
@@ -228,7 +228,7 @@
     "reg": "1.-CENTRO-CDMX",
     "tienda": "EXP COSMOPOL 2",
     "nombre": "ANA DANIELA RODRIGUEZ MARCIAL",
-    "ventas": 0,
+    "ventas": 13,
     "logro": 65,
     "fechaStr": "11/1/2026",
     "esNuevo": false
@@ -246,7 +246,7 @@
     "reg": "1.-CENTRO-CDMX",
     "tienda": "EXP COSMOPOL 2",
     "nombre": "MA. DE LOS ANGELES SANCHEZ ARZATE",
-    "ventas": 0,
+    "ventas": 20,
     "logro": 100,
     "fechaStr": "2/11/2025",
     "esNuevo": false
@@ -273,7 +273,7 @@
     "reg": "1.-CENTRO-CDMX",
     "tienda": "EXP GALERIAS TOLUCA",
     "nombre": "JUAN CARLOS REZA VILCHIS",
-    "ventas": 0,
+    "ventas": 24,
     "logro": 110.8,
     "fechaStr": "14/5/2023",
     "esNuevo": false
@@ -309,7 +309,7 @@
     "reg": "1.-CENTRO-CDMX",
     "tienda": "EXP KSK PATIO TEXCOCO",
     "nombre": "DIEGO ANTONIO MUÑOZ GARCIA",
-    "ventas": 0,
+    "ventas": 4,
     "logro": 40,
     "fechaStr": "11/1/2026",
     "esNuevo": false
@@ -354,7 +354,7 @@
     "reg": "1.-CENTRO-CDMX",
     "tienda": "EXP KSK SENDERO IXTAPALUCA",
     "nombre": "JANETTE GUADALUPE GONZALEZ BONILLA",
-    "ventas": 0,
+    "ventas": 35,
     "logro": 164.7,
     "fechaStr": "29/1/2023",
     "esNuevo": false
@@ -390,7 +390,7 @@
     "reg": "1.-CENTRO-CDMX",
     "tienda": "EXP NAUCALPAN",
     "nombre": "RAYMUNDO EFRAIN MEDINA FLORES",
-    "ventas": 0,
+    "ventas": 17,
     "logro": 127.5,
     "fechaStr": "3/4/2025",
     "esNuevo": false
@@ -417,7 +417,7 @@
     "reg": "1.-CENTRO-CDMX",
     "tienda": "EXP PATIO TLALPAN",
     "nombre": "JOSE DANIEL ARENAS HERNANDEZ",
-    "ventas": 0,
+    "ventas": 26,
     "logro": 130,
     "fechaStr": "19/2/2023",
     "esNuevo": false
@@ -426,7 +426,7 @@
     "reg": "1.-CENTRO-CDMX",
     "tienda": "EXP PATIO TLALPAN",
     "nombre": "MADELINE CARPINTEYRO NIEVA",
-    "ventas": 0,
+    "ventas": 16,
     "logro": 80,
     "fechaStr": "6/8/2024",
     "esNuevo": false
@@ -489,7 +489,7 @@
     "reg": "1.-CENTRO-CDMX",
     "tienda": "EXP SENDERO TOLUCA II",
     "nombre": "JOSE IVAN RAMIREZ VALENCIA",
-    "ventas": 0,
+    "ventas": 29,
     "logro": 158.2,
     "fechaStr": "8/7/2025",
     "esNuevo": false
@@ -507,7 +507,7 @@
     "reg": "1.-CENTRO-CDMX",
     "tienda": "EXP SENDERO TOLUCA II",
     "nombre": "LORENA LIZBETH VARGAS SILVA",
-    "ventas": 0,
+    "ventas": 26,
     "logro": 141.8,
     "fechaStr": "21/9/2025",
     "esNuevo": false
@@ -660,7 +660,7 @@
     "reg": "2.-BAJA-NOR MXI / SLRC",
     "tienda": "EXP KSK SENDERO MEXICALI",
     "nombre": "BRANDON DANIEL VALENZUELA MORGA",
-    "ventas": 0,
+    "ventas": 15,
     "logro": 109.1,
     "fechaStr": "23/11/2025",
     "esNuevo": false
@@ -669,7 +669,7 @@
     "reg": "2.-BAJA-NOR MXI / SLRC",
     "tienda": "EXP KSK SENDERO MEXICALI",
     "nombre": "FRANCISCO LUIS AVILES ALAPISCO",
-    "ventas": 0,
+    "ventas": 8,
     "logro": 58.2,
     "fechaStr": "9/2/2026",
     "esNuevo": true
@@ -678,7 +678,7 @@
     "reg": "2.-BAJA-NOR MXI / SLRC",
     "tienda": "EXP KSK SENDERO MEXICALI",
     "nombre": "VIDA ALEJANDRA CAYEROS RODRIGUEZ",
-    "ventas": 0,
+    "ventas": 5,
     "logro": 36.4,
     "fechaStr": "4/2/2026",
     "esNuevo": true
@@ -777,7 +777,7 @@
     "reg": "2.-BAJA-NOR TIJ / ENS",
     "tienda": "EXP JAUJA TIJUANA",
     "nombre": "ANGEL RUBEN PEREZ NOLASCO",
-    "ventas": 0,
+    "ventas": 7,
     "logro": 52.5,
     "fechaStr": "19/1/2026",
     "esNuevo": false
@@ -831,7 +831,7 @@
     "reg": "2.-BAJA-NOR TIJ / ENS",
     "tienda": "EXP PENINSULA TIJUANA",
     "nombre": "MIGUEL ALFONSO AMBRIZ RODRIGUEZ",
-    "ventas": 0,
+    "ventas": 11,
     "logro": 62.5,
     "fechaStr": "14/11/2024",
     "esNuevo": false
@@ -840,7 +840,7 @@
     "reg": "2.-BAJA-NOR TIJ / ENS",
     "tienda": "EXP PENINSULA TIJUANA",
     "nombre": "OSVALDO ALONSO HERNANDEZ MONTAÑO",
-    "ventas": 0,
+    "ventas": 13,
     "logro": 73.9,
     "fechaStr": "27/10/2024",
     "esNuevo": false
@@ -849,7 +849,7 @@
     "reg": "2.-BAJA-NOR TIJ / ENS",
     "tienda": "EXP PENINSULA TIJUANA",
     "nombre": "VICTOR JOEL HERNANDEZ RODRIGUEZ",
-    "ventas": 0,
+    "ventas": 13,
     "logro": 73.9,
     "fechaStr": "24/8/2025",
     "esNuevo": false
@@ -858,7 +858,7 @@
     "reg": "2.-BAJA-NOR TIJ / ENS",
     "tienda": "EXP PLAZA 5 y 10",
     "nombre": "ALEJANDRA MAILYN RIOS TRUJILLO",
-    "ventas": 0,
+    "ventas": 11,
     "logro": 137.5,
     "fechaStr": "6/7/2025",
     "esNuevo": false
@@ -903,7 +903,7 @@
     "reg": "2.-BAJA-NOR TIJ / ENS",
     "tienda": "EXP PUNTO SUR TIJUANA",
     "nombre": "LUIS DANIEL ITURBE MORALES",
-    "ventas": 0,
+    "ventas": 13,
     "logro": 130,
     "fechaStr": "28/9/2025",
     "esNuevo": false
@@ -948,7 +948,7 @@
     "reg": "2.-BAJA-NOR TIJ / ENS",
     "tienda": "EXP SENDERO ENSENADA",
     "nombre": "LINDA YANEL SALGADO ZAMORA",
-    "ventas": 0,
+    "ventas": 13,
     "logro": 78,
     "fechaStr": "2/11/2025",
     "esNuevo": false
@@ -966,7 +966,7 @@
     "reg": "2.-BAJA-NOR TIJ / ENS",
     "tienda": "EXP SENDERO ENSENADA 2",
     "nombre": "BRISA DANIELA DE LOS SANTOS BULBARELA",
-    "ventas": 0,
+    "ventas": 11,
     "logro": 66,
     "fechaStr": "23/11/2025",
     "esNuevo": false
@@ -984,7 +984,7 @@
     "reg": "2.-BAJA-NOR TIJ / ENS",
     "tienda": "EXP SENDERO ENSENADA 2",
     "nombre": "LUIS RICARDO MELENDEZ RODRIGUEZ",
-    "ventas": 0,
+    "ventas": 35,
     "logro": 262.5,
     "fechaStr": "23/11/2025",
     "esNuevo": false
@@ -993,7 +993,7 @@
     "reg": "2.-BAJA-NOR TIJ / ENS",
     "tienda": "EXP TIJUANA",
     "nombre": "ALEXA VALERIA VEGA HIGAREDA",
-    "ventas": 0,
+    "ventas": 12,
     "logro": 48.7,
     "fechaStr": "8/1/2026",
     "esNuevo": false
@@ -1011,7 +1011,7 @@
     "reg": "2.-BAJA-NOR TIJ / ENS",
     "tienda": "EXP TIJUANA",
     "nombre": "GERMAN OLIVER CUADRAS RAMIREZ",
-    "ventas": 0,
+    "ventas": 24,
     "logro": 97.5,
     "fechaStr": "13/3/2022",
     "esNuevo": false
@@ -1038,7 +1038,7 @@
     "reg": "2.-BAJA-NOR TIJ / ENS",
     "tienda": "EXP TIJUANA",
     "nombre": "LEONARDO ROGELIO GAMBOA OTERO",
-    "ventas": 0,
+    "ventas": 22,
     "logro": 89.3,
     "fechaStr": "15/5/2023",
     "esNuevo": false
@@ -1083,7 +1083,7 @@
     "reg": "2.-BAJA-NOR TIJ / ENS",
     "tienda": "EXP TIJUANA PLAZA SENDERO",
     "nombre": "IRVIN JOSHUAN IGNACIO TOSCANO",
-    "ventas": 0,
+    "ventas": 12,
     "logro": 66.7,
     "fechaStr": "30/10/2022",
     "esNuevo": false
@@ -1164,7 +1164,7 @@
     "reg": "3.-NORTE",
     "tienda": "EXP CUMBRES MONTERREY",
     "nombre": "MARCOS GAMALIEL GUTIERREZ RODRIGUEZ",
-    "ventas": 0,
+    "ventas": 9,
     "logro": 56.3,
     "fechaStr": "14/1/2026",
     "esNuevo": false
@@ -1173,7 +1173,7 @@
     "reg": "3.-NORTE",
     "tienda": "EXP GALERIAS MONTERREY",
     "nombre": "ALBERTO RUEDA RODRIGUEZ",
-    "ventas": 0,
+    "ventas": 18,
     "logro": 105.9,
     "fechaStr": "12/6/2025",
     "esNuevo": false
@@ -1200,7 +1200,7 @@
     "reg": "3.-NORTE",
     "tienda": "EXP GALERIAS MONTERREY",
     "nombre": "LUIS ANGEL DE ANDA MATA",
-    "ventas": 0,
+    "ventas": 25,
     "logro": 147.1,
     "fechaStr": "4/8/2025",
     "esNuevo": false
@@ -1227,7 +1227,7 @@
     "reg": "3.-NORTE",
     "tienda": "EXP KSK GALERIAS MONTERREY",
     "nombre": "PAOLA EDITH AVILES AGUILAR",
-    "ventas": 0,
+    "ventas": 38,
     "logro": 95,
     "fechaStr": "3/8/2025",
     "esNuevo": false
@@ -1245,7 +1245,7 @@
     "reg": "3.-NORTE",
     "tienda": "EXP KSK GALERIAS SALTILLO",
     "nombre": "KARLA ARACELI ROSALES JURADO",
-    "ventas": 0,
+    "ventas": 8,
     "logro": 50,
     "fechaStr": "21/12/2025",
     "esNuevo": false
@@ -1281,7 +1281,7 @@
     "reg": "3.-NORTE",
     "tienda": "EXP LA NOGALERA SALTILLO COA",
     "nombre": "MARCO ANTONIO FLORES MORALES",
-    "ventas": 0,
+    "ventas": 9,
     "logro": 120,
     "fechaStr": "2/11/2025",
     "esNuevo": false
@@ -1290,7 +1290,7 @@
     "reg": "3.-NORTE",
     "tienda": "EXP MALL PLAZA LINCOLN",
     "nombre": "JIMENA FELIX OVIEDO",
-    "ventas": 0,
+    "ventas": 2,
     "logro": 17.1,
     "fechaStr": "25/2/2026",
     "esNuevo": true
@@ -1362,7 +1362,7 @@
     "reg": "3.-NORTE",
     "tienda": "EXP PLAZA CONCORDIA",
     "nombre": "EDER MAURICIO MARQUEZ CORREA",
-    "ventas": 0,
+    "ventas": 10,
     "logro": 93.8,
     "fechaStr": "18/1/2026",
     "esNuevo": false
@@ -1389,7 +1389,7 @@
     "reg": "3.-NORTE",
     "tienda": "EXP PZA REAL SALTILLO COA",
     "nombre": "DANIELA ALEJANDRA RODRIGUEZ SILLER",
-    "ventas": 0,
+    "ventas": 3,
     "logro": 27.3,
     "fechaStr": "21/12/2025",
     "esNuevo": false
@@ -1443,7 +1443,7 @@
     "reg": "3.-NORTE",
     "tienda": "EXP SENDERO APODACA",
     "nombre": "MARCO ANTONIO MORENO RIVERA",
-    "ventas": 0,
+    "ventas": 17,
     "logro": 104.9,
     "fechaStr": "18/1/2026",
     "esNuevo": false
@@ -1497,7 +1497,7 @@
     "reg": "3.-NORTE",
     "tienda": "EXP SENDERO ESCOBEDO 2",
     "nombre": "ANDREA SABRINA CASTILLEJA ARIAS",
-    "ventas": 0,
+    "ventas": 52,
     "logro": 208,
     "fechaStr": "19/2/2024",
     "esNuevo": false
@@ -1515,7 +1515,7 @@
     "reg": "3.-NORTE",
     "tienda": "EXP SENDERO ESCOBEDO 2",
     "nombre": "NESTOR DANIEL CAMACHO URIARTE",
-    "ventas": 0,
+    "ventas": 15,
     "logro": 60,
     "fechaStr": "19/8/2025",
     "esNuevo": false
@@ -1524,7 +1524,7 @@
     "reg": "3.-NORTE",
     "tienda": "EXP SENDERO ESCOBEDO NL",
     "nombre": "DIBANHI ALEJANDRA HERNANDEZ GONZALEZ",
-    "ventas": 0,
+    "ventas": 23,
     "logro": 102.7,
     "fechaStr": "19/8/2025",
     "esNuevo": false
@@ -1542,7 +1542,7 @@
     "reg": "3.-NORTE",
     "tienda": "EXP SENDERO ESCOBEDO NL",
     "nombre": "IRVING DANIEL BETANCOURT LUEZA",
-    "ventas": 0,
+    "ventas": 24,
     "logro": 107.1,
     "fechaStr": "7/1/2025",
     "esNuevo": false
@@ -1632,7 +1632,7 @@
     "reg": "3.-NORTE",
     "tienda": "EXP TDA LA PASTORA NL",
     "nombre": "DAVID EMILIO RODRIGUEZ AGUINAGA",
-    "ventas": 0,
+    "ventas": 1,
     "logro": 12.5,
     "fechaStr": "11/2/2026",
     "esNuevo": true
@@ -1650,7 +1650,7 @@
     "reg": "3.-NORTE",
     "tienda": "EXP VALLE SOLEADO NL",
     "nombre": "DENISSE AZBETH COLORADO RAMIREZ",
-    "ventas": 0,
+    "ventas": 23,
     "logro": 102.7,
     "fechaStr": "21/12/2025",
     "esNuevo": false
@@ -1677,7 +1677,7 @@
     "reg": "3.-NORTE",
     "tienda": "EXP VALLE SOLEADO NL",
     "nombre": "ROBERTO LEEVAN ORTIZ HILARIO",
-    "ventas": 0,
+    "ventas": 12,
     "logro": 53.3,
     "fechaStr": "14/8/2024",
     "esNuevo": false
@@ -1695,7 +1695,7 @@
     "reg": "4.-PACIFICO - BAJIO",
     "tienda": "EXP CENTRO GUADALAJARA",
     "nombre": "IVAN MICHELLE CHAIRES MENDEZ",
-    "ventas": 0,
+    "ventas": 27,
     "logro": 150,
     "fechaStr": "15/12/2024",
     "esNuevo": false
@@ -1722,7 +1722,7 @@
     "reg": "4.-PACIFICO - BAJIO",
     "tienda": "EXP CENTRO GUADALAJARA",
     "nombre": "VICTOR ERNESTO PEREZ ROBLES",
-    "ventas": 0,
+    "ventas": 17,
     "logro": 94.4,
     "fechaStr": "4/5/2025",
     "esNuevo": false
@@ -1731,7 +1731,7 @@
     "reg": "4.-PACIFICO - BAJIO",
     "tienda": "EXP HIPER GALERIAS JAL",
     "nombre": "AKIM DAVID MIRAMONTES MACIAS",
-    "ventas": 0,
+    "ventas": 14,
     "logro": 140,
     "fechaStr": "18/1/2026",
     "esNuevo": false
@@ -1749,7 +1749,7 @@
     "reg": "4.-PACIFICO - BAJIO",
     "tienda": "EXP HIPER GALERIAS JAL",
     "nombre": "CYNTHIA VANESSA IBARRA DEL MURO",
-    "ventas": 0,
+    "ventas": 14,
     "logro": 140,
     "fechaStr": "13/11/2025",
     "esNuevo": false
@@ -1785,7 +1785,7 @@
     "reg": "4.-PACIFICO - BAJIO",
     "tienda": "EXP KSK GALERIAS GDL",
     "nombre": "LUIS ANTONIO QUEZADA GONZALEZ",
-    "ventas": 0,
+    "ventas": 5,
     "logro": 50,
     "fechaStr": "27/7/2025",
     "esNuevo": false
@@ -1821,7 +1821,7 @@
     "reg": "4.-PACIFICO - BAJIO",
     "tienda": "EXP PLAZA ALCALDE ZAPOPAN",
     "nombre": "CESAR JAVIER MARTINEZ MEDINA",
-    "ventas": 0,
+    "ventas": 25,
     "logro": 125,
     "fechaStr": "4/1/2026",
     "esNuevo": false
@@ -1830,7 +1830,7 @@
     "reg": "4.-PACIFICO - BAJIO",
     "tienda": "EXP PLAZA ALCALDE ZAPOPAN",
     "nombre": "CHRISTOPHER MONTOYA PEREZ",
-    "ventas": 0,
+    "ventas": 14,
     "logro": 77.8,
     "fechaStr": "5/8/2024",
     "esNuevo": false
@@ -1875,7 +1875,7 @@
     "reg": "4.-PACIFICO - BAJIO",
     "tienda": "EXP PLAZA ATEMAJAC GDL",
     "nombre": "FERNANDO HERNANDEZ OLEA",
-    "ventas": 0,
+    "ventas": 24,
     "logro": 111.1,
     "fechaStr": "5/6/2025",
     "esNuevo": false
@@ -1929,7 +1929,7 @@
     "reg": "5.-SUR - PUE",
     "tienda": "EXP 5 DE MAYO PUE",
     "nombre": "NESTOR DANIEL GUTIERREZ PACHECO",
-    "ventas": 0,
+    "ventas": 18,
     "logro": 120,
     "fechaStr": "7/11/2024",
     "esNuevo": false
@@ -1965,7 +1965,7 @@
     "reg": "5.-SUR - PUE",
     "tienda": "EXP ANTEQUERA PUE",
     "nombre": "JOSE FRANCISCO RAMIREZ GARCIA",
-    "ventas": 0,
+    "ventas": 14,
     "logro": 186.7,
     "fechaStr": "27/10/2024",
     "esNuevo": false
@@ -1992,7 +1992,7 @@
     "reg": "5.-SUR - PUE",
     "tienda": "EXP CHEDRAUI CRUZ DEL SUR",
     "nombre": "ABIGAIL REYES ORTIZ",
-    "ventas": 0,
+    "ventas": 20,
     "logro": 129,
     "fechaStr": "12/8/2024",
     "esNuevo": false
@@ -2028,7 +2028,7 @@
     "reg": "5.-SUR - PUE",
     "tienda": "EXP CHOLULA II PUE",
     "nombre": "JADET IGNACIO HERNANDEZ",
-    "ventas": 0,
+    "ventas": 5,
     "logro": 45.5,
     "fechaStr": "16/12/2025",
     "esNuevo": false
@@ -2082,7 +2082,7 @@
     "reg": "5.-SUR - PUE",
     "tienda": "EXP PATIO TLAXCALA",
     "nombre": "VALERIA FERNANDA MONCAYO TEOMITZI",
-    "ventas": 0,
+    "ventas": 11,
     "logro": 110,
     "fechaStr": "13/1/2026",
     "esNuevo": false
@@ -2136,7 +2136,7 @@
     "reg": "5.-SUR - PUE",
     "tienda": "EXP PLAZA ASESORES PUE",
     "nombre": "GEORGINA PEREZ LARA",
-    "ventas": 0,
+    "ventas": 12,
     "logro": 157.9,
     "fechaStr": "1/7/2025",
     "esNuevo": false
@@ -2154,7 +2154,7 @@
     "reg": "5.-SUR - PUE",
     "tienda": "EXP PLAZA SAN DIEGO PUE",
     "nombre": "ALINE LUYANDO FRIAS",
-    "ventas": 0,
+    "ventas": 13,
     "logro": 84.1,
     "fechaStr": "5/10/2025",
     "esNuevo": false
@@ -2181,7 +2181,7 @@
     "reg": "5.-SUR - PUE",
     "tienda": "EXP PLAZA SAN DIEGO PUE",
     "nombre": "DAVID MICHEL CHERLIN GARCIA",
-    "ventas": 0,
+    "ventas": 21,
     "logro": 135.9,
     "fechaStr": "28/2/2018",
     "esNuevo": false
@@ -2208,7 +2208,7 @@
     "reg": "5.-SUR - PUE",
     "tienda": "EXP PLAZA SAN DIEGO PUE",
     "nombre": "GUILLERMO ADRIEL PALMA HERRERA",
-    "ventas": 0,
+    "ventas": 19,
     "logro": 122.9,
     "fechaStr": "13/7/2025",
     "esNuevo": false
@@ -2217,7 +2217,7 @@
     "reg": "5.-SUR - PUE",
     "tienda": "EXP PLAZA SAN DIEGO PUE",
     "nombre": "JESUS ALBERTO DELFIN RODRIGUEZ",
-    "ventas": 0,
+    "ventas": 19,
     "logro": 122.9,
     "fechaStr": "6/3/2023",
     "esNuevo": false
@@ -2262,7 +2262,7 @@
     "reg": "5.-SUR - PUE",
     "tienda": "EXP PLAZA SANTA JULIA APIZACO TLAXCALA PUE",
     "nombre": "DANIELA LUNA REYNA",
-    "ventas": 0,
+    "ventas": 1,
     "logro": 9.2,
     "fechaStr": "23/12/2025",
     "esNuevo": false
@@ -2316,7 +2316,7 @@
     "reg": "5.-SUR - PUE",
     "tienda": "EXP REFORMA LA PAZ PUE",
     "nombre": "BRAULIO ACA TEXCA",
-    "ventas": 0,
+    "ventas": 20,
     "logro": 170.7,
     "fechaStr": "22/8/2021",
     "esNuevo": false
@@ -2361,7 +2361,7 @@
     "reg": "5.-SUR - PUE",
     "tienda": "EXP REFORMA LA PAZ PUE",
     "nombre": "YAVETH ENOC VALENCIA MORA",
-    "ventas": 0,
+    "ventas": 7,
     "logro": 59.8,
     "fechaStr": "14/12/2025",
     "esNuevo": false
@@ -2370,7 +2370,7 @@
     "reg": "5.-SUR - PUE",
     "tienda": "EXP SAN MARTIN CENTRO",
     "nombre": "ANGEL FELIPE JUAREZ CONTRERAS",
-    "ventas": 0,
+    "ventas": 9,
     "logro": 56.3,
     "fechaStr": "16/12/2025",
     "esNuevo": false
@@ -2379,7 +2379,7 @@
     "reg": "5.-SUR - PUE",
     "tienda": "EXP SAN MARTIN CENTRO",
     "nombre": "ARIEL GUTIERREZ LARRAINZAR",
-    "ventas": 0,
+    "ventas": 6,
     "logro": 37.5,
     "fechaStr": "6/1/2026",
     "esNuevo": false
@@ -2388,7 +2388,7 @@
     "reg": "5.-SUR - PUE",
     "tienda": "EXP SAN MARTIN CENTRO",
     "nombre": "DIEGO FLORES MIRON",
-    "ventas": 0,
+    "ventas": 29,
     "logro": 181.3,
     "fechaStr": "6/1/2025",
     "esNuevo": false
@@ -2397,7 +2397,7 @@
     "reg": "5.-SUR - PUE",
     "tienda": "EXP SAN MARTIN CENTRO",
     "nombre": "GABRIELA MORA GONZALEZ",
-    "ventas": 0,
+    "ventas": 9,
     "logro": 56.3,
     "fechaStr": "8/1/2026",
     "esNuevo": false
@@ -2433,7 +2433,7 @@
     "reg": "5.-SUR - PUE",
     "tienda": "EXPERTCELL-GRANPLAZASURPUE",
     "nombre": "ANDREA AGUIRRE SEVILLA",
-    "ventas": 0,
+    "ventas": 10,
     "logro": 76.2,
     "fechaStr": "14/12/2025",
     "esNuevo": false
@@ -2451,7 +2451,7 @@
     "reg": "5.-SUR - PUE",
     "tienda": "EXPERTCELL-GRANPLAZASURPUE",
     "nombre": "PAOLA BEATRIZ REYES ALVAREZ",
-    "ventas": 0,
+    "ventas": 10,
     "logro": 76.2,
     "fechaStr": "21/10/2025",
     "esNuevo": false
@@ -2532,7 +2532,7 @@
     "reg": "5.-SUR - PUE",
     "tienda": "SORIANA HIPER",
     "nombre": "ALONSO AARON MUÑOZ RIVERA",
-    "ventas": 0,
+    "ventas": 23,
     "logro": 153.3,
     "fechaStr": "9/11/2025",
     "esNuevo": false
@@ -2577,7 +2577,7 @@
     "reg": "5.-SUR - VER",
     "tienda": "EXP EL MIRADOR VER",
     "nombre": "ELISAHY ANELL OLARTE",
-    "ventas": 0,
+    "ventas": 7,
     "logro": 93.3,
     "fechaStr": "16/12/2025",
     "esNuevo": false
@@ -2586,7 +2586,7 @@
     "reg": "5.-SUR - VER",
     "tienda": "EXP EL MIRADOR VER",
     "nombre": "FRANCISCO ALARCON ALEMAN",
-    "ventas": 0,
+    "ventas": 7,
     "logro": 93.3,
     "fechaStr": "11/1/2026",
     "esNuevo": false
@@ -2640,7 +2640,7 @@
     "reg": "5.-SUR - VER",
     "tienda": "EXP ISLA BELLA VER",
     "nombre": "ZULEM ROJAS PEREZ",
-    "ventas": 0,
+    "ventas": 10,
     "logro": 100,
     "fechaStr": "20/3/2024",
     "esNuevo": false
@@ -2658,7 +2658,7 @@
     "reg": "5.-SUR - VER",
     "tienda": "EXP KSK PATIO TEJERIA VER",
     "nombre": "MIGUEL ANGEL JIMENEZ BARRERA",
-    "ventas": 0,
+    "ventas": 14,
     "logro": 186.7,
     "fechaStr": "20/2/2025",
     "esNuevo": false
@@ -2811,7 +2811,7 @@
     "reg": "5.-SUR - VER",
     "tienda": "EXPERTCELL-PLAZACRYSTALVER",
     "nombre": "TADEO GUADALUPE SANCHEZ TORRES",
-    "ventas": 0,
+    "ventas": 22,
     "logro": 176,
     "fechaStr": "12/1/2025",
     "esNuevo": false
@@ -2838,7 +2838,7 @@
     "reg": "5.-SUR - VER",
     "tienda": "EXPPLAZAVALLEORI",
     "nombre": "ESPERANZA MELO PEREZ",
-    "ventas": 0,
+    "ventas": 20,
     "logro": 129.6,
     "fechaStr": "5/11/2023",
     "esNuevo": false
@@ -2865,7 +2865,7 @@
     "reg": "5.-SUR - VER",
     "tienda": "EXPPLAZAVALLEORI",
     "nombre": "MARICARMEN GOMEZ SUMOHANO",
-    "ventas": 0,
+    "ventas": 23,
     "logro": 149.1,
     "fechaStr": "13/8/2024",
     "esNuevo": false
@@ -2910,7 +2910,7 @@
     "reg": "5.-SUR - VER",
     "tienda": "ORIENTE 6 CENTRO",
     "nombre": "JUAN MARTINEZ MORALES",
-    "ventas": 0,
+    "ventas": 13,
     "logro": 87.8,
     "fechaStr": "12/6/2025",
     "esNuevo": false
