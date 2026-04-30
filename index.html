@@ -87,11 +87,30 @@
             <label>TIENDA</label>
             <select id="selTienda" class="form-select bg-dark text-white border-0 mb-3 shadow-none" onchange="renderizar()"></select>
 
+             <!-- Añadir dentro de <div id="filterControls"> en el Sidebar -->
+            <label>EVENTO</label>
+            <select id="selMetrica" class="form-select bg-dark text-white border-0 mb-4 shadow-none" onchange="renderizar()">
+                <option value="activaciones">ACTIVACIONES</option>
+                <option value="renovaciones">RENOVACIONES</option>
+                <option value="total">TOTAL ( ACT + REN )</option>
+            </select>
+            
             <div class="mt-4 p-2" style="background: rgba(249, 246, 246, 0.05); border-radius: 8px; border-left: 3px solid var(--accent-green);">
                 <div id="fechaCorte" class="fw-bold" style="font-size: 0.9rem; color: var(--accent-green);">
                     Avance al: 28 / 04 / 2026
                 </div>
             </div>
+
+            <!-- TOP 10 MEJORES VENDEDORES -->
+            <div class="mt-4">
+                <label>🏆 TOP 10 VENDEDORES</label>
+                <div id="top10Container" style="background: rgba(249, 246, 246, 0.111); border-radius: 12px; padding: 10px;">
+                    <div id="top10List" class="small">
+                        <!-- Se llenará dinámicamente -->
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
 
@@ -188,60 +207,113 @@
     }
 
     function renderizar() {
-        const r = document.getElementById('selRegion').value;
-        const t = document.getElementById('selTienda').value;
-        const data = rawData.filter(d => (r === 'TODAS' || d.reg === r) && (t === 'TODAS' || d.tienda === t));
-        data.sort((a, b) => a.logro - b.logro);
+    const r = document.getElementById('selRegion').value;
+    const t = document.getElementById('selTienda').value;
+    const metrica = document.getElementById('selMetrica').value;
+    
+    // 1. Filtrado de datos
+    let data = rawData.filter(d => (r === 'TODAS' || d.reg === r) && (t === 'TODAS' || d.tienda === t));
 
-        document.getElementById('kpiTotal').innerText = data.length;
-        document.getElementById('kpiCeros').innerText = data.filter(d => d.ventas === 0).length;
-        document.getElementById('kpiBajos').innerText = data.filter(d => d.logro < 60 && d.ventas > 0).length;
-        document.getElementById('kpiNuevos').innerText = data.filter(d => d.esNuevo).length;
+    // 2. Mapeo dinámico según la métrica seleccionada
+    const displayData = data.map(d => {
+        let v, l;
+        if (metrica === 'activaciones') {
+            v = d.ventas || 0;
+            l = d.logro || 0;
+        } else if (metrica === 'renovaciones') {
+            v = d.renovaciones || 0;
+            l = d.logroRenov || 0;
+        } else {
+            v = (d.ventas || 0) + (d.renovaciones || 0);
+            l = ((d.logro || 0) + (d.logroRenov || 0)) / 2; // Promedio de logro
+        }
+        return { ...d, val_v: v, val_l: l };
+    });
 
-        document.getElementById('listaCeros').innerHTML = data.filter(d => d.ventas === 0).map(d => `<tr class="table-danger"><td>${d.nombre}</td><td>${d.tienda}</td><td>${d.fechaStr}</td></tr>`).join('') || '<tr><td colspan="3" class="text-center py-3 text-muted">Sin incidencias</td></tr>';
-        document.getElementById('listaGeneral').innerHTML = data.map(d => `<tr><td><b>${d.nombre}</b><br><small>${d.tienda}</small></td><td class="text-center fw-bold">${d.ventas}</td><td class="text-center ${d.logro < 60 ? 'text-danger fw-bold' : ''}">${d.logro}%</td><td class="text-center">${d.esNuevo ? '<span class="badge-new">NUEVO</span>' : ''}</td></tr>`).join('');
+    displayData.sort((a, b) => a.val_l - b.val_l);
 
-        const ctx = document.getElementById('mainChart').getContext('2d');
-        if (myChart) myChart.destroy();
-        myChart = new Chart(ctx, {
-            data: {
-                labels: data.map(d => d.nombre),
-                datasets: [
-                    { 
-                        type: 'bar', 
-                        label: 'Ventas Reales', 
-                        data: data.map(d => d.ventas), 
-                        backgroundColor: data.map(d => d.ventas === 0 ? '#ef4444' : (d.esNuevo ? '#7CB342' : '#50E094')), 
-                        yAxisID: 'y', 
-                        borderRadius: 5 
-                    },
-                    { 
-                        type: 'line', 
-                        label: '% Logro', 
-                        data: data.map(d => d.logro), 
-                        borderColor: '#0f172a', 
-                        borderWidth: 2, 
-                        yAxisID: 'y1', 
-                        tension: 0.3,
-                        pointBackgroundColor: '#0f172a',
-                        pointRadius: 4
-                    }
-                ]
-            },
-            options: { 
-                responsive: true, 
-                maintainAspectRatio: false, 
-                scales: { 
-                    y: { position: 'left', grid: { color: '#eef2f1' }, ticks: { color: '#94a3b8' } }, 
-                    y1: { position: 'right', min: 0, max: 130, grid: { display: false }, ticks: { color: '#94a3b8' } },
-                    x: { grid: { display: false }, ticks: { color: '#94a3b8', font: { size: 10 } } }
+    // 3. Actualización de KPIs
+    document.getElementById('kpiTotal').innerText = displayData.length;
+    document.getElementById('kpiCeros').innerText = displayData.filter(d => d.val_v === 0).length;
+    document.getElementById('kpiBajos').innerText = displayData.filter(d => d.val_l < 60 && d.val_v > 0).length;
+    document.getElementById('kpiNuevos').innerText = displayData.filter(d => d.esNuevo).length;
+
+    // 4. Tablas
+    document.getElementById('listaCeros').innerHTML = displayData.filter(d => d.val_v === 0).map(d => 
+        `<tr class="table-danger"><td>${d.nombre}</td><td>${d.tienda}</td><td>${d.fechaStr}</td></tr>`).join('') 
+        || '<tr><td colspan="3" class="text-center py-3 text-muted">Sin incidencias</td></tr>';
+
+    document.getElementById('listaGeneral').innerHTML = displayData.map(d => 
+        `<tr><td><b>${d.nombre}</b><br><small>${d.tienda}</small></td>
+        <td class="text-center fw-bold">${d.val_v}</td>
+        <td class="text-center ${d.val_l < 60 ? 'text-danger fw-bold' : ''}">${d.val_l.toFixed(1)}%</td>
+        <td class="text-center">${d.esNuevo ? '<span class="badge-new">NUEVO</span>' : ''}</td></tr>`).join('');
+
+    // 5. Gráfico Chart.js
+    const ctx = document.getElementById('mainChart').getContext('2d');
+    if (myChart) myChart.destroy();
+    myChart = new Chart(ctx, {
+        data: {
+            labels: displayData.map(d => d.nombre),
+            datasets: [
+                { 
+                    type: 'bar', 
+                    label: `Ventas (${metrica.toUpperCase()})`, 
+                    data: displayData.map(d => d.val_v), 
+                    backgroundColor: displayData.map(d => d.val_v === 0 ? '#ef4444' : (d.esNuevo ? '#7CB342' : '#50E094')), 
+                    yAxisID: 'y', 
+                    borderRadius: 5 
                 },
-                plugins: {
-                    legend: { position: 'bottom', labels: { boxWidth: 12, padding: 20, font: { size: 12 } } }
+                { 
+                    type: 'line', 
+                    label: '% Logro', 
+                    data: displayData.map(d => d.val_l), 
+                    borderColor: '#0f172a', 
+                    borderWidth: 2, 
+                    yAxisID: 'y1', 
+                    tension: 0.3,
+                    pointBackgroundColor: '#0f172a',
+                    pointRadius: 4
                 }
+            ]
+        },
+        options: { 
+            responsive: true, 
+            maintainAspectRatio: false, 
+            scales: { 
+                y: { position: 'left', grid: { color: '#eef2f1' }, title: { display: true, text: 'Unidades' } }, 
+                y1: { position: 'right', min: 0, max: 150, grid: { display: false }, title: { display: true, text: '%' } },
+                x: { grid: { display: false }, ticks: { color: '#94a3b8', font: { size: 10 } } }
+            },
+            plugins: {
+                legend: { position: 'bottom' }
             }
-        });
-    }
+        }
+    });
+    // --- LÓGICA TOP 10 SIDEBAR ---
+    // Ordenamos de mayor a menor según la métrica actual
+    const top10 = [...displayData]
+        .sort((a, b) => b.val_v - a.val_v)
+        .slice(0, 10); // --- Cambiar top ---
+
+    const top10HTML = top10.map((d, index) => {
+        let medal = "";
+        if (index === 0) medal = "🥇";
+        else if (index === 1) medal = "🥈";
+        else if (index === 2) medal = "🥉";
+        else medal = `<span>${index + 1}.</span>`;
+
+        return `
+            <div class="d-flex justify-content-between align-items-center mb-2 pb-1 border-bottom border-secondary" style="--bs-border-opacity: .1;">
+                <div class="text-truncate" style="max-width: 140px;">
+                    ${medal} <span class="${index < 3 ? 'fw-bold text-white' : 'text-light'}">${d.nombre.split(' ')[0]}</span>
+                </div>
+                    <div class="fw-bold" style="color: var(--accent-green);">${d.val_v}</div>
+                </div>`;
+    }).join('');
+
+    document.getElementById('top10List').innerHTML = top10HTML || '<div class="text-muted text-center py-2">Sin datos</div>';
+}
 </script>
 </body>
 </html>

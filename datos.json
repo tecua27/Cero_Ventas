@@ -5,6 +5,8 @@
     "nombre": "ALONDRA CARRALES CASTILLA",
     "ventas": 18,
     "logro": 105.9,
+    "renovaciones": 7,
+    "logroRenov": 41.2,
     "fechaStr": "15/12/2025",
     "esNuevo": false
   },
@@ -14,6 +16,8 @@
     "nombre": "JOAQUIN AUGUSTO HERNANDEZ CASTILLO",
     "ventas": 13,
     "logro": 76.5,
+    "renovaciones": 5,
+    "logroRenov": 29.4,
     "fechaStr": "12/1/2025",
     "esNuevo": false
   },
@@ -23,6 +27,8 @@
     "nombre": "JONATHAN FERNANDO RUIZ NUÑEZ",
     "ventas": 18,
     "logro": 105.9,
+    "renovaciones": 13,
+    "logroRenov": 76.5,
     "fechaStr": "22/6/2025",
     "esNuevo": false
   },
@@ -32,6 +38,8 @@
     "nombre": "OSCAR FABIAN MARTINEZ PADILLA",
     "ventas": 14,
     "logro": 82.4,
+    "renovaciones": 1,
+    "logroRenov": 5.9,
     "fechaStr": "22/3/2026",
     "esNuevo": false
   },
@@ -41,6 +49,8 @@
     "nombre": "ANA KAREN GARCIA PLATA",
     "ventas": 0,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "19/10/2025",
     "esNuevo": false
   },
@@ -50,6 +60,8 @@
     "nombre": "EDGAR MORENO MENDRANO",
     "ventas": 9,
     "logro": 122.7,
+    "renovaciones": 3,
+    "logroRenov": 40.9,
     "fechaStr": "19/10/2025",
     "esNuevo": false
   },
@@ -59,6 +71,8 @@
     "nombre": "GRETSHEL FERNANDA URBINA CUEVAS",
     "ventas": 15,
     "logro": 204.5,
+    "renovaciones": 4,
+    "logroRenov": 54.5,
     "fechaStr": "26/10/2025",
     "esNuevo": false
   },
@@ -68,6 +82,8 @@
     "nombre": "MARIO MARTINEZ LOPEZ",
     "ventas": 5,
     "logro": 68.2,
+    "renovaciones": 2,
+    "logroRenov": 27.3,
     "fechaStr": "25/1/2026",
     "esNuevo": false
   },
@@ -77,6 +93,8 @@
     "nombre": "RICARDO LOPEZ SOTO",
     "ventas": 12,
     "logro": 163.6,
+    "renovaciones": 4,
+    "logroRenov": 54.5,
     "fechaStr": "25/1/2026",
     "esNuevo": false
   },
@@ -86,6 +104,8 @@
     "nombre": "BRAYAN NOGUEDA CATALAN",
     "ventas": 32,
     "logro": 115.3,
+    "renovaciones": 18,
+    "logroRenov": 64.9,
     "fechaStr": "19/11/2023",
     "esNuevo": false
   },
@@ -95,6 +115,8 @@
     "nombre": "FILIBERTO LOPEZ ALBINO",
     "ventas": 29,
     "logro": 150,
+    "renovaciones": 8,
+    "logroRenov": 41.2,
     "fechaStr": "31/3/2025",
     "esNuevo": false
   },
@@ -104,6 +126,8 @@
     "nombre": "JESUS ZARATE PEREZ",
     "ventas": 22,
     "logro": 79.3,
+    "renovaciones": 5,
+    "logroRenov": 18,
     "fechaStr": "25/2/2024",
     "esNuevo": false
   },
@@ -113,6 +137,8 @@
     "nombre": "KAREN GUADALUPE CARO LOPEZ",
     "ventas": 32,
     "logro": 115.3,
+    "renovaciones": 11,
+    "logroRenov": 39.6,
     "fechaStr": "16/9/2025",
     "esNuevo": false
   },
@@ -122,6 +148,8 @@
     "nombre": "ADRIAN ALONSO RIOS SANTILLAN",
     "ventas": 24,
     "logro": 124.1,
+    "renovaciones": 3,
+    "logroRenov": 15.5,
     "fechaStr": "12/10/2025",
     "esNuevo": false
   },
@@ -131,6 +159,8 @@
     "nombre": "ALEXIS ISAAC NICOLI DIAZ",
     "ventas": 33,
     "logro": 170.7,
+    "renovaciones": 12,
+    "logroRenov": 62.1,
     "fechaStr": "19/2/2023",
     "esNuevo": false
   },
@@ -140,6 +170,8 @@
     "nombre": "DANNA CAMILA VEGA ALFARO",
     "ventas": 23,
     "logro": 119,
+    "renovaciones": 5,
+    "logroRenov": 25.9,
     "fechaStr": "17/3/2024",
     "esNuevo": false
   },
@@ -149,6 +181,8 @@
     "nombre": "JUAN CARLOS JIMENEZ HERNANDEZ",
     "ventas": 20,
     "logro": 103.4,
+    "renovaciones": 8,
+    "logroRenov": 41.4,
     "fechaStr": "15/10/2024",
     "esNuevo": false
   },
@@ -158,6 +192,8 @@
     "nombre": "ODIN EMERSON LOPEZ SORIANO",
     "ventas": 15,
     "logro": 77.6,
+    "renovaciones": 8,
+    "logroRenov": 41.4,
     "fechaStr": "25/1/2026",
     "esNuevo": false
   },
@@ -167,6 +203,8 @@
     "nombre": "DANIEL CORDOBA RIVERA",
     "ventas": 17,
     "logro": 87.9,
+    "renovaciones": 5,
+    "logroRenov": 25.9,
     "fechaStr": "24/3/2026",
     "esNuevo": false
   },
@@ -176,6 +214,8 @@
     "nombre": "ADRIAN DE LIBRADO FERRA",
     "ventas": 24,
     "logro": 114.3,
+    "renovaciones": 10,
+    "logroRenov": 47.6,
     "fechaStr": "27/7/2025",
     "esNuevo": false
   },
@@ -185,6 +225,8 @@
     "nombre": "BEATRIZ ADRIANA OLIVOS HERNANDEZ",
     "ventas": 17,
     "logro": 81,
+    "renovaciones": 11,
+    "logroRenov": 52.4,
     "fechaStr": "25/1/2026",
     "esNuevo": false
   },
@@ -194,6 +236,8 @@
     "nombre": "RAFAEL ROBERTO BECERRA MACHUCA",
     "ventas": 22,
     "logro": 104.8,
+    "renovaciones": 10,
+    "logroRenov": 47.6,
     "fechaStr": "27/4/2025",
     "esNuevo": false
   },
@@ -203,6 +247,8 @@
     "nombre": "AIDE NOHEMI ALCUDIA HERNANDEZ",
     "ventas": 26,
     "logro": 121.5,
+    "renovaciones": 13,
+    "logroRenov": 60.7,
     "fechaStr": "2/1/2024",
     "esNuevo": false
   },
@@ -212,6 +258,8 @@
     "nombre": "ALINNE JOHANNY CALDERON RUIZ",
     "ventas": 29,
     "logro": 135.5,
+    "renovaciones": 13,
+    "logroRenov": 60.7,
     "fechaStr": "24/10/2023",
     "esNuevo": false
   },
@@ -221,6 +269,8 @@
     "nombre": "ENRIQUE DIDIER PEREZ ALVARADO",
     "ventas": 25,
     "logro": 116.8,
+    "renovaciones": 13,
+    "logroRenov": 60.7,
     "fechaStr": "28/10/2025",
     "esNuevo": false
   },
@@ -230,6 +280,8 @@
     "nombre": "NERY ALEJANDRA RAMIREZ LOPEZ",
     "ventas": 8,
     "logro": 37.4,
+    "renovaciones": 2,
+    "logroRenov": 9.3,
     "fechaStr": "31/3/2026",
     "esNuevo": true
   },
@@ -239,6 +291,8 @@
     "nombre": "ERIC IZANAMI TORRES CARMONA",
     "ventas": 21,
     "logro": 98.1,
+    "renovaciones": 10,
+    "logroRenov": 46.7,
     "fechaStr": "2/4/2026",
     "esNuevo": true
   },
@@ -248,6 +302,8 @@
     "nombre": "DAVID CARRASCO ATENOGENES",
     "ventas": 19,
     "logro": 90.5,
+    "renovaciones": 3,
+    "logroRenov": 14.3,
     "fechaStr": "3/10/2025",
     "esNuevo": false
   },
@@ -257,6 +313,8 @@
     "nombre": "DIANA LORENA PICHARDO ALMAZAN",
     "ventas": 19,
     "logro": 90.5,
+    "renovaciones": 5,
+    "logroRenov": 23.8,
     "fechaStr": "17/8/2025",
     "esNuevo": false
   },
@@ -266,6 +324,8 @@
     "nombre": "JUAN CARLOS REZA VILCHIS",
     "ventas": 19,
     "logro": 90.5,
+    "renovaciones": 2,
+    "logroRenov": 9.5,
     "fechaStr": "14/5/2023",
     "esNuevo": false
   },
@@ -275,6 +335,8 @@
     "nombre": "GERARDO CADENA DIAZ",
     "ventas": 19,
     "logro": 95,
+    "renovaciones": 2,
+    "logroRenov": 10,
     "fechaStr": "27/10/2024",
     "esNuevo": false
   },
@@ -284,6 +346,8 @@
     "nombre": "JOSE CARLOS TOVAR VELASQUILLO",
     "ventas": 48,
     "logro": 240,
+    "renovaciones": 18,
+    "logroRenov": 90,
     "fechaStr": "14/10/2014",
     "esNuevo": false
   },
@@ -293,6 +357,8 @@
     "nombre": "MIRIAM CALVA HERNANDEZ",
     "ventas": 20,
     "logro": 100,
+    "renovaciones": 5,
+    "logroRenov": 25,
     "fechaStr": "9/11/2025",
     "esNuevo": false
   },
@@ -302,6 +368,8 @@
     "nombre": "YESSIKA JUDITH MALDONADO MORENO",
     "ventas": 32,
     "logro": 115.3,
+    "renovaciones": 10,
+    "logroRenov": 36,
     "fechaStr": "15/11/2024",
     "esNuevo": false
   },
@@ -311,6 +379,8 @@
     "nombre": "VERONICA GARCIA RODRIGUEZ",
     "ventas": 15,
     "logro": 115.4,
+    "renovaciones": 1,
+    "logroRenov": 7.7,
     "fechaStr": "5/10/2025",
     "esNuevo": false
   },
@@ -320,6 +390,8 @@
     "nombre": "JONATHAN RODRIGO AVALOS CUELLAR",
     "ventas": 0,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "5/4/2026",
     "esNuevo": true
   },
@@ -329,6 +401,8 @@
     "nombre": "LUISA CRISTAL GOMEZ PEÑA",
     "ventas": 0,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "21/4/2026",
     "esNuevo": true
   },
@@ -338,6 +412,8 @@
     "nombre": "DEMIAN FABIAN GALINDO HERNANDEZ",
     "ventas": 15,
     "logro": 51.7,
+    "renovaciones": 1,
+    "logroRenov": 3.4,
     "fechaStr": "9/2/2025",
     "esNuevo": false
   },
@@ -347,6 +423,8 @@
     "nombre": "JANETTE GUADALUPE GONZALEZ BONILLA",
     "ventas": 29,
     "logro": 100,
+    "renovaciones": 13,
+    "logroRenov": 44.8,
     "fechaStr": "29/1/2023",
     "esNuevo": false
   },
@@ -356,6 +434,8 @@
     "nombre": "JESUS ANDRES CEBALLOS ZAMORA",
     "ventas": 21,
     "logro": 72.4,
+    "renovaciones": 1,
+    "logroRenov": 3.4,
     "fechaStr": "22/6/2025",
     "esNuevo": false
   },
@@ -365,6 +445,8 @@
     "nombre": "LINDA JUDITH ROSILLO MANZANARES",
     "ventas": 12,
     "logro": 92.3,
+    "renovaciones": 9,
+    "logroRenov": 69.2,
     "fechaStr": "7/12/2025",
     "esNuevo": false
   },
@@ -374,6 +456,8 @@
     "nombre": "MIGUEL ANGEL RIVERA SANCHEZ",
     "ventas": 13,
     "logro": 100,
+    "renovaciones": 1,
+    "logroRenov": 7.7,
     "fechaStr": "15/2/2026",
     "esNuevo": false
   },
@@ -383,6 +467,8 @@
     "nombre": "RAYMUNDO EFRAIN MEDINA FLORES",
     "ventas": 14,
     "logro": 107.7,
+    "renovaciones": 12,
+    "logroRenov": 92.3,
     "fechaStr": "3/4/2025",
     "esNuevo": false
   },
@@ -392,6 +478,8 @@
     "nombre": "DANIELA OLTEHUA MARQUEZ",
     "ventas": 15,
     "logro": 77.3,
+    "renovaciones": 9,
+    "logroRenov": 46.4,
     "fechaStr": "16/9/2025",
     "esNuevo": false
   },
@@ -401,6 +489,8 @@
     "nombre": "DILAN GALVAN NUÑEZ",
     "ventas": 20,
     "logro": 103.1,
+    "renovaciones": 10,
+    "logroRenov": 51.5,
     "fechaStr": "14/7/2024",
     "esNuevo": false
   },
@@ -410,6 +500,8 @@
     "nombre": "JOSE DANIEL ARENAS HERNANDEZ",
     "ventas": 15,
     "logro": 77.3,
+    "renovaciones": 14,
+    "logroRenov": 72.2,
     "fechaStr": "19/2/2023",
     "esNuevo": false
   },
@@ -419,6 +511,8 @@
     "nombre": "MADELINE CARPINTEYRO NIEVA",
     "ventas": 18,
     "logro": 92.8,
+    "renovaciones": 10,
+    "logroRenov": 51.5,
     "fechaStr": "6/8/2024",
     "esNuevo": false
   },
@@ -428,6 +522,8 @@
     "nombre": "OSKAR SAUCEDO TELLEZ",
     "ventas": 12,
     "logro": 61.9,
+    "renovaciones": 6,
+    "logroRenov": 30.9,
     "fechaStr": "7/10/2025",
     "esNuevo": false
   },
@@ -437,6 +533,8 @@
     "nombre": "ALEXANDRA FLORES PALMA",
     "ventas": 3,
     "logro": 30.8,
+    "renovaciones": 2,
+    "logroRenov": 20.5,
     "fechaStr": "17/8/2025",
     "esNuevo": false
   },
@@ -446,6 +544,8 @@
     "nombre": "DIANA LAURA RUBIO PICHARDO",
     "ventas": 12,
     "logro": 123.1,
+    "renovaciones": 2,
+    "logroRenov": 20.5,
     "fechaStr": "24/3/2026",
     "esNuevo": false
   },
@@ -455,6 +555,8 @@
     "nombre": "ELYAER MARTINEZ ARRIAGA",
     "ventas": 15,
     "logro": 153.8,
+    "renovaciones": 2,
+    "logroRenov": 20.5,
     "fechaStr": "21/3/2025",
     "esNuevo": false
   },
@@ -464,6 +566,8 @@
     "nombre": "PAULINO VILCHIS PEREZ",
     "ventas": 7,
     "logro": 71.8,
+    "renovaciones": 1,
+    "logroRenov": 10.3,
     "fechaStr": "28/12/2025",
     "esNuevo": false
   },
@@ -473,6 +577,8 @@
     "nombre": "JOSE IVAN RAMIREZ VALENCIA",
     "ventas": 20,
     "logro": 103.1,
+    "renovaciones": 3,
+    "logroRenov": 15.5,
     "fechaStr": "8/7/2025",
     "esNuevo": false
   },
@@ -482,6 +588,8 @@
     "nombre": "LINDA MINELLY CONTRERAS QUIÑONES",
     "ventas": 23,
     "logro": 118.6,
+    "renovaciones": 11,
+    "logroRenov": 56.7,
     "fechaStr": "6/8/2023",
     "esNuevo": false
   },
@@ -491,6 +599,8 @@
     "nombre": "LORENA LIZBETH VARGAS SILVA",
     "ventas": 22,
     "logro": 113.4,
+    "renovaciones": 3,
+    "logroRenov": 15.5,
     "fechaStr": "21/9/2025",
     "esNuevo": false
   },
@@ -500,6 +610,8 @@
     "nombre": "XENIA XANAT GUTIERREZ REYES",
     "ventas": 9,
     "logro": 46.4,
+    "renovaciones": 2,
+    "logroRenov": 10.3,
     "fechaStr": "23/6/2024",
     "esNuevo": false
   },
@@ -509,6 +621,8 @@
     "nombre": "JUANA PAULINA RAMOS MUNGUIA",
     "ventas": 20,
     "logro": 103.1,
+    "renovaciones": 4,
+    "logroRenov": 20.6,
     "fechaStr": "22/3/2026",
     "esNuevo": false
   },
@@ -518,6 +632,8 @@
     "nombre": "GEORGINA PAMELA PEREZ MORENO",
     "ventas": 18,
     "logro": 82.8,
+    "renovaciones": 4,
+    "logroRenov": 18.4,
     "fechaStr": "25/1/2026",
     "esNuevo": false
   },
@@ -527,6 +643,8 @@
     "nombre": "GISELA TAMARA MACIAS GARCIA",
     "ventas": 27,
     "logro": 124.1,
+    "renovaciones": 2,
+    "logroRenov": 9.2,
     "fechaStr": "13/11/2024",
     "esNuevo": false
   },
@@ -536,6 +654,8 @@
     "nombre": "NOE IVAN NOYA GARCIA",
     "ventas": 34,
     "logro": 156.3,
+    "renovaciones": 4,
+    "logroRenov": 18.4,
     "fechaStr": "29/11/2019",
     "esNuevo": false
   },
@@ -545,6 +665,8 @@
     "nombre": "JESSICA IVONNE BRAVO CRUZ",
     "ventas": 12,
     "logro": 55.2,
+    "renovaciones": 3,
+    "logroRenov": 13.8,
     "fechaStr": "25/3/2026",
     "esNuevo": false
   },
@@ -554,6 +676,8 @@
     "nombre": "ARTURO RODRIGUEZ HERNANDEZ",
     "ventas": 27,
     "logro": 120,
+    "renovaciones": 13,
+    "logroRenov": 57.8,
     "fechaStr": "1/7/2024",
     "esNuevo": false
   },
@@ -563,6 +687,8 @@
     "nombre": "AYDE GUADALUPE LARA MARTINEZ",
     "ventas": 28,
     "logro": 124.4,
+    "renovaciones": 22,
+    "logroRenov": 97.8,
     "fechaStr": "6/7/2015",
     "esNuevo": false
   },
@@ -572,6 +698,8 @@
     "nombre": "CHRISTIAN LOPEZ JIMENEZ",
     "ventas": 27,
     "logro": 120,
+    "renovaciones": 12,
+    "logroRenov": 53.3,
     "fechaStr": "18/10/2020",
     "esNuevo": false
   },
@@ -581,6 +709,8 @@
     "nombre": "CITLALI REYES SANTOS",
     "ventas": 23,
     "logro": 102.2,
+    "renovaciones": 5,
+    "logroRenov": 22.2,
     "fechaStr": "20/3/2022",
     "esNuevo": false
   },
@@ -590,6 +720,8 @@
     "nombre": "GUILLERMO DELGADO FLORES",
     "ventas": 22,
     "logro": 97.8,
+    "renovaciones": 7,
+    "logroRenov": 31.1,
     "fechaStr": "27/10/2024",
     "esNuevo": false
   },
@@ -599,6 +731,8 @@
     "nombre": "KARLA VERONICA MATA GARCIA",
     "ventas": 22,
     "logro": 97.8,
+    "renovaciones": 12,
+    "logroRenov": 53.3,
     "fechaStr": "19/6/2022",
     "esNuevo": false
   },
@@ -608,6 +742,8 @@
     "nombre": "BEATRIZ ADRIANA JACINTO BARRON",
     "ventas": 10,
     "logro": 114.3,
+    "renovaciones": 3,
+    "logroRenov": 34.3,
     "fechaStr": "22/2/2026",
     "esNuevo": false
   },
@@ -617,6 +753,8 @@
     "nombre": "NANCY YUNNERY CASTILLO CERON",
     "ventas": 10,
     "logro": 114.3,
+    "renovaciones": 5,
+    "logroRenov": 57.1,
     "fechaStr": "22/2/2026",
     "esNuevo": false
   },
@@ -626,6 +764,8 @@
     "nombre": "DANIEL ARTURO PALACIOS GARCIA",
     "ventas": 13,
     "logro": 148.6,
+    "renovaciones": 4,
+    "logroRenov": 45.7,
     "fechaStr": "22/2/2026",
     "esNuevo": false
   },
@@ -635,6 +775,8 @@
     "nombre": "DAVID ABDIEL PEÑALOZA BERISTAIN",
     "ventas": 12,
     "logro": 137.1,
+    "renovaciones": 5,
+    "logroRenov": 57.1,
     "fechaStr": "22/2/2026",
     "esNuevo": false
   },
@@ -644,6 +786,8 @@
     "nombre": "BRANDON DANIEL VALENZUELA MORGA",
     "ventas": 14,
     "logro": 56,
+    "renovaciones": 1,
+    "logroRenov": 4,
     "fechaStr": "23/11/2025",
     "esNuevo": false
   },
@@ -653,6 +797,8 @@
     "nombre": "FRANCISCO LUIS AVILES ALAPISCO",
     "ventas": 13,
     "logro": 52,
+    "renovaciones": 3,
+    "logroRenov": 12,
     "fechaStr": "9/2/2026",
     "esNuevo": false
   },
@@ -662,6 +808,8 @@
     "nombre": "NOE SALINAS VELAZQUEZ",
     "ventas": 9,
     "logro": 94.7,
+    "renovaciones": 1,
+    "logroRenov": 10.5,
     "fechaStr": "13/1/2026",
     "esNuevo": false
   },
@@ -671,6 +819,8 @@
     "nombre": "SAUL EUGENIO AYON RODRIGUEZ",
     "ventas": 1,
     "logro": 10.5,
+    "renovaciones": 1,
+    "logroRenov": 10.5,
     "fechaStr": "8/3/2026",
     "esNuevo": false
   },
@@ -680,6 +830,8 @@
     "nombre": "LORENA YETLANEZI JIMENEZ TORRES",
     "ventas": 7,
     "logro": 73.7,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "26/3/2026",
     "esNuevo": false
   },
@@ -689,8 +841,10 @@
     "nombre": "LUIS ANTONIO AVILES ALAPISCO",
     "ventas": 6,
     "logro": 63.2,
+    "renovaciones": 1,
+    "logroRenov": 10.5,
     "fechaStr": "29/3/2026",
-    "esNuevo": true
+    "esNuevo": false
   },
   {
     "reg": "2.-BAJA-NOR TIJ / ENS",
@@ -698,6 +852,8 @@
     "nombre": "ADAMARYS LIZETTE BARRERAS DIAZ",
     "ventas": 9,
     "logro": 79.4,
+    "renovaciones": 2,
+    "logroRenov": 17.6,
     "fechaStr": "2/12/2025",
     "esNuevo": false
   },
@@ -707,6 +863,8 @@
     "nombre": "JESUS ANTONIO OSEGUERA CASTILLO",
     "ventas": 7,
     "logro": 61.8,
+    "renovaciones": 1,
+    "logroRenov": 8.8,
     "fechaStr": "27/1/2026",
     "esNuevo": false
   },
@@ -716,6 +874,8 @@
     "nombre": "BERLAYDA CARDENAS PEREZ",
     "ventas": 6,
     "logro": 52.9,
+    "renovaciones": 3,
+    "logroRenov": 26.5,
     "fechaStr": "23/3/2026",
     "esNuevo": false
   },
@@ -725,6 +885,8 @@
     "nombre": "ANGEL RUBEN PEREZ NOLASCO",
     "ventas": 12,
     "logro": 31.6,
+    "renovaciones": 1,
+    "logroRenov": 2.6,
     "fechaStr": "19/1/2026",
     "esNuevo": false
   },
@@ -734,6 +896,8 @@
     "nombre": "BRAYAN AVALOS TORRES",
     "ventas": 16,
     "logro": 79.1,
+    "renovaciones": 1,
+    "logroRenov": 4.9,
     "fechaStr": "14/1/2026",
     "esNuevo": false
   },
@@ -743,6 +907,8 @@
     "nombre": "ALEJANDRA MAILYN RIOS TRUJILLO",
     "ventas": 14,
     "logro": 147.4,
+    "renovaciones": 2,
+    "logroRenov": 21.1,
     "fechaStr": "6/7/2025",
     "esNuevo": false
   },
@@ -752,6 +918,8 @@
     "nombre": "RICARDO GASPAR RUIZ",
     "ventas": 12,
     "logro": 126.3,
+    "renovaciones": 3,
+    "logroRenov": 31.6,
     "fechaStr": "23/11/2025",
     "esNuevo": false
   },
@@ -761,6 +929,8 @@
     "nombre": "CANDI GUADALUPE MICHEL CHAIREZ ANGUIANO",
     "ventas": 4,
     "logro": 42.1,
+    "renovaciones": 2,
+    "logroRenov": 21.1,
     "fechaStr": "8/3/2026",
     "esNuevo": false
   },
@@ -770,6 +940,8 @@
     "nombre": "CARLOS DANIEL RODRIGUEZ ORTEGA",
     "ventas": 5,
     "logro": 52.6,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "24/3/2026",
     "esNuevo": false
   },
@@ -779,6 +951,8 @@
     "nombre": "ALEXIS GONZALEZ DE LA CRUZ",
     "ventas": 18,
     "logro": 189.5,
+    "renovaciones": 4,
+    "logroRenov": 42.1,
     "fechaStr": "26/10/2025",
     "esNuevo": false
   },
@@ -788,6 +962,8 @@
     "nombre": "LUIS DANIEL ITURBE MORALES",
     "ventas": 6,
     "logro": 63.2,
+    "renovaciones": 5,
+    "logroRenov": 52.6,
     "fechaStr": "28/9/2025",
     "esNuevo": false
   },
@@ -797,6 +973,8 @@
     "nombre": "YAREMI BRISEIDA PONCE GUZMAN",
     "ventas": 9,
     "logro": 94.7,
+    "renovaciones": 4,
+    "logroRenov": 42.1,
     "fechaStr": "28/1/2026",
     "esNuevo": false
   },
@@ -806,6 +984,8 @@
     "nombre": "VERONICA MORALES VELASQUEZ",
     "ventas": 5,
     "logro": 52.6,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "5/4/2026",
     "esNuevo": true
   },
@@ -815,6 +995,8 @@
     "nombre": "LUIS RICARDO MELENDEZ RODRIGUEZ",
     "ventas": 24,
     "logro": 90.6,
+    "renovaciones": 6,
+    "logroRenov": 22.6,
     "fechaStr": "23/11/2025",
     "esNuevo": false
   },
@@ -824,6 +1006,8 @@
     "nombre": "OMAR ALEXIS GARCIA REYES",
     "ventas": 10,
     "logro": 162.8,
+    "renovaciones": 1,
+    "logroRenov": 16.3,
     "fechaStr": "11/2/2026",
     "esNuevo": false
   },
@@ -833,6 +1017,8 @@
     "nombre": "EDGAR ANTONIO CERVANTES GARCIA",
     "ventas": 13,
     "logro": 211.6,
+    "renovaciones": 2,
+    "logroRenov": 32.6,
     "fechaStr": "2/3/2026",
     "esNuevo": false
   },
@@ -842,6 +1028,8 @@
     "nombre": "DIEGO ANDRES ESTRADA LEON",
     "ventas": 26,
     "logro": 98.1,
+    "renovaciones": 1,
+    "logroRenov": 3.8,
     "fechaStr": "2/3/2026",
     "esNuevo": false
   },
@@ -851,6 +1039,8 @@
     "nombre": "ISABELA NIETO SANTILLAN",
     "ventas": 14,
     "logro": 52.8,
+    "renovaciones": 4,
+    "logroRenov": 15.1,
     "fechaStr": "8/3/2026",
     "esNuevo": false
   },
@@ -860,6 +1050,8 @@
     "nombre": "DIANA KAREN MACIAS ESCALERA",
     "ventas": 5,
     "logro": 81.4,
+    "renovaciones": 2,
+    "logroRenov": 32.6,
     "fechaStr": "22/3/2026",
     "esNuevo": false
   },
@@ -869,6 +1061,8 @@
     "nombre": "JUAN CARLOS OLIVERA TORRES",
     "ventas": 0,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "14/4/2026",
     "esNuevo": true
   },
@@ -878,6 +1072,8 @@
     "nombre": "BRISA DANIELA DE LOS SANTOS BULBARELA",
     "ventas": 7,
     "logro": 114,
+    "renovaciones": 4,
+    "logroRenov": 15.1,
     "fechaStr": "23/11/2025",
     "esNuevo": false
   },
@@ -887,6 +1083,8 @@
     "nombre": "ALEJANDRO GUADALUPE GONZALEZ RAMIREZ",
     "ventas": 0,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "14/4/2026",
     "esNuevo": true
   },
@@ -896,6 +1094,8 @@
     "nombre": "ALEXA VALERIA VEGA HIGAREDA",
     "ventas": 10,
     "logro": 49.5,
+    "renovaciones": 3,
+    "logroRenov": 14.8,
     "fechaStr": "8/1/2026",
     "esNuevo": false
   },
@@ -905,6 +1105,8 @@
     "nombre": "GERMAN OLIVER CUADRAS RAMIREZ",
     "ventas": 27,
     "logro": 133.5,
+    "renovaciones": 7,
+    "logroRenov": 34.6,
     "fechaStr": "13/3/2022",
     "esNuevo": false
   },
@@ -914,6 +1116,8 @@
     "nombre": "ISAAC OSVALDO SANCHEZ CASTRO",
     "ventas": 28,
     "logro": 138.5,
+    "renovaciones": 11,
+    "logroRenov": 54.4,
     "fechaStr": "6/10/2024",
     "esNuevo": false
   },
@@ -923,6 +1127,8 @@
     "nombre": "JONATHAN JESUS MADRIGAL CLEMENTE",
     "ventas": 21,
     "logro": 103.8,
+    "renovaciones": 7,
+    "logroRenov": 34.6,
     "fechaStr": "12/10/2025",
     "esNuevo": false
   },
@@ -932,6 +1138,8 @@
     "nombre": "LEONARDO ROGELIO GAMBOA OTERO",
     "ventas": 20,
     "logro": 98.9,
+    "renovaciones": 4,
+    "logroRenov": 19.8,
     "fechaStr": "15/5/2023",
     "esNuevo": false
   },
@@ -941,6 +1149,8 @@
     "nombre": "NORBERTO SOTERO SALAZAR",
     "ventas": 29,
     "logro": 143.4,
+    "renovaciones": 14,
+    "logroRenov": 69.2,
     "fechaStr": "26/11/2023",
     "esNuevo": false
   },
@@ -950,6 +1160,8 @@
     "nombre": "ANAHI VICTORIA RAMIREZ ACOSTA",
     "ventas": 12,
     "logro": 59.3,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "3/3/2026",
     "esNuevo": false
   },
@@ -959,6 +1171,8 @@
     "nombre": "JESSICA SHERLYN GUTIERREZ MEDINA",
     "ventas": 10,
     "logro": 49.5,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "8/3/2026",
     "esNuevo": false
   },
@@ -968,6 +1182,8 @@
     "nombre": "CHRISTIAN EMMANUEL VERGARA VALENCIA",
     "ventas": 10,
     "logro": 49.5,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "16/3/2026",
     "esNuevo": false
   },
@@ -977,6 +1193,8 @@
     "nombre": "ALEJANDRA NAOMI VAZQUEZ MARIN",
     "ventas": 19,
     "logro": 107.5,
+    "renovaciones": 8,
+    "logroRenov": 45.3,
     "fechaStr": "12/2/2025",
     "esNuevo": false
   },
@@ -986,6 +1204,8 @@
     "nombre": "CRISTIAN CARRASCO TLAPALAMATL",
     "ventas": 39,
     "logro": 220.8,
+    "renovaciones": 21,
+    "logroRenov": 118.9,
     "fechaStr": "25/4/2021",
     "esNuevo": false
   },
@@ -995,6 +1215,8 @@
     "nombre": "DIANA KRISTAL GAMBOA OTERO",
     "ventas": 2,
     "logro": 11.3,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "10/5/2021",
     "esNuevo": false
   },
@@ -1004,6 +1226,8 @@
     "nombre": "IRVIN JOSHUAN IGNACIO TOSCANO",
     "ventas": 16,
     "logro": 90.6,
+    "renovaciones": 8,
+    "logroRenov": 45.3,
     "fechaStr": "30/10/2022",
     "esNuevo": false
   },
@@ -1013,6 +1237,8 @@
     "nombre": "RUBEN SANCHEZ SANCHEZ",
     "ventas": 19,
     "logro": 107.5,
+    "renovaciones": 6,
+    "logroRenov": 34,
     "fechaStr": "28/8/2024",
     "esNuevo": false
   },
@@ -1022,6 +1248,8 @@
     "nombre": "KEYLA NOEMI HERNANDEZ CASTRO",
     "ventas": 0,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "15/4/2026",
     "esNuevo": true
   },
@@ -1031,6 +1259,8 @@
     "nombre": "ALFONSO DANIEL ROMERO SANCHEZ",
     "ventas": 2,
     "logro": 18.6,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "14/4/2026",
     "esNuevo": true
   },
@@ -1040,6 +1270,8 @@
     "nombre": "BRANDON IRIAM CAZAREZ CASTAÑEDA",
     "ventas": 5,
     "logro": 46.5,
+    "renovaciones": 4,
+    "logroRenov": 37.2,
     "fechaStr": "11/1/2026",
     "esNuevo": false
   },
@@ -1049,6 +1281,8 @@
     "nombre": "MARIA DE LOS ANGELES LOPEZ GARCIA",
     "ventas": 14,
     "logro": 130.2,
+    "renovaciones": 5,
+    "logroRenov": 46.5,
     "fechaStr": "27/4/2025",
     "esNuevo": false
   },
@@ -1058,6 +1292,8 @@
     "nombre": "MIGUEL ALFONSO AMBRIZ RODRIGUEZ",
     "ventas": 13,
     "logro": 120.9,
+    "renovaciones": 11,
+    "logroRenov": 102.3,
     "fechaStr": "14/11/2024",
     "esNuevo": false
   },
@@ -1067,6 +1303,8 @@
     "nombre": "OSVALDO ALONSO HERNANDEZ MONTAÑO",
     "ventas": 21,
     "logro": 195.3,
+    "renovaciones": 10,
+    "logroRenov": 93,
     "fechaStr": "27/10/2024",
     "esNuevo": false
   },
@@ -1076,6 +1314,8 @@
     "nombre": "VICTOR JOEL HERNANDEZ RODRIGUEZ",
     "ventas": 18,
     "logro": 167.4,
+    "renovaciones": 3,
+    "logroRenov": 27.9,
     "fechaStr": "24/8/2025",
     "esNuevo": false
   },
@@ -1085,6 +1325,8 @@
     "nombre": "JUAN LUIS VALADEZ RABAGO",
     "ventas": 1,
     "logro": 9.3,
+    "renovaciones": 1,
+    "logroRenov": 9.3,
     "fechaStr": "14/4/2026",
     "esNuevo": true
   },
@@ -1094,6 +1336,8 @@
     "nombre": "ANA ARLYN GUZMAN AVALOS",
     "ventas": 1,
     "logro": 9.3,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "14/4/2026",
     "esNuevo": true
   },
@@ -1103,6 +1347,8 @@
     "nombre": "GUILLERMO DANIEL CORTEZ TORRES",
     "ventas": 14,
     "logro": 73.7,
+    "renovaciones": 5,
+    "logroRenov": 26.3,
     "fechaStr": "20/1/2026",
     "esNuevo": false
   },
@@ -1112,6 +1358,8 @@
     "nombre": "RAUL MORENO ESTRADA",
     "ventas": 1,
     "logro": 5.3,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "15/2/2026",
     "esNuevo": false
   },
@@ -1121,6 +1369,8 @@
     "nombre": "GERARDO DANIEL LUNA LOPEZ",
     "ventas": 8,
     "logro": 63.2,
+    "renovaciones": 4,
+    "logroRenov": 31.6,
     "fechaStr": "14/12/2025",
     "esNuevo": false
   },
@@ -1130,6 +1380,8 @@
     "nombre": "MARCOS GAMALIEL GUTIERREZ RODRIGUEZ",
     "ventas": 5,
     "logro": 26.3,
+    "renovaciones": 1,
+    "logroRenov": 7.9,
     "fechaStr": "14/1/2026",
     "esNuevo": false
   },
@@ -1139,6 +1391,8 @@
     "nombre": "MIGUEL ANGEL LEE POBLETE",
     "ventas": 1,
     "logro": 7.9,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "20/4/2026",
     "esNuevo": true
   },
@@ -1148,6 +1402,8 @@
     "nombre": "DANIELA MICHELLE CORPUS LOPEZ",
     "ventas": 14,
     "logro": 81.4,
+    "renovaciones": 2,
+    "logroRenov": 11.6,
     "fechaStr": "13/1/2026",
     "esNuevo": false
   },
@@ -1157,6 +1413,8 @@
     "nombre": "FRANCISCO JOEL LAREDO BAEZ",
     "ventas": 26,
     "logro": 151.2,
+    "renovaciones": 8,
+    "logroRenov": 46.5,
     "fechaStr": "27/8/2025",
     "esNuevo": false
   },
@@ -1166,6 +1424,8 @@
     "nombre": "LUIS ANGEL DE ANDA MATA",
     "ventas": 21,
     "logro": 122.1,
+    "renovaciones": 5,
+    "logroRenov": 29.1,
     "fechaStr": "4/8/2025",
     "esNuevo": false
   },
@@ -1175,6 +1435,8 @@
     "nombre": "MARIA FERNANDA COBOS OSORIO",
     "ventas": 24,
     "logro": 139.5,
+    "renovaciones": 10,
+    "logroRenov": 58.1,
     "fechaStr": "12/1/2025",
     "esNuevo": false
   },
@@ -1184,6 +1446,8 @@
     "nombre": "EDUARDO HERNANDEZ MIGUEL",
     "ventas": 2,
     "logro": 11.6,
+    "renovaciones": 1,
+    "logroRenov": 5.8,
     "fechaStr": "9/4/2026",
     "esNuevo": true
   },
@@ -1193,6 +1457,8 @@
     "nombre": "ALBERTO RUEDA RODRIGUEZ",
     "ventas": 22,
     "logro": 85.7,
+    "renovaciones": 7,
+    "logroRenov": 27.3,
     "fechaStr": "12/6/2025",
     "esNuevo": false
   },
@@ -1202,6 +1468,8 @@
     "nombre": "PAOLA EDITH AVILES AGUILAR",
     "ventas": 28,
     "logro": 109.1,
+    "renovaciones": 15,
+    "logroRenov": 58.4,
     "fechaStr": "3/8/2025",
     "esNuevo": false
   },
@@ -1211,6 +1479,8 @@
     "nombre": "LUCERO ELIZABETH BELTRAN JASSO",
     "ventas": 15,
     "logro": 58.4,
+    "renovaciones": 4,
+    "logroRenov": 15.6,
     "fechaStr": "12/3/2026",
     "esNuevo": false
   },
@@ -1220,6 +1490,8 @@
     "nombre": "JOSE MIGUEL MORENO DOÑEZ",
     "ventas": 11,
     "logro": 28.9,
+    "renovaciones": 2,
+    "logroRenov": 5.3,
     "fechaStr": "7/12/2025",
     "esNuevo": false
   },
@@ -1229,6 +1501,8 @@
     "nombre": "BRIAN JOSE SEGURA FLORES",
     "ventas": 13,
     "logro": 134.5,
+    "renovaciones": 2,
+    "logroRenov": 20.7,
     "fechaStr": "26/10/2025",
     "esNuevo": false
   },
@@ -1238,6 +1512,8 @@
     "nombre": "FATIMA MONSERRAT HERNANDEZ MARTINEZ",
     "ventas": 14,
     "logro": 144.8,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "22/3/2026",
     "esNuevo": false
   },
@@ -1247,6 +1523,8 @@
     "nombre": "DANNA ANETT VALENZUELA MINOR",
     "ventas": 0,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "26/4/2026",
     "esNuevo": true
   },
@@ -1256,6 +1534,8 @@
     "nombre": "GISSEL DARIANNA DIAZ RODRIGUEZ",
     "ventas": 9,
     "logro": 94.7,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "24/2/2026",
     "esNuevo": false
   },
@@ -1265,8 +1545,10 @@
     "nombre": "EVELYN ASTRID MARTINEZ ESPINOSA",
     "ventas": 14,
     "logro": 147.4,
+    "renovaciones": 2,
+    "logroRenov": 21.1,
     "fechaStr": "29/3/2026",
-    "esNuevo": true
+    "esNuevo": false
   },
   {
     "reg": "3.-NORTE",
@@ -1274,6 +1556,8 @@
     "nombre": "PEDRO JESUS MARTINEZ DIAZ",
     "ventas": 15,
     "logro": 157.9,
+    "renovaciones": 2,
+    "logroRenov": 21.1,
     "fechaStr": "1/4/2026",
     "esNuevo": true
   },
@@ -1283,6 +1567,8 @@
     "nombre": "IVAN CECILIO ATILANO",
     "ventas": 0,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "20/4/2026",
     "esNuevo": true
   },
@@ -1292,6 +1578,8 @@
     "nombre": "DANIELA ABIGAIL HERNANDEZ RAMOS",
     "ventas": 11,
     "logro": 68.8,
+    "renovaciones": 6,
+    "logroRenov": 37.5,
     "fechaStr": "1/2/2026",
     "esNuevo": false
   },
@@ -1301,6 +1589,8 @@
     "nombre": "EMILIANO CAVAZOS MARTINEZ",
     "ventas": 16,
     "logro": 100,
+    "renovaciones": 2,
+    "logroRenov": 12.5,
     "fechaStr": "13/2/2025",
     "esNuevo": false
   },
@@ -1310,6 +1600,8 @@
     "nombre": "ALEJANDRA JANETH BERLANGA MATA",
     "ventas": 1,
     "logro": 6.3,
+    "renovaciones": 1,
+    "logroRenov": 6.3,
     "fechaStr": "9/4/2026",
     "esNuevo": true
   },
@@ -1319,6 +1611,8 @@
     "nombre": "JOAQUIN MANRIQUEZ SAUCEDA",
     "ventas": 21,
     "logro": 105,
+    "renovaciones": 11,
+    "logroRenov": 55,
     "fechaStr": "1/8/2023",
     "esNuevo": false
   },
@@ -1328,6 +1622,8 @@
     "nombre": "ESTEFANI YAMILET CARMONA VIÑA",
     "ventas": 7,
     "logro": 32.6,
+    "renovaciones": 3,
+    "logroRenov": 14,
     "fechaStr": "15/2/2026",
     "esNuevo": false
   },
@@ -1337,6 +1633,8 @@
     "nombre": "EDER MAURICIO MARQUEZ CORREA",
     "ventas": 6,
     "logro": 47.4,
+    "renovaciones": 1,
+    "logroRenov": 7.9,
     "fechaStr": "18/1/2026",
     "esNuevo": false
   },
@@ -1346,6 +1644,8 @@
     "nombre": "GUSTAVO MARCELO ACEVEDO ARROYO",
     "ventas": 8,
     "logro": 63.2,
+    "renovaciones": 2,
+    "logroRenov": 15.8,
     "fechaStr": "20/1/2026",
     "esNuevo": false
   },
@@ -1355,6 +1655,8 @@
     "nombre": "MONICA JUDITH GARCIA SANTOS",
     "ventas": 0,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "6/8/2025",
     "esNuevo": false
   },
@@ -1364,6 +1666,8 @@
     "nombre": "MARITZA CAMILA MARTINEZ FLORES",
     "ventas": 6,
     "logro": 41.4,
+    "renovaciones": 1,
+    "logroRenov": 6.9,
     "fechaStr": "11/3/2026",
     "esNuevo": false
   },
@@ -1373,6 +1677,8 @@
     "nombre": "MIGUEL ANGEL HERNANDEZ GUTIERREZ",
     "ventas": 11,
     "logro": 75.9,
+    "renovaciones": 1,
+    "logroRenov": 6.9,
     "fechaStr": "11/3/2026",
     "esNuevo": false
   },
@@ -1382,6 +1688,8 @@
     "nombre": "ANGELA TERESA FUENTES VALTIER",
     "ventas": 13,
     "logro": 90.7,
+    "renovaciones": 7,
+    "logroRenov": 48.8,
     "fechaStr": "4/11/2025",
     "esNuevo": false
   },
@@ -1391,6 +1699,8 @@
     "nombre": "EMILY YAMILET ROBLES AGUIRRE",
     "ventas": 0,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "6/10/2025",
     "esNuevo": false
   },
@@ -1400,6 +1710,8 @@
     "nombre": "FATIMA MARGARITA AVITIA COBOS",
     "ventas": 3,
     "logro": 20.9,
+    "renovaciones": 1,
+    "logroRenov": 7,
     "fechaStr": "21/4/2026",
     "esNuevo": true
   },
@@ -1409,6 +1721,8 @@
     "nombre": "JONATHAN GARCIA ALVARADO",
     "ventas": 14,
     "logro": 97.7,
+    "renovaciones": 4,
+    "logroRenov": 27.9,
     "fechaStr": "26/10/2025",
     "esNuevo": false
   },
@@ -1418,6 +1732,8 @@
     "nombre": "LEONARDO MIGUEL MERCADO ASCENCIO",
     "ventas": 17,
     "logro": 118.6,
+    "renovaciones": 5,
+    "logroRenov": 34.9,
     "fechaStr": "17/8/2025",
     "esNuevo": false
   },
@@ -1427,6 +1743,8 @@
     "nombre": "MARCO ANTONIO MORENO RIVERA",
     "ventas": 19,
     "logro": 132.6,
+    "renovaciones": 6,
+    "logroRenov": 41.9,
     "fechaStr": "18/1/2026",
     "esNuevo": false
   },
@@ -1436,6 +1754,8 @@
     "nombre": "DENZEL DAVID DIAZ HERRERA",
     "ventas": 5,
     "logro": 25,
+    "renovaciones": 3,
+    "logroRenov": 15,
     "fechaStr": "4/2/2026",
     "esNuevo": false
   },
@@ -1445,6 +1765,8 @@
     "nombre": "HECTOR DANIEL VILLARREAL ARAUJO",
     "ventas": 20,
     "logro": 125,
+    "renovaciones": 7,
+    "logroRenov": 43.8,
     "fechaStr": "20/5/2025",
     "esNuevo": false
   },
@@ -1454,6 +1776,8 @@
     "nombre": "ISMAEL SANCHEZ MORALES",
     "ventas": 44,
     "logro": 220,
+    "renovaciones": 22,
+    "logroRenov": 110,
     "fechaStr": "1/9/2024",
     "esNuevo": false
   },
@@ -1463,6 +1787,8 @@
     "nombre": "LESSLY VIANEY BACAB MANRIQUE",
     "ventas": 27,
     "logro": 135,
+    "renovaciones": 16,
+    "logroRenov": 80,
     "fechaStr": "26/4/2024",
     "esNuevo": false
   },
@@ -1472,6 +1798,8 @@
     "nombre": "SHARA ANGELICA ALARCON SANCHEZ",
     "ventas": 11,
     "logro": 55,
+    "renovaciones": 10,
+    "logroRenov": 50,
     "fechaStr": "29/8/2024",
     "esNuevo": false
   },
@@ -1481,6 +1809,8 @@
     "nombre": "ANTHONY FERNANDO ROBLES MENDEZ",
     "ventas": 0,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "21/4/2026",
     "esNuevo": true
   },
@@ -1490,6 +1820,8 @@
     "nombre": "ANDREA SABRINA CASTILLEJA ARIAS",
     "ventas": 54,
     "logro": 280.5,
+    "renovaciones": 14,
+    "logroRenov": 72.7,
     "fechaStr": "19/2/2024",
     "esNuevo": false
   },
@@ -1499,6 +1831,8 @@
     "nombre": "IRVING DANIEL BETANCOURT LUEZA",
     "ventas": 21,
     "logro": 109.1,
+    "renovaciones": 9,
+    "logroRenov": 46.8,
     "fechaStr": "7/1/2025",
     "esNuevo": false
   },
@@ -1508,6 +1842,8 @@
     "nombre": "GERONIMO DANIEL SANTIAGO ORTEGA",
     "ventas": 5,
     "logro": 26,
+    "renovaciones": 6,
+    "logroRenov": 31.2,
     "fechaStr": "17/3/2026",
     "esNuevo": false
   },
@@ -1517,6 +1853,8 @@
     "nombre": "EMILIANO LARA CARRERA",
     "ventas": 0,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "23/4/2026",
     "esNuevo": true
   },
@@ -1526,6 +1864,8 @@
     "nombre": "EDGAR ALAN RIVERA SAMPAYO",
     "ventas": 26,
     "logro": 86.7,
+    "renovaciones": 11,
+    "logroRenov": 36.7,
     "fechaStr": "25/7/2021",
     "esNuevo": false
   },
@@ -1535,6 +1875,8 @@
     "nombre": "ERICK ROGELIO CASTILLO DEL ANGEL",
     "ventas": 29,
     "logro": 96.7,
+    "renovaciones": 8,
+    "logroRenov": 26.7,
     "fechaStr": "25/4/2023",
     "esNuevo": false
   },
@@ -1544,6 +1886,8 @@
     "nombre": "NOE ULISES LIRA LUNA",
     "ventas": 36,
     "logro": 120,
+    "renovaciones": 7,
+    "logroRenov": 23.3,
     "fechaStr": "12/10/2023",
     "esNuevo": false
   },
@@ -1553,6 +1897,8 @@
     "nombre": "MAYRELI SANCHEZ HERNANDEZ",
     "ventas": 7,
     "logro": 23.3,
+    "renovaciones": 2,
+    "logroRenov": 6.7,
     "fechaStr": "17/3/2026",
     "esNuevo": false
   },
@@ -1562,6 +1908,8 @@
     "nombre": "LESLEY MICHELLE XALA PARRA",
     "ventas": 14,
     "logro": 96.6,
+    "renovaciones": 3,
+    "logroRenov": 20.7,
     "fechaStr": "12/10/2025",
     "esNuevo": false
   },
@@ -1571,6 +1919,8 @@
     "nombre": "JUAN DIEGO CASILLAS JALOMO",
     "ventas": 0,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "13/4/2026",
     "esNuevo": true
   },
@@ -1580,6 +1930,8 @@
     "nombre": "AXEL ANTONIO LERMA CRUZ",
     "ventas": 21,
     "logro": 146.5,
+    "renovaciones": 8,
+    "logroRenov": 55.8,
     "fechaStr": "24/6/2025",
     "esNuevo": false
   },
@@ -1589,6 +1941,8 @@
     "nombre": "SERGIO AMERICO MANSUR REYNA",
     "ventas": 6,
     "logro": 41.9,
+    "renovaciones": 5,
+    "logroRenov": 34.9,
     "fechaStr": "8/3/2026",
     "esNuevo": false
   },
@@ -1598,6 +1952,8 @@
     "nombre": "TAKESHI SALINAS SALAZAR",
     "ventas": 1,
     "logro": 7,
+    "renovaciones": 1,
+    "logroRenov": 7,
     "fechaStr": "12/4/2026",
     "esNuevo": true
   },
@@ -1607,6 +1963,8 @@
     "nombre": "ANGEL ABRAHAM RODRIGUEZ MENDOZA",
     "ventas": 21,
     "logro": 105,
+    "renovaciones": 5,
+    "logroRenov": 25,
     "fechaStr": "17/7/2025",
     "esNuevo": false
   },
@@ -1616,6 +1974,8 @@
     "nombre": "DANIEL ALONZO MENDOZA",
     "ventas": 26,
     "logro": 130,
+    "renovaciones": 8,
+    "logroRenov": 40,
     "fechaStr": "20/4/2025",
     "esNuevo": false
   },
@@ -1625,6 +1985,8 @@
     "nombre": "DENISSE AZBETH COLORADO RAMIREZ",
     "ventas": 21,
     "logro": 105,
+    "renovaciones": 7,
+    "logroRenov": 35,
     "fechaStr": "21/12/2025",
     "esNuevo": false
   },
@@ -1634,6 +1996,8 @@
     "nombre": "JONATHAN EMMANUEL OCHOA FUENTES",
     "ventas": 27,
     "logro": 135,
+    "renovaciones": 7,
+    "logroRenov": 35,
     "fechaStr": "18/8/2025",
     "esNuevo": false
   },
@@ -1643,6 +2007,8 @@
     "nombre": "ROBERTO LEEVAN ORTIZ HILARIO",
     "ventas": 27,
     "logro": 135,
+    "renovaciones": 3,
+    "logroRenov": 15,
     "fechaStr": "14/8/2024",
     "esNuevo": false
   },
@@ -1652,6 +2018,8 @@
     "nombre": "EDITH ARLAHEL FLORES RAMIREZ",
     "ventas": 0,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "23/4/2026",
     "esNuevo": true
   },
@@ -1661,6 +2029,8 @@
     "nombre": "IVAN MICHELLE CHAIRES MENDEZ",
     "ventas": 25,
     "logro": 137.4,
+    "renovaciones": 4,
+    "logroRenov": 22,
     "fechaStr": "15/12/2024",
     "esNuevo": false
   },
@@ -1670,6 +2040,8 @@
     "nombre": "JOSE ALFREDO ARTEAGA RAMOS",
     "ventas": 23,
     "logro": 126.4,
+    "renovaciones": 2,
+    "logroRenov": 11,
     "fechaStr": "7/10/2025",
     "esNuevo": false
   },
@@ -1679,6 +2051,8 @@
     "nombre": "MARTIN DE JESUS EGUIARTE BEJARANO",
     "ventas": 25,
     "logro": 137.4,
+    "renovaciones": 1,
+    "logroRenov": 5.5,
     "fechaStr": "26/10/2025",
     "esNuevo": false
   },
@@ -1688,6 +2062,8 @@
     "nombre": "VICTOR ERNESTO PEREZ ROBLES",
     "ventas": 20,
     "logro": 109.9,
+    "renovaciones": 3,
+    "logroRenov": 16.5,
     "fechaStr": "4/5/2025",
     "esNuevo": false
   },
@@ -1697,6 +2073,8 @@
     "nombre": "VIRIDIANA LOPEZ MACIAS",
     "ventas": 7,
     "logro": 38.5,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "5/4/2026",
     "esNuevo": true
   },
@@ -1706,6 +2084,8 @@
     "nombre": "ARATH MAXIMILIANO ORBE LOPEZ",
     "ventas": 35,
     "logro": 181,
+    "renovaciones": 4,
+    "logroRenov": 20.7,
     "fechaStr": "18/1/2026",
     "esNuevo": false
   },
@@ -1715,6 +2095,8 @@
     "nombre": "CYNTHIA VANESSA IBARRA DEL MURO",
     "ventas": 15,
     "logro": 77.6,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "13/11/2025",
     "esNuevo": false
   },
@@ -1724,6 +2106,8 @@
     "nombre": "EMMANUEL ALEJANDRO ALVARADO VALADEZ",
     "ventas": 7,
     "logro": 36.2,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "12/4/2026",
     "esNuevo": true
   },
@@ -1733,6 +2117,8 @@
     "nombre": "GERMAN ARTURO ROSALES SHAMOSH",
     "ventas": 1,
     "logro": 4.2,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "14/4/2026",
     "esNuevo": true
   },
@@ -1742,6 +2128,8 @@
     "nombre": "YAJAIRA DENISSE CABRERA LEYJA",
     "ventas": 2,
     "logro": 8.3,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "12/4/2026",
     "esNuevo": true
   },
@@ -1751,6 +2139,8 @@
     "nombre": "CESAR JAVIER MARTINEZ MEDINA",
     "ventas": 30,
     "logro": 109.8,
+    "renovaciones": 3,
+    "logroRenov": 11,
     "fechaStr": "4/1/2026",
     "esNuevo": false
   },
@@ -1760,6 +2150,8 @@
     "nombre": "LUIS ANTONIO QUEZADA GONZALEZ",
     "ventas": 17,
     "logro": 62.2,
+    "renovaciones": 1,
+    "logroRenov": 3.7,
     "fechaStr": "27/7/2025",
     "esNuevo": false
   },
@@ -1769,6 +2161,8 @@
     "nombre": "MAURICIO HERNANDEZ GARCIA",
     "ventas": 47,
     "logro": 172,
+    "renovaciones": 38,
+    "logroRenov": 139,
     "fechaStr": "12/10/2025",
     "esNuevo": false
   },
@@ -1778,6 +2172,8 @@
     "nombre": "ANDRES AVALOS ESTRADA",
     "ventas": 24,
     "logro": 131.9,
+    "renovaciones": 1,
+    "logroRenov": 5.5,
     "fechaStr": "20/10/2024",
     "esNuevo": false
   },
@@ -1787,6 +2183,8 @@
     "nombre": "DENIS JAIRO ALFARO HERRERA",
     "ventas": 13,
     "logro": 71.4,
+    "renovaciones": 2,
+    "logroRenov": 11,
     "fechaStr": "15/6/2025",
     "esNuevo": false
   },
@@ -1796,6 +2194,8 @@
     "nombre": "FERNANDO HERNANDEZ OLEA",
     "ventas": 21,
     "logro": 115.4,
+    "renovaciones": 4,
+    "logroRenov": 22,
     "fechaStr": "5/6/2025",
     "esNuevo": false
   },
@@ -1805,6 +2205,8 @@
     "nombre": "GABRIEL ANTONIO GONZALEZ JIMENEZ",
     "ventas": 29,
     "logro": 159.3,
+    "renovaciones": 7,
+    "logroRenov": 38.5,
     "fechaStr": "24/10/2024",
     "esNuevo": false
   },
@@ -1814,6 +2216,8 @@
     "nombre": "MONSERRAT GUADALUPE MONTERO MUÑOZ",
     "ventas": 20,
     "logro": 109.9,
+    "renovaciones": 4,
+    "logroRenov": 22,
     "fechaStr": "31/3/2025",
     "esNuevo": false
   },
@@ -1823,6 +2227,8 @@
     "nombre": "ANGEL DE JESUS TREJO BARRERA",
     "ventas": 4,
     "logro": 85.7,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "5/4/2026",
     "esNuevo": true
   },
@@ -1832,6 +2238,8 @@
     "nombre": "DANIEL LOMELI CEDILLO",
     "ventas": 6,
     "logro": 128.6,
+    "renovaciones": 2,
+    "logroRenov": 42.9,
     "fechaStr": "5/4/2026",
     "esNuevo": true
   },
@@ -1841,6 +2249,8 @@
     "nombre": "DAMARIS ABIGAIL ALVARADO VALADEZ",
     "ventas": 6,
     "logro": 128.6,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "14/4/2026",
     "esNuevo": true
   },
@@ -1850,6 +2260,8 @@
     "nombre": "ADOLFO FLORES MIRANDA",
     "ventas": 13,
     "logro": 90.3,
+    "renovaciones": 2,
+    "logroRenov": 13.9,
     "fechaStr": "30/9/2025",
     "esNuevo": false
   },
@@ -1859,6 +2271,8 @@
     "nombre": "ANAY JOVANELLI SALGADO LOPEZ",
     "ventas": 5,
     "logro": 34.7,
+    "renovaciones": 2,
+    "logroRenov": 13.9,
     "fechaStr": "20/11/2023",
     "esNuevo": false
   },
@@ -1868,6 +2282,8 @@
     "nombre": "JUAN ROMERO LOPEZ",
     "ventas": 13,
     "logro": 90.3,
+    "renovaciones": 6,
+    "logroRenov": 41.7,
     "fechaStr": "1/4/2025",
     "esNuevo": false
   },
@@ -1877,6 +2293,8 @@
     "nombre": "NESTOR DANIEL GUTIERREZ PACHECO",
     "ventas": 14,
     "logro": 97.2,
+    "renovaciones": 1,
+    "logroRenov": 6.9,
     "fechaStr": "7/11/2024",
     "esNuevo": false
   },
@@ -1886,6 +2304,8 @@
     "nombre": "PAOLA FLORES MARTINEZ",
     "ventas": 11,
     "logro": 76.4,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "15/2/2026",
     "esNuevo": false
   },
@@ -1895,6 +2315,8 @@
     "nombre": "ALEJANDRO AVILA MUÑOZ",
     "ventas": 9,
     "logro": 104.7,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "15/2/2026",
     "esNuevo": false
   },
@@ -1904,6 +2326,8 @@
     "nombre": "AUGUSTO JAVIER SERRANO MORENO",
     "ventas": 10,
     "logro": 116.3,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "2/4/2025",
     "esNuevo": false
   },
@@ -1913,6 +2337,8 @@
     "nombre": "JOSE FRANCISCO RAMIREZ GARCIA",
     "ventas": 17,
     "logro": 197.7,
+    "renovaciones": 4,
+    "logroRenov": 46.5,
     "fechaStr": "27/10/2024",
     "esNuevo": false
   },
@@ -1922,6 +2348,8 @@
     "nombre": "JESUS DANIEL OLIVAREZ GONZALEZ",
     "ventas": 0,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "26/4/2026",
     "esNuevo": true
   },
@@ -1931,6 +2359,8 @@
     "nombre": "ABIGAIL REYES ORTIZ",
     "ventas": 6,
     "logro": 38.7,
+    "renovaciones": 3,
+    "logroRenov": 19.4,
     "fechaStr": "12/8/2024",
     "esNuevo": false
   },
@@ -1940,6 +2370,8 @@
     "nombre": "JONATHAN JESUS CHERLIN GARCIA",
     "ventas": 16,
     "logro": 103.2,
+    "renovaciones": 2,
+    "logroRenov": 12.9,
     "fechaStr": "4/9/2022",
     "esNuevo": false
   },
@@ -1949,6 +2381,8 @@
     "nombre": "KAREN MICHELLE MARTINEZ FLORES",
     "ventas": 21,
     "logro": 135.5,
+    "renovaciones": 6,
+    "logroRenov": 38.7,
     "fechaStr": "31/3/2025",
     "esNuevo": false
   },
@@ -1958,6 +2392,8 @@
     "nombre": "AMELIA PINEDA ESCOBAR",
     "ventas": 0,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "26/4/2026",
     "esNuevo": true
   },
@@ -1967,6 +2403,8 @@
     "nombre": "MARCELINO SANCHEZ ACUÑA",
     "ventas": 24,
     "logro": 200,
+    "renovaciones": 5,
+    "logroRenov": 41.7,
     "fechaStr": "17/10/2021",
     "esNuevo": false
   },
@@ -1976,6 +2414,8 @@
     "nombre": "NANCY AURORA BARAJAS PEREZ",
     "ventas": 9,
     "logro": 75,
+    "renovaciones": 6,
+    "logroRenov": 50,
     "fechaStr": "9/2/2024",
     "esNuevo": false
   },
@@ -1985,6 +2425,8 @@
     "nombre": "ISRAEL MENDEZ CRUZ",
     "ventas": 2,
     "logro": 16.7,
+    "renovaciones": 3,
+    "logroRenov": 25,
     "fechaStr": "22/3/2026",
     "esNuevo": false
   },
@@ -1994,6 +2436,8 @@
     "nombre": "HECTOR VALENTIN PEREZ",
     "ventas": 2,
     "logro": 16.7,
+    "renovaciones": 1,
+    "logroRenov": 8.3,
     "fechaStr": "19/4/2026",
     "esNuevo": true
   },
@@ -2003,6 +2447,8 @@
     "nombre": "ALONDRA VELASCO YLLANES",
     "ventas": 6,
     "logro": 63.2,
+    "renovaciones": 1,
+    "logroRenov": 10.5,
     "fechaStr": "2/2/2026",
     "esNuevo": false
   },
@@ -2012,6 +2458,8 @@
     "nombre": "DANIEL NAVA PALACIOS",
     "ventas": 8,
     "logro": 84.2,
+    "renovaciones": 1,
+    "logroRenov": 10.5,
     "fechaStr": "23/11/2025",
     "esNuevo": false
   },
@@ -2021,6 +2469,8 @@
     "nombre": "GEORGINA PEREZ LARA",
     "ventas": 5,
     "logro": 52.6,
+    "renovaciones": 2,
+    "logroRenov": 21.1,
     "fechaStr": "1/7/2025",
     "esNuevo": false
   },
@@ -2030,6 +2480,8 @@
     "nombre": "LEONOR VICTORIA ROMERO MEJIA",
     "ventas": 4,
     "logro": 42.1,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "7/9/2025",
     "esNuevo": false
   },
@@ -2039,6 +2491,8 @@
     "nombre": "ALINE LUYANDO FRIAS",
     "ventas": 18,
     "logro": 136.7,
+    "renovaciones": 4,
+    "logroRenov": 30.4,
     "fechaStr": "5/10/2025",
     "esNuevo": false
   },
@@ -2048,6 +2502,8 @@
     "nombre": "ANAKAREN ZEMPOALTECATL COATL",
     "ventas": 12,
     "logro": 91.1,
+    "renovaciones": 2,
+    "logroRenov": 15.2,
     "fechaStr": "27/10/2025",
     "esNuevo": false
   },
@@ -2057,6 +2513,8 @@
     "nombre": "ARMANDO VALERIO MENDEZ",
     "ventas": 14,
     "logro": 106.3,
+    "renovaciones": 6,
+    "logroRenov": 45.6,
     "fechaStr": "9/10/2017",
     "esNuevo": false
   },
@@ -2066,6 +2524,8 @@
     "nombre": "DAVID MICHEL CHERLIN GARCIA",
     "ventas": 15,
     "logro": 113.9,
+    "renovaciones": 1,
+    "logroRenov": 7.6,
     "fechaStr": "28/2/2018",
     "esNuevo": false
   },
@@ -2075,6 +2535,8 @@
     "nombre": "ERICK GENARO PEREZ VIDAL",
     "ventas": 12,
     "logro": 91.1,
+    "renovaciones": 10,
+    "logroRenov": 75.9,
     "fechaStr": "5/3/2025",
     "esNuevo": false
   },
@@ -2084,6 +2546,8 @@
     "nombre": "FERNANDO CHAVEZ CALDERON",
     "ventas": 0,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "9/6/2019",
     "esNuevo": false
   },
@@ -2093,6 +2557,8 @@
     "nombre": "GUILLERMO ADRIEL PALMA HERRERA",
     "ventas": 14,
     "logro": 106.3,
+    "renovaciones": 12,
+    "logroRenov": 91.1,
     "fechaStr": "13/7/2025",
     "esNuevo": false
   },
@@ -2102,6 +2568,8 @@
     "nombre": "JESUS ALBERTO DELFIN RODRIGUEZ",
     "ventas": 13,
     "logro": 98.7,
+    "renovaciones": 10,
+    "logroRenov": 75.9,
     "fechaStr": "6/3/2023",
     "esNuevo": false
   },
@@ -2111,6 +2579,8 @@
     "nombre": "JOSE DANIEL OROZCO RODRIGUEZ",
     "ventas": 14,
     "logro": 106.3,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "16/3/2025",
     "esNuevo": false
   },
@@ -2120,6 +2590,8 @@
     "nombre": "LEONEL ROMERO LOPEZ",
     "ventas": 9,
     "logro": 68.4,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "22/5/2022",
     "esNuevo": false
   },
@@ -2129,6 +2601,8 @@
     "nombre": "OSCAR BUSTAMANTE GARCIA",
     "ventas": 11,
     "logro": 83.5,
+    "renovaciones": 16,
+    "logroRenov": 121.5,
     "fechaStr": "8/2/2018",
     "esNuevo": false
   },
@@ -2138,6 +2612,8 @@
     "nombre": "CLAUDIA ANDREA ALVAREZ MORENO",
     "ventas": 16,
     "logro": 121.5,
+    "renovaciones": 1,
+    "logroRenov": 7.6,
     "fechaStr": "1/3/2026",
     "esNuevo": false
   },
@@ -2147,6 +2623,8 @@
     "nombre": "ALEJANDRO RAMIREZ HERNANDEZ",
     "ventas": 15,
     "logro": 134.3,
+    "renovaciones": 7,
+    "logroRenov": 62.7,
     "fechaStr": "24/4/2022",
     "esNuevo": false
   },
@@ -2156,6 +2634,8 @@
     "nombre": "EDWIN JARET MENDEZ ROMERO",
     "ventas": 15,
     "logro": 134.3,
+    "renovaciones": 2,
+    "logroRenov": 17.9,
     "fechaStr": "4/12/2025",
     "esNuevo": false
   },
@@ -2165,6 +2645,8 @@
     "nombre": "MARIA VIRGINIA VELAZQUEZ BERNARDINO",
     "ventas": 11,
     "logro": 98.5,
+    "renovaciones": 3,
+    "logroRenov": 26.9,
     "fechaStr": "23/10/2025",
     "esNuevo": false
   },
@@ -2174,6 +2656,8 @@
     "nombre": "MELANIE LIZZETH HERNANDEZ PEREZ",
     "ventas": 8,
     "logro": 71.6,
+    "renovaciones": 2,
+    "logroRenov": 17.9,
     "fechaStr": "24/10/2024",
     "esNuevo": false
   },
@@ -2183,6 +2667,8 @@
     "nombre": "NANCY NETZAHUAL BELEN",
     "ventas": 15,
     "logro": 134.3,
+    "renovaciones": 3,
+    "logroRenov": 26.9,
     "fechaStr": "2/9/2025",
     "esNuevo": false
   },
@@ -2192,6 +2678,8 @@
     "nombre": "JENNY MAGALI SUAREZ HERNANDEZ",
     "ventas": 1,
     "logro": 8.3,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "12/4/2026",
     "esNuevo": true
   },
@@ -2201,6 +2689,8 @@
     "nombre": "ABRAHAM MALDONADO RUIZ",
     "ventas": 15,
     "logro": 125,
+    "renovaciones": 8,
+    "logroRenov": 66.7,
     "fechaStr": "12/9/2021",
     "esNuevo": false
   },
@@ -2210,6 +2700,8 @@
     "nombre": "BRAULIO ACA TEXCA",
     "ventas": 17,
     "logro": 141.7,
+    "renovaciones": 15,
+    "logroRenov": 125,
     "fechaStr": "22/8/2021",
     "esNuevo": false
   },
@@ -2219,6 +2711,8 @@
     "nombre": "DANAE MENDEZ DIAZ",
     "ventas": 7,
     "logro": 58.3,
+    "renovaciones": 1,
+    "logroRenov": 8.3,
     "fechaStr": "2/6/2024",
     "esNuevo": false
   },
@@ -2228,6 +2722,8 @@
     "nombre": "LUIS ALBERTO JUAREZ DELGADILLO",
     "ventas": 3,
     "logro": 25,
+    "renovaciones": 2,
+    "logroRenov": 16.7,
     "fechaStr": "8/2/2026",
     "esNuevo": false
   },
@@ -2237,6 +2733,8 @@
     "nombre": "MALENI DE LA ROSA TEPEPA",
     "ventas": 0,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "19/4/2026",
     "esNuevo": true
   },
@@ -2246,6 +2744,8 @@
     "nombre": "YAVETH ENOC VALENCIA MORA",
     "ventas": 4,
     "logro": 33.3,
+    "renovaciones": 1,
+    "logroRenov": 8.3,
     "fechaStr": "14/12/2025",
     "esNuevo": false
   },
@@ -2255,6 +2755,8 @@
     "nombre": "ROBERTO VERGARA BAUTISTA",
     "ventas": 2,
     "logro": 16.7,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "19/4/2026",
     "esNuevo": true
   },
@@ -2264,6 +2766,8 @@
     "nombre": "DIEGO FLORES MIRON",
     "ventas": 22,
     "logro": 102.3,
+    "renovaciones": 2,
+    "logroRenov": 9.3,
     "fechaStr": "6/1/2025",
     "esNuevo": false
   },
@@ -2273,6 +2777,8 @@
     "nombre": "GABRIELA MORA GONZALEZ",
     "ventas": 8,
     "logro": 37.2,
+    "renovaciones": 1,
+    "logroRenov": 4.7,
     "fechaStr": "8/1/2026",
     "esNuevo": false
   },
@@ -2282,6 +2788,8 @@
     "nombre": "MARIA REBECA MEJIA DE LA CRUZ",
     "ventas": 35,
     "logro": 162.8,
+    "renovaciones": 9,
+    "logroRenov": 41.9,
     "fechaStr": "4/7/2024",
     "esNuevo": false
   },
@@ -2291,6 +2799,8 @@
     "nombre": "GALILEA GONZALEZ PEREZ",
     "ventas": 1,
     "logro": 4.7,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "12/4/2026",
     "esNuevo": true
   },
@@ -2300,6 +2810,8 @@
     "nombre": "ANGEL ALVAREZ NAJERA",
     "ventas": 8,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "22/2/2026",
     "esNuevo": false
   },
@@ -2309,6 +2821,8 @@
     "nombre": "HEBER ISRAEL RIVERA MEJIA",
     "ventas": 3,
     "logro": 25,
+    "renovaciones": 3,
+    "logroRenov": 25,
     "fechaStr": "22/3/2026",
     "esNuevo": false
   },
@@ -2318,6 +2832,8 @@
     "nombre": "NERI HERNANDEZ ADRIAN",
     "ventas": 4,
     "logro": 33.3,
+    "renovaciones": 2,
+    "logroRenov": 16.7,
     "fechaStr": "22/3/2026",
     "esNuevo": false
   },
@@ -2327,6 +2843,8 @@
     "nombre": "RUFINO ORTIZ JUAREZ",
     "ventas": 3,
     "logro": 25,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "1/4/2026",
     "esNuevo": true
   },
@@ -2336,6 +2854,8 @@
     "nombre": "ALMA LILIA SERRANO GONZALEZ",
     "ventas": 0,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "10/1/2016",
     "esNuevo": false
   },
@@ -2345,6 +2865,8 @@
     "nombre": "ANDREA AGUIRRE SEVILLA",
     "ventas": 2,
     "logro": 17.3,
+    "renovaciones": 6,
+    "logroRenov": 51.9,
     "fechaStr": "14/12/2025",
     "esNuevo": false
   },
@@ -2354,6 +2876,8 @@
     "nombre": "MARIA MAGDALENA LEAL AMOR",
     "ventas": 9,
     "logro": 77.9,
+    "renovaciones": 5,
+    "logroRenov": 43.3,
     "fechaStr": "23/10/2016",
     "esNuevo": false
   },
@@ -2363,6 +2887,8 @@
     "nombre": "PAOLA BEATRIZ REYES ALVAREZ",
     "ventas": 12,
     "logro": 103.8,
+    "renovaciones": 7,
+    "logroRenov": 60.6,
     "fechaStr": "21/10/2025",
     "esNuevo": false
   },
@@ -2372,6 +2898,8 @@
     "nombre": "PEDRO BENAVIDES CASTAÑEDA",
     "ventas": 6,
     "logro": 51.9,
+    "renovaciones": 8,
+    "logroRenov": 69.2,
     "fechaStr": "17/8/2014",
     "esNuevo": false
   },
@@ -2381,6 +2909,8 @@
     "nombre": "SERGIO SIXTO BRUNO GONZALEZ",
     "ventas": 14,
     "logro": 121.2,
+    "renovaciones": 13,
+    "logroRenov": 112.5,
     "fechaStr": "21/3/2021",
     "esNuevo": false
   },
@@ -2390,6 +2920,8 @@
     "nombre": "VIVIANA LEMUS ARRIAGA",
     "ventas": 24,
     "logro": 207.7,
+    "renovaciones": 13,
+    "logroRenov": 112.5,
     "fechaStr": "12/12/2013",
     "esNuevo": false
   },
@@ -2399,6 +2931,8 @@
     "nombre": "ALITZEL MINKES GARCIA",
     "ventas": 2,
     "logro": 17.3,
+    "renovaciones": 1,
+    "logroRenov": 8.7,
     "fechaStr": "12/4/2026",
     "esNuevo": true
   },
@@ -2408,6 +2942,8 @@
     "nombre": "ABRAHAM GONZALEZ LEAL",
     "ventas": 17,
     "logro": 118.1,
+    "renovaciones": 11,
+    "logroRenov": 76.4,
     "fechaStr": "5/10/2023",
     "esNuevo": false
   },
@@ -2417,6 +2953,8 @@
     "nombre": "ISAAC RAFAEL ZAVALA DE LA HUERTA",
     "ventas": 15,
     "logro": 104.2,
+    "renovaciones": 6,
+    "logroRenov": 41.7,
     "fechaStr": "5/12/2019",
     "esNuevo": false
   },
@@ -2426,6 +2964,8 @@
     "nombre": "NOHEMI SUSANA CUAYA PAJARO",
     "ventas": 11,
     "logro": 76.4,
+    "renovaciones": 3,
+    "logroRenov": 20.8,
     "fechaStr": "11/12/2022",
     "esNuevo": false
   },
@@ -2435,6 +2975,8 @@
     "nombre": "PERLA CUAUTLE AZCATL",
     "ventas": 3,
     "logro": 20.8,
+    "renovaciones": 3,
+    "logroRenov": 20.8,
     "fechaStr": "28/4/2024",
     "esNuevo": false
   },
@@ -2444,6 +2986,8 @@
     "nombre": "JUAN CARLOS CAMACHO RIVERA",
     "ventas": 8,
     "logro": 55.6,
+    "renovaciones": 1,
+    "logroRenov": 6.9,
     "fechaStr": "15/2/2026",
     "esNuevo": false
   },
@@ -2453,6 +2997,8 @@
     "nombre": "ALONSO AARON MUÑOZ RIVERA",
     "ventas": 17,
     "logro": 151.8,
+    "renovaciones": 3,
+    "logroRenov": 26.8,
     "fechaStr": "9/11/2025",
     "esNuevo": false
   },
@@ -2462,6 +3008,8 @@
     "nombre": "DAFNE ALEXA SANCHEZ CORTES",
     "ventas": 13,
     "logro": 116.1,
+    "renovaciones": 3,
+    "logroRenov": 26.8,
     "fechaStr": "27/7/2025",
     "esNuevo": false
   },
@@ -2471,6 +3019,8 @@
     "nombre": "MOISES JONATHAN RODRIGUEZ ACOCAL",
     "ventas": 8,
     "logro": 71.4,
+    "renovaciones": 1,
+    "logroRenov": 8.9,
     "fechaStr": "25/1/2026",
     "esNuevo": false
   },
@@ -2480,6 +3030,8 @@
     "nombre": "RICARDO LOPEZ TOBON",
     "ventas": 9,
     "logro": 80.4,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "14/10/2025",
     "esNuevo": false
   },
@@ -2489,6 +3041,8 @@
     "nombre": "JORGE ALBERTO SOSA ABURTO",
     "ventas": 5,
     "logro": 44.6,
+    "renovaciones": 1,
+    "logroRenov": 8.9,
     "fechaStr": "22/3/2026",
     "esNuevo": false
   },
@@ -2498,8 +3052,10 @@
     "nombre": "AARON MARTIN ROMERO FLORES",
     "ventas": 5,
     "logro": 58.1,
+    "renovaciones": 2,
+    "logroRenov": 0,
     "fechaStr": "29/3/2026",
-    "esNuevo": true
+    "esNuevo": false
   },
   {
     "reg": "5.-SUR - PUE",
@@ -2507,6 +3063,8 @@
     "nombre": "ENRIQUE KALED LOPEZ BECERRA",
     "ventas": 0,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "12/4/2026",
     "esNuevo": true
   },
@@ -2516,6 +3074,8 @@
     "nombre": "UZIEL CARRALES PAVON",
     "ventas": 0,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "14/4/2026",
     "esNuevo": true
   },
@@ -2525,6 +3085,8 @@
     "nombre": "LUIS ALBERTO SANCHEZ CANDELARIO",
     "ventas": 1,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "19/4/2026",
     "esNuevo": true
   },
@@ -2534,6 +3096,8 @@
     "nombre": "ALFREDO ALEJANDRO ESPEJO VAZQUEZ",
     "ventas": 11,
     "logro": 119.6,
+    "renovaciones": 2,
+    "logroRenov": 21.7,
     "fechaStr": "9/11/2025",
     "esNuevo": false
   },
@@ -2543,6 +3107,8 @@
     "nombre": "JORGE ARTURO CRUZ PAZ",
     "ventas": 15,
     "logro": 163,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "18/11/2025",
     "esNuevo": false
   },
@@ -2552,6 +3118,8 @@
     "nombre": "ANDREA DEL CARMEN RODRIGUEZ RODRIGUEZ",
     "ventas": 10,
     "logro": 108.7,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "3/3/2026",
     "esNuevo": false
   },
@@ -2561,6 +3129,8 @@
     "nombre": "ANA MICHELLE MARTINEZ BRISEÑO",
     "ventas": 7,
     "logro": 76.1,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "26/3/2026",
     "esNuevo": false
   },
@@ -2570,6 +3140,8 @@
     "nombre": "GRACIELA DE JESUS SANCHEZ KELLY",
     "ventas": 9,
     "logro": 97.8,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "7/4/2026",
     "esNuevo": true
   },
@@ -2579,6 +3151,8 @@
     "nombre": "BENITO RODRIGUEZ DOMINGUEZ",
     "ventas": 12,
     "logro": 87.3,
+    "renovaciones": 2,
+    "logroRenov": 14.5,
     "fechaStr": "18/1/2026",
     "esNuevo": false
   },
@@ -2588,6 +3162,8 @@
     "nombre": "GUSTAVO ANGEL GARCIA VAZQUEZ",
     "ventas": 11,
     "logro": 80,
+    "renovaciones": 1,
+    "logroRenov": 7.3,
     "fechaStr": "27/1/2026",
     "esNuevo": false
   },
@@ -2597,6 +3173,8 @@
     "nombre": "PAOLA MARCELA PEREA AZUA",
     "ventas": 9,
     "logro": 65.5,
+    "renovaciones": 3,
+    "logroRenov": 21.8,
     "fechaStr": "16/9/2025",
     "esNuevo": false
   },
@@ -2606,6 +3184,8 @@
     "nombre": "ZULEM ROJAS PEREZ",
     "ventas": 15,
     "logro": 109.1,
+    "renovaciones": 1,
+    "logroRenov": 7.3,
     "fechaStr": "20/3/2024",
     "esNuevo": false
   },
@@ -2615,6 +3195,8 @@
     "nombre": "EDUARDO JUAN VALDIVIA",
     "ventas": 15,
     "logro": 75,
+    "renovaciones": 1,
+    "logroRenov": 5,
     "fechaStr": "27/2/2026",
     "esNuevo": false
   },
@@ -2624,6 +3206,8 @@
     "nombre": "FELIPE COBOS MORALES",
     "ventas": 14,
     "logro": 160,
+    "renovaciones": 1,
+    "logroRenov": 11.4,
     "fechaStr": "2/12/2025",
     "esNuevo": false
   },
@@ -2633,6 +3217,8 @@
     "nombre": "SANDRA PAULINA ESCALONA JIMENEZ",
     "ventas": 8,
     "logro": 91.4,
+    "renovaciones": 2,
+    "logroRenov": 22.9,
     "fechaStr": "16/9/2025",
     "esNuevo": false
   },
@@ -2642,6 +3228,8 @@
     "nombre": "ROSA MARGARITA PEREZ LINARES",
     "ventas": 9,
     "logro": 102.9,
+    "renovaciones": 2,
+    "logroRenov": 22.9,
     "fechaStr": "27/3/2026",
     "esNuevo": false
   },
@@ -2651,6 +3239,8 @@
     "nombre": "MARIA GUADALUPE TORRES ROMERO",
     "ventas": 1,
     "logro": 11.4,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "19/4/2026",
     "esNuevo": true
   },
@@ -2660,6 +3250,8 @@
     "nombre": "ALFREDO GONZALEZ MONTES",
     "ventas": 14,
     "logro": 74.7,
+    "renovaciones": 5,
+    "logroRenov": 26.7,
     "fechaStr": "11/9/2022",
     "esNuevo": false
   },
@@ -2669,6 +3261,8 @@
     "nombre": "DAVID RIVAS GONZALEZ",
     "ventas": 16,
     "logro": 85.3,
+    "renovaciones": 11,
+    "logroRenov": 58.7,
     "fechaStr": "11/9/2022",
     "esNuevo": false
   },
@@ -2678,6 +3272,8 @@
     "nombre": "JOSE GUADALUPE HERNANDEZ GARCIA",
     "ventas": 15,
     "logro": 80,
+    "renovaciones": 10,
+    "logroRenov": 53.3,
     "fechaStr": "14/2/2021",
     "esNuevo": false
   },
@@ -2687,6 +3283,8 @@
     "nombre": "ULISES CASTILLO ECHAVARRIA",
     "ventas": 2,
     "logro": 10.7,
+    "renovaciones": 1,
+    "logroRenov": 5.3,
     "fechaStr": "12/4/2026",
     "esNuevo": true
   },
@@ -2696,6 +3294,8 @@
     "nombre": "ESTELA CANO GONZALEZ",
     "ventas": 12,
     "logro": 75,
+    "renovaciones": 5,
+    "logroRenov": 31.3,
     "fechaStr": "7/12/2025",
     "esNuevo": false
   },
@@ -2705,6 +3305,8 @@
     "nombre": "JOSE LUIS VAZQUEZ PEÑA",
     "ventas": 23,
     "logro": 143.8,
+    "renovaciones": 3,
+    "logroRenov": 18.8,
     "fechaStr": "28/1/2025",
     "esNuevo": false
   },
@@ -2714,6 +3316,8 @@
     "nombre": "LIZBETH AGUILAR DOMINGO",
     "ventas": 23,
     "logro": 143.8,
+    "renovaciones": 14,
+    "logroRenov": 87.5,
     "fechaStr": "6/8/2023",
     "esNuevo": false
   },
@@ -2723,6 +3327,8 @@
     "nombre": "OLIVER DE JESUS LOPEZ JIMENEZ",
     "ventas": 17,
     "logro": 106.3,
+    "renovaciones": 6,
+    "logroRenov": 37.5,
     "fechaStr": "12/11/2025",
     "esNuevo": false
   },
@@ -2732,6 +3338,8 @@
     "nombre": "VLADIMIR RODRIGUEZ HUERTA",
     "ventas": 0,
     "logro": 0,
+    "renovaciones": 0,
+    "logroRenov": 0,
     "fechaStr": "19/4/2026",
     "esNuevo": true
   },
@@ -2741,6 +3349,8 @@
     "nombre": "ANDRIK JOVANI PEREZ GARCIA",
     "ventas": 8,
     "logro": 64,
+    "renovaciones": 2,
+    "logroRenov": 16,
     "fechaStr": "9/8/2023",
     "esNuevo": false
   },
@@ -2750,6 +3360,8 @@
     "nombre": "JORGE LUIS HERNANDEZ BARRON",
     "ventas": 18,
     "logro": 144,
+    "renovaciones": 11,
+    "logroRenov": 88,
     "fechaStr": "27/2/2022",
     "esNuevo": false
   },
@@ -2759,6 +3371,8 @@
     "nombre": "PABLO DE JESUS VELASCO REYES",
     "ventas": 17,
     "logro": 136,
+    "renovaciones": 4,
+    "logroRenov": 32,
     "fechaStr": "23/9/2025",
     "esNuevo": false
   },
@@ -2768,6 +3382,8 @@
     "nombre": "TADEO GUADALUPE SANCHEZ TORRES",
     "ventas": 20,
     "logro": 160,
+    "renovaciones": 5,
+    "logroRenov": 40,
     "fechaStr": "12/1/2025",
     "esNuevo": false
   },
@@ -2777,6 +3393,8 @@
     "nombre": "ESTEFANIA LOPEZ HERNANDEZ",
     "ventas": 7,
     "logro": 56,
+    "renovaciones": 11,
+    "logroRenov": 88,
     "fechaStr": "15/2/2026",
     "esNuevo": false
   },
@@ -2786,6 +3404,8 @@
     "nombre": "CARLOS OMAR GUTIERREZ PRIEGO",
     "ventas": 20,
     "logro": 129.6,
+    "renovaciones": 7,
+    "logroRenov": 45.4,
     "fechaStr": "13/4/2018",
     "esNuevo": false
   },
@@ -2795,6 +3415,8 @@
     "nombre": "ESPERANZA MELO PEREZ",
     "ventas": 12,
     "logro": 77.8,
+    "renovaciones": 3,
+    "logroRenov": 19.4,
     "fechaStr": "5/11/2023",
     "esNuevo": false
   },
@@ -2804,6 +3426,8 @@
     "nombre": "GUADALUPE ESCAMILLA MARTINEZ",
     "ventas": 18,
     "logro": 116.7,
+    "renovaciones": 6,
+    "logroRenov": 38.9,
     "fechaStr": "17/7/2008",
     "esNuevo": false
   },
@@ -2813,6 +3437,8 @@
     "nombre": "MARICARMEN GOMEZ SUMOHANO",
     "ventas": 11,
     "logro": 71.3,
+    "renovaciones": 5,
+    "logroRenov": 32.4,
     "fechaStr": "13/8/2024",
     "esNuevo": false
   },
@@ -2822,6 +3448,8 @@
     "nombre": "NANCY ABREGO BALDERAS",
     "ventas": 21,
     "logro": 136.1,
+    "renovaciones": 13,
+    "logroRenov": 84.3,
     "fechaStr": "12/10/2025",
     "esNuevo": false
   },
@@ -2831,6 +3459,8 @@
     "nombre": "CARLA ALEJANDRA FLORES GARCIA",
     "ventas": 3,
     "logro": 19.4,
+    "renovaciones": 1,
+    "logroRenov": 6.5,
     "fechaStr": "17/2/2026",
     "esNuevo": false
   },
@@ -2840,6 +3470,8 @@
     "nombre": "EDUARDO DANIEL SALMERON RAMIREZ",
     "ventas": 24,
     "logro": 155.6,
+    "renovaciones": 5,
+    "logroRenov": 32.4,
     "fechaStr": "17/3/2026",
     "esNuevo": false
   },
@@ -2849,6 +3481,8 @@
     "nombre": "AMERICA ARRIETA FALCÓN",
     "ventas": 12,
     "logro": 80,
+    "renovaciones": 3,
+    "logroRenov": 20,
     "fechaStr": "17/8/2025",
     "esNuevo": false
   },
@@ -2858,6 +3492,8 @@
     "nombre": "ANEL GUERRERO BARRADAS",
     "ventas": 18,
     "logro": 120,
+    "renovaciones": 6,
+    "logroRenov": 40,
     "fechaStr": "7/7/2025",
     "esNuevo": false
   },
@@ -2867,6 +3503,8 @@
     "nombre": "JUAN MARTINEZ MORALES",
     "ventas": 8,
     "logro": 53.3,
+    "renovaciones": 1,
+    "logroRenov": 6.7,
     "fechaStr": "12/6/2025",
     "esNuevo": false
   },
@@ -2876,6 +3514,8 @@
     "nombre": "MAIRA ANGELICA TEJEDA CORONA",
     "ventas": 22,
     "logro": 146.7,
+    "renovaciones": 4,
+    "logroRenov": 26.7,
     "fechaStr": "20/4/2025",
     "esNuevo": false
   },
@@ -2885,6 +3525,8 @@
     "nombre": "STEFANIA SOLANO MENDEZ",
     "ventas": 16,
     "logro": 106.7,
+    "renovaciones": 4,
+    "logroRenov": 26.7,
     "fechaStr": "4/12/2022",
     "esNuevo": false
   }
