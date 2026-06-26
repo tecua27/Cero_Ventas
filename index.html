@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ExpertCell · Dashboard AT&T</title>
+<link rel="stylesheet" href="dashboard.css">
+</head>
+<body>
+
+<!-- ══ LOGIN ══ -->
+<div id="loginScreen">
+  <div class="login-wrap">
+    <div class="login-left">
+      <img class="mascot" data-src="mascot" alt="Expertín">
+      <p>¡Hola! Ingresa tu contraseña para acceder a tu dashboard</p>
+    </div>
+    <div class="login-box">
+      <div class="login-logo">
+        <img data-src="logo" alt="ExpertCell">
+      </div>
+      <h2>Bienvenido</h2>
+      <p class="sub">Dashboard de Ventas AT&T</p>
+      <div class="field">
+        <label>Contraseña</label>
+        <input type="password" id="inPass" placeholder="••••••••"
+          autocomplete="current-password"
+          onkeydown="if(event.key==='Enter')doLogin()">
+      </div>
+      <button class="btn-login" onclick="doLogin()">Ingresar</button>
+      <div class="login-err" id="loginErr">Contraseña incorrecta</div>
+      <div class="login-foot">ExpertCell · Panel interno de desempeño AT&T</div>
+    </div>
+  </div>
+</div>
+
+<!-- ══ DASHBOARD ══ -->
+<div id="dashScreen" style="display:none;">
+
+  <header>
+    <div class="h-logo"><img data-src="logo" alt="ExpertCell"></div>
+    <div class="h-mascot"><img data-src="mascot" alt="Expertín"></div>
+    <div>
+      <h1>Dashboard de Ventas AT&T</h1>
+      <p class="hsubt">Desempeño por región · tienda · ejecutivo</p>
+    </div>
+    <div class="spacer"></div>
+    <div class="h-user">
+      <strong id="hUserName">–</strong>
+      <div class="h-regions" id="hUserRegions">–</div>
+    </div>
+    <div class="live"><div class="dot"></div>En vivo</div>
+    <button class="btn-logout" onclick="logout()">Cerrar sesión</button>
+  </header>
+
+  <main>
+
+    <!-- Filtros -->
+    <div class="fbar">
+      <span class="flabel">Filtrar:</span>
+      <select id="selReg"><option value="">Todas las regiones</option></select>
+      <select id="selTienda"><option value="">Todas las tiendas</option></select>
+      <button class="btnR" onclick="resetFilters()">✕ Limpiar</button>
+      <input id="srch" type="text" placeholder="🔍 Buscar ejecutivo o tienda…">
+      <span style="margin-left:auto;font-size:12px;color:var(--sub);">
+        <span id="cnt" style="color:var(--blue);font-weight:700;">–</span> ejecutivos
+      </span>
+    </div>
+
+    <!-- KPIs -->
+    <div class="kpis">
+      <div class="kpi b"><div class="klbl">Total Ventas</div><div class="kval" id="kV">–</div><div class="ksub">unidades</div></div>
+      <div class="kpi g"><div class="klbl">Logro Prom.</div><div class="kval" id="kL">–</div><div class="ksub">% sobre meta</div></div>
+      <div class="kpi o"><div class="klbl">Renovaciones</div><div class="kval" id="kR">–</div><div class="ksub">total</div></div>
+      <div class="kpi r"><div class="klbl">Sin Ventas</div><div class="kval" id="kZ">–</div><div class="ksub">ejecutivos en cero</div></div>
+    </div>
+
+    <!-- Ejecutivos sin ventas (desplegable) -->
+    <div class="zero-section" id="zeroSection">
+      <div class="zero-header" onclick="toggleZero()">
+        <div class="zero-header-left">
+          <span class="zero-icon">🚨</span>
+          <span class="zero-title">Ejecutivos sin ventas</span>
+          <span class="zero-badge" id="zeroBadge">0</span>
+        </div>
+        <span class="zero-toggle" id="zeroToggle">▼</span>
+      </div>
+      <div class="zero-body" id="zeroBody">
+        <div class="zero-list" id="zeroList"></div>
+      </div>
+    </div>
+
+    <!-- Ranking + Tiendas -->
+    <div class="g2">
+      <div class="card">
+        <div class="ctitle" id="rankTitle">🏆 Ranking de Ejecutivos</div>
+        <div style="display:flex;gap:6px;margin-bottom:10px;flex-wrap:wrap;align-items:center;">
+          <button onclick="setRankMode('top')"   id="btnTop"   class="btnR" style="font-size:11px;padding:4px 11px;">▲ Top</button>
+          <button onclick="setRankMode('bot')"   id="btnBot"   class="btnR" style="font-size:11px;padding:4px 11px;border-color:var(--red);color:var(--red);">▼ Bottom</button>
+          <button onclick="setRankMode('todos')" id="btnTodos" class="btnR" style="font-size:11px;padding:4px 11px;border-color:var(--accent);color:var(--accent);">≡ Todos</button>
+          <span style="margin-left:auto;font-size:11px;color:var(--sub);">
+            N°: <input type="number" id="rankN" value="10" min="3" max="100"
+              style="width:50px;padding:3px 6px;font-size:12px;background:#0d2038;border:1px solid rgba(0,168,224,.2);color:var(--text);border-radius:6px;"
+              onchange="renderRankings()">
+          </span>
+        </div>
+        <div class="rlist" id="rList"></div>
+      </div>
+      <div class="card">
+        <div class="ctitle">📦 Ventas por Tienda <span style="font-size:11px;color:var(--sub);font-weight:400;">Top 12</span></div>
+        <div class="bchart" id="stChart"></div>
+      </div>
+    </div>
+
+    <!-- Tabla detalle -->
+    <div class="card">
+      <div class="ctitle">
+        📋 Detalle de Ejecutivos
+        <span style="margin-left:auto;font-size:11px;color:var(--sub);font-weight:400;" id="tmeta"></span>
+      </div>
+      <div class="twrap">
+        <table>
+          <thead>
+            <tr>
+              <th onclick="srt('nombre')"      id="th-nombre">Ejecutivo</th>
+              <th onclick="srt('reg')"         id="th-reg">Región</th>
+              <th onclick="srt('tienda')"      id="th-tienda">Tienda</th>
+              <th onclick="srt('ventas')"      id="th-ventas">Ventas</th>
+              <th onclick="srt('renovaciones')" id="th-renovaciones">Renov.</th>
+              <th onclick="srt('logroRenov')"  id="th-logroRenov">L.Renov%</th>
+              <th onclick="srt('fechaStr')"    id="th-fechaStr">Ingreso</th>
+              <th>Estado</th>
+            </tr>
+          </thead>
+          <tbody id="tBody"></tbody>
+        </table>
+      </div>
+    </div>
+
+  </main>
+
+  <footer>
+    <img class="fl" data-src="logo" alt="ExpertCell">
+    <span>ExpertCell · Dashboard interno AT&T</span>
+    <img class="fm" data-src="mascot" alt="Expertín">
+  </footer>
+
+</div><!-- end dashScreen -->
+
+<script src="dashboard.js"></script>
+</body>
+</html>
