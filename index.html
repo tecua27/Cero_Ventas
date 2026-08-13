@@ -61,7 +61,7 @@
       <button class="btnR" onclick="resetFilters()">✕ Limpiar</button>
       <input id="srch" type="text" placeholder="🔍 Buscar ejecutivo o tienda…">
       <span style="margin-left:auto;font-size:12px;color:var(--sub);">
-        <span id="cnt" style="color:var(--blue);font-weight:700;">–</span> ejecutivos &nbsp;·&nbsp; Avance al: 09/ 08 /2026
+        <span id="cnt" style="color:var(--blue);font-weight:700;">–</span> ejecutivos &nbsp;·&nbsp; Avance al: 11/ 08 /2026
       </span>
     </div>
 
@@ -107,7 +107,7 @@
           <button onclick="setRankMode('todos')" id="btnTodos" class="btnR" style="font-size:11px;padding:4px 11px;border-color:var(--accent);color:var(--accent);">≡ Todos</button>
           <span style="margin-left:auto;font-size:11px;color:var(--sub);">
             N°: <input type="number" id="rankN" value="10" min="3" max="100"
-              style="width:50px;padding:3px 6px;font-size:12px;background:#1e3a52;border:1px solid rgba(0,168,224,.25);color:var(--text);border-radius:6px;"
+              style="width:50px;padding:3px 6px;font-size:12px;background:#ebeff2;border:1px solid rgba(0,168,224,.25);color:var(--text);border-radius:6px;"
               onchange="renderRankings()">
           </span>
         </div>
@@ -138,9 +138,9 @@
               <th onclick="srt('tienda')"       id="th-tienda">Tienda</th>
               <th onclick="srt('categoria')"    id="th-categoria">Cat.</th>
               <th onclick="srt('ventas')"       id="th-ventas">Ventas</th>
-              <th onclick="srt('renovaciones')" id="th-renovaciones">Renov.</th>
-              <th onclick="srt('logroRenov')"   id="th-logroRenov">L.Renov%</th>
-              <th onclick="srt('logroTienda')"  id="th-logroTienda">L.Tienda</th>
+              <th onclick="srt('renovaciones')" id="th-renovaciones">% Activaciones</th>
+              <th onclick="srt('logro')"        id="th-logro">Renovaciones</th>
+              <th onclick="srt('logroRenov')"   id="th-logroRenov">% Renov</th>
               <th onclick="srt('fechaStr')"     id="th-fechaStr">Ingreso</th>
               <th>Estado</th>
             </tr>

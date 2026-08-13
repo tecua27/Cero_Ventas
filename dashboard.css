@@ -224,3 +224,26 @@ footer img.fm{height:28px;opacity:.55;}
   .zero-row{grid-template-columns:1fr 1fr;}
   .cat-filter{gap:6px;}
 }
+
+/* STACKED BAR CHART */
+.brow2{display:grid;grid-template-columns:118px 1fr;align-items:center;gap:8px;margin-bottom:8px;}
+.bstack-single{display:flex;align-items:center;gap:6px;flex:1;}
+.btrack-stacked{
+  flex:1;height:22px;background:rgba(0,60,100,.08);
+  border-radius:5px;overflow:hidden;display:flex;
+}
+.bseg{
+  height:100%;display:flex;align-items:center;padding:0 5px;
+  font-size:10px;font-weight:700;color:rgba(255,255,255,.92);
+  transition:width .6s ease;white-space:nowrap;overflow:hidden;
+  flex-shrink:0;
+}
+.bseg.act{background:var(--blue);}
+.bseg.ren{background:var(--orange);}
+.bval-total{font-size:12px;font-weight:800;color:var(--text);width:28px;text-align:right;flex-shrink:0;}
+/* chart legend */
+.chart-legend{display:flex;gap:14px;margin-bottom:10px;font-size:11px;color:var(--sub);}
+.chart-legend span{display:flex;align-items:center;gap:4px;}
+.chart-legend i{width:12px;height:8px;border-radius:3px;display:inline-block;}
+.leg-act{background:var(--blue);}
+.leg-ren{background:var(--orange);}
