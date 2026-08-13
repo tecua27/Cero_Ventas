@@ -215,7 +215,9 @@ function renderKPIs() {
   const act   = filtered.filter(d => !d.esNuevo);
   const zeros = filtered.filter(d => d.ventas === 0);
 
-  document.getElementById('kV').textContent  = fmt(sum(filtered.map(d=>d.ventas)));
+  // Total ventas = suma de logroTienda (activaciones de tienda, sin duplicar por ejecutivo)
+  const totalActTienda = sum(filteredT.map(t => t.logroTienda));
+  document.getElementById('kV').textContent  = fmt(totalActTienda);
   document.getElementById('kL').textContent  = fmtP(avg(act.map(d=>d.logro)));
   document.getElementById('kR').textContent  = fmt(sum(filtered.map(d=>d.renovaciones)));
   document.getElementById('kZ').textContent  = zeros.length;

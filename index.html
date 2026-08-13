@@ -97,30 +97,17 @@
       </div>
     </div>
 
-    <!-- Ranking + Logro Tienda -->
-    <div class="g2">
-      <div class="card">
-        <div class="ctitle" id="rankTitle">🏆 Ranking de Ejecutivos</div>
-        <div style="display:flex;gap:6px;margin-bottom:10px;flex-wrap:wrap;align-items:center;">
-          <button onclick="setRankMode('top')"   id="btnTop"   class="btnR" style="font-size:11px;padding:4px 11px;">▲ Top</button>
-          <button onclick="setRankMode('bot')"   id="btnBot"   class="btnR" style="font-size:11px;padding:4px 11px;border-color:var(--red);color:var(--red);">▼ Bottom</button>
-          <button onclick="setRankMode('todos')" id="btnTodos" class="btnR" style="font-size:11px;padding:4px 11px;border-color:var(--accent);color:var(--accent);">≡ Todos</button>
-          <span style="margin-left:auto;font-size:11px;color:var(--sub);">
-            N°: <input type="number" id="rankN" value="10" min="3" max="100"
-              style="width:50px;padding:3px 6px;font-size:12px;background:#ebeff2;border:1px solid rgba(0,168,224,.25);color:var(--text);border-radius:6px;"
-              onchange="renderRankings()">
-          </span>
-        </div>
-        <div class="rlist" id="rList"></div>
+    <!-- Logro de Tienda -->
+    <div class="card" style="margin-bottom:13px;">
+      <div class="ctitle">
+        🏪 Logro de Tienda
+        <span style="font-size:10px;color:var(--sub);font-weight:400;">todos los ejecutivos · Top 12</span>
       </div>
-
-      <div class="card">
-        <div class="ctitle">
-          🏪 Logro de Tienda
-          <span style="font-size:10px;color:var(--sub);font-weight:400;">todos los ejecutivos · Top 12</span>
-        </div>
-        <div class="bchart" id="stChart"></div>
+      <div class="chart-legend">
+        <span><i class="leg-act"></i> Activaciones</span>
+        <span><i class="leg-ren"></i> Renovaciones</span>
       </div>
+      <div id="stChart"></div>
     </div>
 
     <!-- Tabla detalle -->
@@ -148,6 +135,22 @@
           <tbody id="tBody"></tbody>
         </table>
       </div>
+    </div>
+
+    <!-- Top Ranking ejecutivos -->
+    <div class="card" style="margin-bottom:13px;">
+      <div class="ctitle" id="rankTitle">🏆 Ranking de Ejecutivos</div>
+      <div style="display:flex;gap:6px;margin-bottom:10px;flex-wrap:wrap;align-items:center;">
+        <button onclick="setRankMode('top')"   id="btnTop"   class="btnR" style="font-size:11px;padding:4px 11px;">▲ Top</button>
+        <button onclick="setRankMode('bot')"   id="btnBot"   class="btnR" style="font-size:11px;padding:4px 11px;border-color:var(--red);color:var(--red);">▼ Bottom</button>
+        <button onclick="setRankMode('todos')" id="btnTodos" class="btnR" style="font-size:11px;padding:4px 11px;border-color:var(--accent);color:var(--accent);">≡ Todos</button>
+        <span style="margin-left:auto;font-size:11px;color:var(--sub);">
+          N°: <input type="number" id="rankN" value="10" min="3" max="100"
+            style="width:50px;padding:3px 6px;font-size:12px;background:#ebeff2;border:1px solid rgba(0,168,224,.25);color:var(--text);border-radius:6px;"
+            onchange="renderRankings()">
+        </span>
+      </div>
+      <div class="rlist" id="rList"></div>
     </div>
 
   </main>
