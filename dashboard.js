@@ -96,16 +96,23 @@ function doLogin() {
   /* Selector de región */
   const selReg = document.getElementById('selReg');
   if (allowedTipo === 'tienda') {
+    // Gerente de zona: sin selector de región, ocultar
     selReg.style.display = 'none';
   } else {
     selReg.style.display = '';
     selReg.innerHTML = '<option value="">Todas las regiones</option>';
-    [...new Set(baseExec.map(d => d.reg))].sort().forEach(r =>
+    const regs = [...new Set(baseExec.map(d => d.reg))].sort();
+    regs.forEach(r =>
       selReg.appendChild(Object.assign(document.createElement('option'), {value:r, textContent:r})));
+    // Si solo tiene una región, auto-seleccionarla
+    if (regs.length === 1) selReg.value = regs[0];
   }
 
   filtered  = [...baseExec];
   filteredT = [...baseTienda];
+
+  // Poblar tiendas desde el inicio según el acceso (sin necesitar seleccionar región)
+  fillTiendas(document.getElementById('selReg').value);
 
   document.getElementById('loginScreen').style.display = 'none';
   document.getElementById('dashScreen').style.display  = 'block';
