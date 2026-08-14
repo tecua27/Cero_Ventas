@@ -14,7 +14,7 @@ let TIENDA_DATA = [];
 /* LOOKUP tienda -> categoria */
 const CAT_MAP = {};
 
-let currentUser=null, allowedTipo="", allowedValores=[], allowedRegions=[], baseData=[], filtered=[];
+let currentUser=null, allowedRegions=[], baseData=[], filtered=[];
 let rankMode='top', tSortKey='ventas', tSortDir=-1;
 let zeroOpen=false, activeCat='';
 
@@ -40,8 +40,18 @@ document.addEventListener('DOMContentLoaded', () => {
     EXEC_DATA   = exec;
     TIENDA_DATA = tienda;
     TIENDA_DATA.forEach(t => { CAT_MAP[t.tienda] = t.categoria; });
+    // Rebuild _baseTienda if already logged in
+    if (currentUser && window._baseTienda !== undefined) {
+      const ac = ACCESOS.find(a => a.usuario === currentUser);
+      if (ac) {
+        if (ac.tipo === 'TODAS') window._baseTienda = [...TIENDA_DATA];
+        else if (ac.tipo === 'tienda') window._baseTienda = TIENDA_DATA.filter(t => (ac.valores||[]).includes(t.tienda));
+        else window._baseTienda = TIENDA_DATA.filter(t => (ac.valores||[]).includes(t.reg));
+        window._filteredT = [...window._baseTienda];
+        renderAll();
+      }
+    }
     console.log('Datos cargados:', EXEC_DATA.length, 'ejecutivos,', TIENDA_DATA.length, 'tiendas');
-    if (currentUser) renderAll();
   }).catch(err => {
     console.error('Error cargando datos:', err);
     alert('No se pudieron cargar los datos. Verifica que datos.json y tiendas.json esten en tu repositorio.');
@@ -75,17 +85,15 @@ function doLogin() {
     selReg.appendChild(Object.assign(document.createElement('option'),{value:r,textContent:r})));
   fillTiendas('');
   filtered = [...baseData];
-  // Filtrar tiendas base según acceso
-  let _bt;
+  // Build tienda base for this user
   if (acceso.tipo === 'TODAS') {
-    _bt = [...TIENDA_DATA];
+    window._baseTienda = [...TIENDA_DATA];
   } else if (acceso.tipo === 'tienda') {
-    _bt = TIENDA_DATA.filter(t => (acceso.valores||[]).includes(t.tienda));
+    window._baseTienda = TIENDA_DATA.filter(t => (acceso.valores||[]).includes(t.tienda));
   } else {
-    _bt = TIENDA_DATA.filter(t => (acceso.valores||[]).includes(t.reg));
+    window._baseTienda = TIENDA_DATA.filter(t => (acceso.valores||[]).includes(t.reg));
   }
-  window._baseTienda = _bt;
-  window._filteredT  = _bt;
+  window._filteredT = [...window._baseTienda];
 
   document.getElementById('loginScreen').style.display = 'none';
   document.getElementById('dashScreen').style.display  = 'block';
@@ -126,10 +134,9 @@ function setCat(cat) {
 
 /* ── FILTERS ── */
 function fillTiendas(reg) {
-  // Filter by region AND active category so dropdown only shows relevant stores
   const base = baseData.filter(d =>
     (!reg || d.reg === reg) &&
-    (!activeCat || d.categoria === activeCat)
+    (!activeCat || CAT_MAP[d.tienda] === activeCat)
   );
   const stores = [...new Set(base.map(d => d.tienda))].sort();
   const selT   = document.getElementById('selTienda');
@@ -145,8 +152,8 @@ function applyFilter() {
     (!t || d.tienda===t) &&
     (!activeCat || CAT_MAP[d.tienda] === activeCat)
   );
-  // Sync tiendas filtradas
-  let ft = [...(window._baseTienda||[])];
+  // Sync tienda chart data
+  let ft = [...(window._baseTienda || TIENDA_DATA)];
   if (r) ft = ft.filter(s => s.reg    === r);
   if (t) ft = ft.filter(s => s.tienda === t);
   if (activeCat) ft = ft.filter(s => s.categoria === activeCat);
@@ -155,7 +162,6 @@ function applyFilter() {
 }
 
 function resetFilters() {
-  window._filteredT = [...(window._baseTienda||[])];
   document.getElementById('selReg').value = '';
   fillTiendas('');
   document.getElementById('selTienda').value = '';
@@ -164,6 +170,7 @@ function resetFilters() {
   document.querySelectorAll('.cat-btn').forEach(b => b.className = 'cat-btn');
   document.getElementById('catAll').classList.add('active-all');
   filtered = [...baseData];
+  window._filteredT = [...(window._baseTienda || TIENDA_DATA)];
   renderAll();
 }
 
@@ -183,7 +190,7 @@ const match = (d,q) => !q ||
 function renderKPIs() {
   const act   = filtered.filter(d => !d.esNuevo);
   const zeros = filtered.filter(d => d.ventas === 0);
-  document.getElementById('kV').textContent  = fmt(sum((window._filteredT||[]).map(t => t.logroTienda)));
+  document.getElementById('kV').textContent  = fmt(sum((window._filteredT||TIENDA_DATA).map(t=>t.logroTienda)));
   document.getElementById('kL').textContent  = fmtP(avg(act.map(d=>d.logro)));
   document.getElementById('kR').textContent  = fmt(sum(filtered.map(d=>d.renovaciones)));
   document.getElementById('kZ').textContent  = zeros.length;
@@ -252,19 +259,9 @@ function renderRankings() {
 function renderStoreChart() {
   // Use TIENDA_DATA (tiendas.json) — NOT exec data
   // Filter by allowed regions/tiendas and active category filter
-  const base = window._baseTienda || [];
-  let pool = [...base];
+  let pool = [...(window._filteredT || window._baseTienda || TIENDA_DATA)];
 
-  // Apply region/tienda selectors
-  const selReg = document.getElementById('selReg').value;
-  const selTienda = document.getElementById('selTienda').value;
-  if (selReg)    pool = pool.filter(t => t.reg    === selReg);
-  if (selTienda) pool = pool.filter(t => t.tienda === selTienda);
-
-  // Apply category filter
-  if (activeCat) pool = pool.filter(t => t.categoria === activeCat);
-
-  // Apply search
+  // Apply search on top of already-filtered pool
   const q = getQ();
   if (q) pool = pool.filter(t =>
     t.tienda.toLowerCase().includes(q) ||
@@ -321,21 +318,30 @@ function renderTable() {
   const q = getQ();
   let rows = filtered.filter(d => match(d,q));
   rows = [...rows].sort((a,b) => {
-    const av = tSortKey==='categoria' ? (CAT_MAP[a.tienda]||'') : a[tSortKey];
-    const bv = tSortKey==='categoria' ? (CAT_MAP[b.tienda]||'') : b[tSortKey];
+    const av=a[tSortKey], bv=b[tSortKey];
     return typeof av==='string' ? av.localeCompare(bv)*tSortDir : (bv-av)*-tSortDir;
   });
   const body = document.getElementById('tBody');
   body.innerHTML = '';
   rows.forEach(d => {
-    const isZero = d.ventas===0;
-    const cr = d.logroRenov>0 ? lp(d.logroRenov) : 'pr';
+    const isZero = d.ventas === 0;
+    const cat = CAT_MAP[d.tienda] || '–';
+    const cl  = lp(d.logro);
+    const cr  = d.logroRenov > 0 ? lp(d.logroRenov) : 'pr';
     body.innerHTML += `<tr class="${isZero?'row-zero':''}">
       <td style="font-weight:600">${d.nombre}${d.esNuevo?' <span class="bnew">NUEVO</span>':""}</td>
       <td style="color:var(--sub);font-size:11px">${d.reg}</td>
       <td style="color:var(--sub);font-size:11px">${d.tienda}</td>
-      <td><span class="cat-${CAT_MAP[d.tienda]||''}">${CAT_MAP[d.tienda]||'–'}</span></td>
+      <td><span class="cat-${cat}">${cat}</span></td>
       <td><span class="td-ventas ${isZero?'zero':'ok'}">${d.ventas}</span>${isZero?' <span class="bzero">!</span>':""}</td>
+      <td>
+        <div style="display:flex;align-items:center;gap:5px;">
+          <div style="width:44px;height:5px;background:rgba(0,60,100,.1);border-radius:3px;overflow:hidden;flex-shrink:0;">
+            <div style="width:${Math.min(d.logro,100)}%;height:100%;border-radius:3px;background:${d.logro>=100?'var(--green)':d.logro>=70?'var(--orange)':'var(--red)'}"></div>
+          </div>
+          <span class="pill ${cl}">${fmtP(d.logro)}</span>
+        </div>
+      </td>
       <td style="color:var(--orange)">${d.renovaciones}</td>
       <td><span class="pill ${cr}">${fmtP(d.logroRenov)}</span></td>
       <td style="color:var(--sub);font-size:11px">${d.fechaStr}</td>
