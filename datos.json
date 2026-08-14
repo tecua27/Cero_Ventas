@@ -3,7 +3,7 @@
     "reg": "1.-CENTRO-CDMX",
     "tienda": "CHEDRAUI EDUARDO MOLINA",
     "nombre": "ALONDRA CARRALES CASTILLA",
-    "ventas": 70,
+    "ventas": 7,
     "logro": 53,
     "renovaciones": 0,
     "logroRenov": 0,
@@ -1636,7 +1636,7 @@
     "renovaciones": 0,
     "logroRenov": 0,
     "fechaStr": "13/7/2026",
-    "esNuevo": true
+    "esNuevo": false
   },
   {
     "reg": "3.-NORTE",
@@ -1944,7 +1944,7 @@
     "renovaciones": 0,
     "logroRenov": 0,
     "fechaStr": "13/7/2026",
-    "esNuevo": true
+    "esNuevo": false
   },
   {
     "reg": "3.-NORTE",
@@ -2549,7 +2549,7 @@
     "renovaciones": 0,
     "logroRenov": 0,
     "fechaStr": "13/7/2026",
-    "esNuevo": true
+    "esNuevo": false
   },
   {
     "reg": "4.-PACIFICO - BAJIO",
@@ -3429,7 +3429,7 @@
     "renovaciones": 0,
     "logroRenov": 0,
     "fechaStr": "13/7/2026",
-    "esNuevo": true
+    "esNuevo": false
   },
   {
     "reg": "5.-SUR - PUE",
