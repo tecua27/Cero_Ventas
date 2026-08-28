@@ -3,316 +3,316 @@
     "reg": "1.-CENTRO-CDMX",
     "tienda": "EXP CHEDRAUI ANFORA",
     "categoria": "A",
-    "logroTienda": 112,
-    "logroTiendaRenov": 48
+    "logroTienda": 125,
+    "logroTiendaRenov": 54
   },
   {
     "reg": "1.-CENTRO-CDMX",
     "tienda": "EXP IZTAPALAPA 2",
+    "categoria": "A",
+    "logroTienda": 103,
+    "logroTiendaRenov": 41
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "CHEDRAUI EDUARDO MOLINA",
+    "categoria": "B",
+    "logroTienda": 79,
+    "logroTiendaRenov": 19
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP KSK PATIO TEXCOCO",
+    "categoria": "C",
+    "logroTienda": 14,
+    "logroTiendaRenov": 4
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP TOWN CENTER NICOLAS ROMERO DFN",
+    "categoria": "A",
+    "logroTienda": 138,
+    "logroTiendaRenov": 59
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP SENDERO TOLUCA II",
+    "categoria": "A",
+    "logroTienda": 104,
+    "logroTiendaRenov": 16
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP CHEDRAUI METEPEC",
+    "categoria": "B",
+    "logroTienda": 46,
+    "logroTiendaRenov": 22
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP GALERIAS TOLUCA",
+    "categoria": "B",
+    "logroTienda": 71,
+    "logroTiendaRenov": 27
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP NAUCALPAN",
+    "categoria": "C",
+    "logroTienda": 58,
+    "logroTiendaRenov": 20
+  },
+  {
+    "reg": "1.-CENTRO-CDMX",
+    "tienda": "EXP PATIO TLALPAN",
     "categoria": "A",
     "logroTienda": 90,
     "logroTiendaRenov": 36
   },
   {
     "reg": "1.-CENTRO-CDMX",
-    "tienda": "CHEDRAUI EDUARDO MOLINA",
-    "categoria": "B",
-    "logroTienda": 72,
-    "logroTiendaRenov": 17
-  },
-  {
-    "reg": "1.-CENTRO-CDMX",
-    "tienda": "EXP KSK PATIO TEXCOCO",
-    "categoria": "C",
-    "logroTienda": 12,
-    "logroTiendaRenov": 3
-  },
-  {
-    "reg": "1.-CENTRO-CDMX",
-    "tienda": "EXP TOWN CENTER NICOLAS ROMERO DFN",
-    "categoria": "A",
-    "logroTienda": 121,
-    "logroTiendaRenov": 54
-  },
-  {
-    "reg": "1.-CENTRO-CDMX",
-    "tienda": "EXP SENDERO TOLUCA II",
-    "categoria": "A",
-    "logroTienda": 93,
-    "logroTiendaRenov": 13
-  },
-  {
-    "reg": "1.-CENTRO-CDMX",
-    "tienda": "EXP CHEDRAUI METEPEC",
-    "categoria": "B",
-    "logroTienda": 43,
-    "logroTiendaRenov": 21
-  },
-  {
-    "reg": "1.-CENTRO-CDMX",
-    "tienda": "EXP GALERIAS TOLUCA",
-    "categoria": "B",
-    "logroTienda": 66,
-    "logroTiendaRenov": 26
-  },
-  {
-    "reg": "1.-CENTRO-CDMX",
-    "tienda": "EXP NAUCALPAN",
-    "categoria": "C",
-    "logroTienda": 46,
-    "logroTiendaRenov": 16
-  },
-  {
-    "reg": "1.-CENTRO-CDMX",
-    "tienda": "EXP PATIO TLALPAN",
-    "categoria": "A",
-    "logroTienda": 79,
-    "logroTiendaRenov": 32
-  },
-  {
-    "reg": "1.-CENTRO-CDMX",
     "tienda": "EXP PLAZA TOLLOCAN",
     "categoria": "C",
-    "logroTienda": 11,
-    "logroTiendaRenov": 8
+    "logroTienda": 14,
+    "logroTiendaRenov": 9
   },
   {
     "reg": "1.-CENTRO-CDMX",
     "tienda": "EXP CENTRO TEPOZAN",
     "categoria": "A",
-    "logroTienda": 101,
-    "logroTiendaRenov": 37
+    "logroTienda": 114,
+    "logroTiendaRenov": 42
   },
   {
     "reg": "1.-CENTRO-CDMX",
     "tienda": "EXP COSMOPOL 2",
     "categoria": "A",
-    "logroTienda": 94,
-    "logroTiendaRenov": 40
+    "logroTienda": 100,
+    "logroTiendaRenov": 43
   },
   {
     "reg": "1.-CENTRO-CDMX",
     "tienda": "EXP TDA CDMX MULTIPLAZA ARAGON",
     "categoria": "B",
-    "logroTienda": 54,
-    "logroTiendaRenov": 12
+    "logroTienda": 67,
+    "logroTiendaRenov": 13
   },
   {
     "reg": "1.-CENTRO-CDMX",
     "tienda": "EXP ATLACOMULCO TOL",
     "categoria": "C",
-    "logroTienda": 30,
-    "logroTiendaRenov": 17
+    "logroTienda": 33,
+    "logroTiendaRenov": 18
   },
   {
     "reg": "1.-CENTRO-CDMX",
     "tienda": "EXP KSK SENDERO IXTAPALUCA",
     "categoria": "B",
-    "logroTienda": 73,
-    "logroTiendaRenov": 22
+    "logroTienda": 80,
+    "logroTiendaRenov": 24
   },
   {
     "reg": "2.-BAJA-NOR TIJ / ENS",
     "tienda": "EXP TIJUANA PLAZA SENDERO",
     "categoria": "A",
-    "logroTienda": 103,
-    "logroTiendaRenov": 41
+    "logroTienda": 113,
+    "logroTiendaRenov": 43
   },
   {
     "reg": "2.-BAJA-NOR TIJ / ENS",
     "tienda": "EXP TIJUANA",
     "categoria": "A",
-    "logroTienda": 211,
-    "logroTiendaRenov": 50
+    "logroTienda": 241,
+    "logroTiendaRenov": 57
   },
   {
     "reg": "2.-BAJA-NOR TIJ / ENS",
     "tienda": "EXP SENDERO ENSENADA",
     "categoria": "C",
-    "logroTienda": 33,
+    "logroTienda": 38,
     "logroTiendaRenov": 13
   },
   {
     "reg": "2.-BAJA-NOR TIJ / ENS",
     "tienda": "EXP SENDERO ENSENADA 2",
     "categoria": "B",
-    "logroTienda": 43,
+    "logroTienda": 49,
     "logroTiendaRenov": 16
   },
   {
     "reg": "2.-BAJA-NOR TIJ / ENS",
     "tienda": "EXP PLAZA 5 y 10",
     "categoria": "C",
-    "logroTienda": 46,
-    "logroTiendaRenov": 13
+    "logroTienda": 48,
+    "logroTiendaRenov": 15
   },
   {
     "reg": "2.-BAJA-NOR TIJ / ENS",
     "tienda": "EXP CASA BLANCA BC",
     "categoria": "C",
-    "logroTienda": 34,
+    "logroTienda": 42,
     "logroTiendaRenov": 3
   },
   {
     "reg": "2.-BAJA-NOR TIJ / ENS",
     "tienda": "EXP JAUJA TIJUANA",
     "categoria": "C",
-    "logroTienda": 45,
-    "logroTiendaRenov": 4
+    "logroTienda": 50,
+    "logroTiendaRenov": 6
   },
   {
     "reg": "2.-BAJA-NOR TIJ / ENS",
     "tienda": "EXP PENINSULA TIJ 2",
     "categoria": "A",
-    "logroTienda": 113,
-    "logroTiendaRenov": 48
+    "logroTienda": 119,
+    "logroTiendaRenov": 54
   },
   {
     "reg": "2.-BAJA-NOR TIJ / ENS",
     "tienda": "EXP PUNTO SUR TIJUANA",
     "categoria": "C",
-    "logroTienda": 33,
+    "logroTienda": 39,
     "logroTiendaRenov": 9
   },
   {
     "reg": "2.-BAJA-NOR MXI / SLRC",
     "tienda": "EXP PLAZA SAN PEDRO BC",
     "categoria": "C",
-    "logroTienda": 25,
-    "logroTiendaRenov": 12
+    "logroTienda": 32,
+    "logroTiendaRenov": 16
   },
   {
     "reg": "2.-BAJA-NOR MXI / SLRC",
     "tienda": "EXP KSK SENDERO MEXICALI",
     "categoria": "C",
-    "logroTienda": 29,
-    "logroTiendaRenov": 2
+    "logroTienda": 37,
+    "logroTiendaRenov": 3
   },
   {
     "reg": "3.-NORTE",
     "tienda": "EXP SENDERO ESCOBEDO NL",
     "categoria": "A",
-    "logroTienda": 78,
-    "logroTiendaRenov": 26
+    "logroTienda": 87,
+    "logroTiendaRenov": 27
   },
   {
     "reg": "3.-NORTE",
     "tienda": "EXP CUMBRES MONTERREY",
     "categoria": "C",
-    "logroTienda": 31,
-    "logroTiendaRenov": 11
+    "logroTienda": 38,
+    "logroTiendaRenov": 12
   },
   {
     "reg": "3.-NORTE",
     "tienda": "EXP SENDERO APODACA",
     "categoria": "A",
-    "logroTienda": 78,
-    "logroTiendaRenov": 21
+    "logroTienda": 86,
+    "logroTiendaRenov": 22
   },
   {
     "reg": "3.-NORTE",
     "tienda": "EXP MALL PLAZA LINCOLN",
     "categoria": "C",
-    "logroTienda": 18,
+    "logroTienda": 20,
     "logroTiendaRenov": 5
   },
   {
     "reg": "3.-NORTE",
     "tienda": "EXP PASEO TEC",
     "categoria": "C",
-    "logroTienda": 25,
-    "logroTiendaRenov": 13
+    "logroTienda": 26,
+    "logroTiendaRenov": 14
   },
   {
     "reg": "3.-NORTE",
     "tienda": "EXP KSK GALERIAS SALTILLO",
     "categoria": "C",
-    "logroTienda": 23,
-    "logroTiendaRenov": 9
+    "logroTienda": 24,
+    "logroTiendaRenov": 10
   },
   {
     "reg": "3.-NORTE",
     "tienda": "EXP SENDERO SALTILLO COA",
     "categoria": "C",
-    "logroTienda": 38,
+    "logroTienda": 44,
     "logroTiendaRenov": 5
   },
   {
     "reg": "3.-NORTE",
     "tienda": "EXP LA NOGALERA SALTILLO COA",
     "categoria": "C",
-    "logroTienda": 32,
+    "logroTienda": 36,
     "logroTiendaRenov": 6
   },
   {
     "reg": "3.-NORTE",
     "tienda": "EXP PZA REAL SALTILLO COA",
     "categoria": "C",
-    "logroTienda": 31,
-    "logroTiendaRenov": 7
+    "logroTienda": 35,
+    "logroTiendaRenov": 8
   },
   {
     "reg": "3.-NORTE",
     "tienda": "EXP GALERIAS MONTERREY",
     "categoria": "A",
-    "logroTienda": 87,
-    "logroTiendaRenov": 37
+    "logroTienda": 94,
+    "logroTiendaRenov": 41
   },
   {
     "reg": "3.-NORTE",
     "tienda": "EXP MOL CONCORDIA",
     "categoria": "B",
-    "logroTienda": 36,
+    "logroTienda": 39,
     "logroTiendaRenov": 9
   },
   {
     "reg": "3.-NORTE",
     "tienda": "EXP SENDERO APODACA 2",
     "categoria": "A",
-    "logroTienda": 101,
-    "logroTiendaRenov": 42
+    "logroTienda": 106,
+    "logroTiendaRenov": 43
   },
   {
     "reg": "3.-NORTE",
     "tienda": "EXP PLAZA CONCORDIA",
     "categoria": "C",
-    "logroTienda": 15,
-    "logroTiendaRenov": 8
+    "logroTienda": 18,
+    "logroTiendaRenov": 9
   },
   {
     "reg": "3.-NORTE",
     "tienda": "EXP CENTRO MTY",
     "categoria": "C",
-    "logroTienda": 34,
-    "logroTiendaRenov": 11
+    "logroTienda": 37,
+    "logroTiendaRenov": 12
   },
   {
     "reg": "3.-NORTE",
     "tienda": "EXP SORIANA COUNTRY",
     "categoria": "C",
-    "logroTienda": 20,
-    "logroTiendaRenov": 9
+    "logroTienda": 26,
+    "logroTiendaRenov": 11
   },
   {
     "reg": "3.-NORTE",
     "tienda": "EXP KSK GALERIAS MONTERREY",
     "categoria": "A",
-    "logroTienda": 73,
+    "logroTienda": 78,
     "logroTiendaRenov": 19
   },
   {
     "reg": "3.-NORTE",
     "tienda": "EXP SENDERO ESCOBEDO 2",
     "categoria": "A",
-    "logroTienda": 78,
+    "logroTienda": 83,
     "logroTiendaRenov": 24
   },
   {
     "reg": "3.-NORTE",
     "tienda": "EXP VALLE SOLEADO NL",
     "categoria": "A",
-    "logroTienda": 88,
-    "logroTiendaRenov": 24
+    "logroTienda": 101,
+    "logroTiendaRenov": 26
   },
   {
     "reg": "4.-PACIFICO - BAJIO",
@@ -325,245 +325,245 @@
     "reg": "4.-PACIFICO - BAJIO",
     "tienda": "EXP PLAZA ATEMAJAC GDL",
     "categoria": "A",
-    "logroTienda": 105,
-    "logroTiendaRenov": 27
+    "logroTienda": 120,
+    "logroTiendaRenov": 29
   },
   {
     "reg": "4.-PACIFICO - BAJIO",
     "tienda": "EXP CENTRO GUADALAJARA",
     "categoria": "A",
-    "logroTienda": 92,
-    "logroTiendaRenov": 50
+    "logroTienda": 100,
+    "logroTiendaRenov": 56
   },
   {
     "reg": "4.-PACIFICO - BAJIO",
     "tienda": "EXP HIPER GALERIAS JAL",
     "categoria": "B",
-    "logroTienda": 43,
-    "logroTiendaRenov": 21
+    "logroTienda": 50,
+    "logroTiendaRenov": 23
   },
   {
     "reg": "4.-PACIFICO - BAJIO",
     "tienda": "EXP PLAZA ALCALDE ZAPOPAN",
     "categoria": "B",
-    "logroTienda": 69,
-    "logroTiendaRenov": 16
+    "logroTienda": 79,
+    "logroTiendaRenov": 18
   },
   {
     "reg": "5.-SUR - PUE",
     "tienda": "EXP PLAZA SANTA JULIA APIZACO TLAXCALA PUE",
     "categoria": "B",
-    "logroTienda": 46,
-    "logroTiendaRenov": 16
+    "logroTienda": 56,
+    "logroTiendaRenov": 19
   },
   {
     "reg": "5.-SUR - PUE",
     "tienda": "SORIANA HIPER",
     "categoria": "B",
-    "logroTienda": 55,
+    "logroTienda": 59,
     "logroTiendaRenov": 3
   },
   {
     "reg": "5.-SUR - PUE",
     "tienda": "EXP SORIANA HIPER TLAXCALA",
     "categoria": "C",
-    "logroTienda": 19,
+    "logroTienda": 23,
     "logroTiendaRenov": 8
   },
   {
     "reg": "5.-SUR - PUE",
     "tienda": "EXP CHEDRAUI CRUZ DEL SUR",
     "categoria": "B",
-    "logroTienda": 45,
-    "logroTiendaRenov": 11
+    "logroTienda": 51,
+    "logroTiendaRenov": 12
   },
   {
     "reg": "5.-SUR - PUE",
     "tienda": "EXPERTCELL-GRANPLAZASURPUE",
     "categoria": "A",
-    "logroTienda": 58,
-    "logroTiendaRenov": 29
+    "logroTienda": 70,
+    "logroTiendaRenov": 33
   },
   {
     "reg": "5.-SUR - PUE",
     "tienda": "EXP PLAZA SAN DIEGO PUE",
     "categoria": "A",
-    "logroTienda": 117,
-    "logroTiendaRenov": 47
+    "logroTienda": 132,
+    "logroTiendaRenov": 53
   },
   {
     "reg": "5.-SUR - PUE",
     "tienda": "EXP SAN MARTIN CENTRO",
     "categoria": "B",
-    "logroTienda": 60,
-    "logroTiendaRenov": 10
+    "logroTienda": 79,
+    "logroTiendaRenov": 11
   },
   {
     "reg": "5.-SUR - PUE",
     "tienda": "EXP CHOLULA II PUE",
     "categoria": "C",
-    "logroTienda": 42,
-    "logroTiendaRenov": 15
+    "logroTienda": 46,
+    "logroTiendaRenov": 17
   },
   {
     "reg": "5.-SUR - PUE",
     "tienda": "EXP REFORMA LA PAZ PUE",
     "categoria": "B",
-    "logroTienda": 68,
-    "logroTiendaRenov": 25
+    "logroTienda": 73,
+    "logroTiendaRenov": 31
   },
   {
     "reg": "5.-SUR - PUE",
     "tienda": "EXPERTCELL-PLAZASANDIEGOPUE",
     "categoria": "B",
-    "logroTienda": 62,
-    "logroTiendaRenov": 16
+    "logroTienda": 66,
+    "logroTiendaRenov": 20
   },
   {
     "reg": "5.-SUR - PUE",
     "tienda": "EXP ANTEQUERA PUE",
     "categoria": "C",
-    "logroTienda": 15,
+    "logroTienda": 18,
     "logroTiendaRenov": 4
   },
   {
     "reg": "5.-SUR - PUE",
     "tienda": "EXP PLAZA ASESORES PUE",
     "categoria": "C",
-    "logroTienda": 22,
-    "logroTiendaRenov": 13
+    "logroTienda": 29,
+    "logroTiendaRenov": 16
   },
   {
     "reg": "5.-SUR - VER",
     "tienda": "ORIENTE 6 CENTRO",
     "categoria": "B",
-    "logroTienda": 42,
-    "logroTiendaRenov": 18
+    "logroTienda": 45,
+    "logroTiendaRenov": 19
   },
   {
     "reg": "5.-SUR - VER",
     "tienda": "EXPPLAZAVALLEORI",
     "categoria": "A",
-    "logroTienda": 63,
-    "logroTiendaRenov": 35
+    "logroTienda": 80,
+    "logroTiendaRenov": 42
   },
   {
     "reg": "5.-SUR - VER",
     "tienda": "EXP MARIO MOLINA VER",
     "categoria": "C",
-    "logroTienda": 34,
+    "logroTienda": 36,
     "logroTiendaRenov": 6
   },
   {
     "reg": "5.-SUR - VER",
     "tienda": "EXP EL MIRADOR VER",
     "categoria": "C",
-    "logroTienda": 37,
-    "logroTiendaRenov": 2
+    "logroTienda": 41,
+    "logroTiendaRenov": 3
   },
   {
     "reg": "5.-SUR - VER",
     "tienda": "EXP PLAZA AMERICAS VER",
     "categoria": "B",
-    "logroTienda": 61,
-    "logroTiendaRenov": 22
+    "logroTienda": 64,
+    "logroTiendaRenov": 24
   },
   {
     "reg": "5.-SUR - VER",
     "tienda": "EXPERTCELL-PLAZACRYSTALVER",
     "categoria": "B",
-    "logroTienda": 57,
-    "logroTiendaRenov": 25
+    "logroTienda": 66,
+    "logroTiendaRenov": 28
   },
   {
     "reg": "5.-SUR - VER",
     "tienda": "EXP ISLA BELLA VER",
     "categoria": "C",
-    "logroTienda": 48,
+    "logroTienda": 54,
     "logroTiendaRenov": 13
   },
   {
     "reg": "5.-SUR - PUE",
     "tienda": "EXP 5 DE MAYO PUE",
     "categoria": "B",
-    "logroTienda": 34,
-    "logroTiendaRenov": 11
+    "logroTienda": 39,
+    "logroTiendaRenov": 13
   },
   {
     "reg": "5.-SUR - VER",
     "tienda": "EXP PORTAL CENTRO VERACRUZ",
     "categoria": "B",
-    "logroTienda": 46,
-    "logroTiendaRenov": 24
+    "logroTienda": 58,
+    "logroTiendaRenov": 27
   },
   {
     "reg": "1.-CENTRO-CDMX",
     "tienda": "EXP MACROPLAZA TECAMAC MEX",
     "categoria": "C",
-    "logroTienda": 58,
-    "logroTiendaRenov": 11
+    "logroTienda": 67,
+    "logroTiendaRenov": 12
   },
   {
     "reg": "4.-PACIFICO - BAJIO",
     "tienda": "EXP PLAZA HIDALGO GDL",
     "categoria": "C",
-    "logroTienda": 17,
-    "logroTiendaRenov": 1
+    "logroTienda": 21,
+    "logroTiendaRenov": 3
   },
   {
     "reg": "4.-PACIFICO - BAJIO",
     "tienda": "EXP PLAZA CIBELES GDL",
     "categoria": "C",
-    "logroTienda": 20,
-    "logroTiendaRenov": 9
+    "logroTienda": 24,
+    "logroTiendaRenov": 11
   },
   {
     "reg": "5.-SUR - PUE",
     "tienda": "EXP PLAZA MAGESTIC PUE",
     "categoria": "C",
-    "logroTienda": 22,
-    "logroTiendaRenov": 8
+    "logroTienda": 26,
+    "logroTiendaRenov": 9
   },
   {
     "reg": "4.-PACIFICO - BAJIO",
     "tienda": "EXP HISTORIADORES JAL",
     "categoria": "C",
-    "logroTienda": 29,
-    "logroTiendaRenov": 10
+    "logroTienda": 32,
+    "logroTiendaRenov": 13
   },
   {
     "reg": "5.-SUR - VER",
     "tienda": "EXP PZA PRADERA VER",
     "categoria": "C",
-    "logroTienda": 11,
-    "logroTiendaRenov": 5
+    "logroTienda": 12,
+    "logroTiendaRenov": 6
   },
   {
     "reg": "5.-SUR - PUE",
     "tienda": "EXP GRAN CENTRAL PUE",
     "categoria": "C",
-    "logroTienda": 20,
-    "logroTiendaRenov": 7
+    "logroTienda": 24,
+    "logroTiendaRenov": 9
   },
   {
     "reg": "3.-NORTE",
     "tienda": "EXP SORIANA DOMINGO NL",
     "categoria": "C",
-    "logroTienda": 34,
-    "logroTiendaRenov": 13
+    "logroTienda": 40,
+    "logroTiendaRenov": 14
   },
   {
     "reg": "3.-NORTE",
     "tienda": "EXP HEB GUADALUPE NL",
     "categoria": "C",
-    "logroTienda": 38,
+    "logroTienda": 43,
     "logroTiendaRenov": 3
   },
   {
     "reg": "5.-SUR - VER",
     "tienda": "EXP KSK PATIO TEJERIA VER",
     "categoria": "C",
-    "logroTienda": 11,
+    "logroTienda": 12,
     "logroTiendaRenov": 1
   }
 ]
