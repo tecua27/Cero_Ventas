@@ -16,7 +16,7 @@ body{font-family:system-ui,sans-serif;background:#c8dff0;color:var(--text);min-h
 }
 .login-wrap{display:flex;align-items:center;justify-content:center;gap:56px;max-width:900px;width:100%;}
 .login-left{display:flex;flex-direction:column;align-items:center;gap:20px;flex-shrink:0;}
-.login-left img.mascot{width:220px;filter:drop-shadow(0 12px 32px rgba(0,168,224,.45));animation:float 3s ease-in-out infinite;}
+.login-left img.mascot{width:300px;filter:drop-shadow(0 12px 32px rgba(0,168,224,.45));animation:float 3s ease-in-out infinite;}
 @keyframes float{0%,100%{transform:translateY(0);}50%{transform:translateY(-12px);}}
 .login-left p{font-size:14px;color:#fff;text-align:center;max-width:180px;line-height:1.6;font-style:italic;text-shadow:0 1px 4px rgba(0,0,0,.4);}
 .login-box{
@@ -55,7 +55,7 @@ body{font-family:system-ui,sans-serif;background:#c8dff0;color:var(--text);min-h
 .login-foot{margin-top:24px;text-align:center;font-size:10px;color:#5a87a3;}
 @media(max-width:660px){
   .login-wrap{flex-direction:column;gap:28px;}
-  .login-left img.mascot{width:150px;}
+  .login-left img.mascot{width:200px;}
   .login-box{padding:28px 22px;}
 }
 
