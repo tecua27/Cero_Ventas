@@ -6,7 +6,137 @@ const MASCOT_SRCS = ["Imagenes/Expertin_bandera.png", "Imagenes/Expertin_sombrer
 const MASCOT_SRC  = MASCOT_SRCS[0];
 
 /* ACCESOS embebidos */
-const ACCESOS = [{"usuario":"jon","nombre":"JULIAN OLVERA NUÑEZ","tipo":"TODAS","valores":[]},{"usuario":"az","tipo":"TODAS","valores":[]},{"usuario":"yara","tipo":"TODAS","valores":[]},{"usuario":"blanca","tipo":"TODAS","valores":[]},{"usuario":"german.g","nombre":"GERMAN PELAYO GONZALEZ","tipo":"region","valores":["4.-PACIFICO - BAJIO"]},{"usuario":"jorge.l","nombre":"JORGE LUIS SOLIS ALEJANDRI","tipo":"region","valores":["3.-NORTE"]},{"usuario":"juan.va","nombre":"JUAN ANTONIO LUNA VARA","tipo":"region","valores":["5.-SUR - VER"]},{"usuario":"moi.cha","nombre":"MOISES CHAVEZ SUAREZ","tipo":"region","valores":["1.-CENTRO-CDMX"]},{"usuario":"mariana.pe","nombre":"MARIANA PEÑA","tipo":"region","valores":["1.-CENTRO-CDMX"]},{"usuario":"sar.se","nombre":"SILVIA SARYALI SEGURA RODRIGUEZ","tipo":"region","valores":["5.-SUR - PUE"]},{"usuario":"yes.ga","nombre":"YESENIA IBARRA GARRIDO","tipo":"region","valores":["2.-BAJA-NOR MXI / SLRC","2.-BAJA-NOR TIJ / ENS"]},{"usuario":"lili.sa","nombre":"LILIANA SAAVEDRA","tipo":"region","valores":["5.-SUR - PUE","5.-SUR - VER"]},{"usuario":"jor.mu","nombre":"JORGE BONILLA MUNIVE","tipo":"region","valores":["5.-SUR - PUE"]},{"usuario":"ana.ca","nombre":"ANA LILIA CANGAS HERNANDEZ","tipo":"tienda","valores":["EXP ATLACOMULCO TOL","EXP CHEDRAUI METEPEC","EXP GALERIAS TOLUCA","EXP PLAZA TOLLOCAN","EXP SENDERO TOLUCA II"]},{"usuario":"angel.le","nombre":"ANGEL DANIEL LEAL LARA","tipo":"tienda","valores":["EXP CHOLULA II PUE","EXP GRAN CENTRAL PUE","EXP PLAZA SAN DIEGO PUE","EXP PLAZA SANTA JULIA APIZACO TLAXCALA PUE","EXP SAN MARTIN CENTRO","EXP SORIANA HIPER TLAXCALA","EXPERTCELL-PLAZASANDIEGOPUE","SORIANA HIPER"]},{"usuario":"jorge.al","nombre":"JORGE IVAN ALVARADO CRUZ","tipo":"tienda","valores":["EXP CENTRO MTY","EXP CUMBRES MONTERREY","EXP GALERIAS MONTERREY","EXP KSK GALERIAS MONTERREY","EXP MALL PLAZA LINCOLN","EXP SENDERO ESCOBEDO 2","EXP SENDERO ESCOBEDO NL","EXP SORIANA DOMINGO NL"]},{"usuario":"jose.ar","nombre":"JOSE ALFREDO ARMENTA BELTRAN","tipo":"tienda","valores":["EXP JAUJA TIJUANA","EXP KSK SENDERO MEXICALI","EXP PLAZA SAN PEDRO BC","EXP PUNTO SUR TIJUANA","EXP TIJUANA PLAZA SENDERO"]},{"usuario":"jose.az","nombre":"JOSE DANIEL ARZATE MARTINEZ","tipo":"tienda","valores":["EXP CHEDRAUI ANFORA","EXP COSMOPOL 2","EXP MACROPLAZA TECAMAC MEX","EXP NAUCALPAN","EXP TDA CDMX MULTIPLAZA ARAGON","EXP TOWN CENTER NICOLAS ROMERO DFN"]},{"usuario":"naila.he","nombre":"NAILA ZULEM HERRERA MARTINEZ","tipo":"tienda","valores":["EXP KSK GALERIAS SALTILLO","EXP LA NOGALERA SALTILLO COA","EXP PZA REAL SALTILLO COA","EXP SENDERO SALTILLO COA"]},{"usuario":"ricardo.ba","nombre":"RICARDO BAILON VELAZQUEZ","tipo":"tienda","valores":["CHEDRAUI EDUARDO MOLINA","EXP CENTRO TEPOZAN","EXP IZTAPALAPA 2","EXP KSK PATIO TEXCOCO","EXP KSK SENDERO IXTAPALUCA","EXP PATIO TLALPAN"]}];
+const ACCESOS = [
+  {
+    "usuario": "jon",
+    "nombre":  "JULIAN OLVERA NUÑEZ",
+    "tipo":    "TODAS",
+    "valores": []
+  },
+  {
+    "usuario": "az",
+    "tipo":    "TODAS",
+    "valores": []
+  },
+  {
+    "usuario": "yara",
+    "tipo":    "TODAS",
+    "valores": []
+  },
+  {
+    "usuario": "blanca",
+    "tipo":    "TODAS",
+    "valores": []
+  },
+  {
+    "usuario": "german.g",
+    "nombre":  "GERMAN PELAYO GONZALEZ",
+    "tipo":    "region",
+    "valores": ["4.-PACIFICO - BAJIO"]
+  },
+  {
+    "usuario": "jorge.l",
+    "nombre":  "JORGE LUIS SOLIS ALEJANDRI",
+    "tipo":    "region",
+    "valores": ["3.-NORTE"]
+  },
+  {
+    "usuario": "juan.va",
+    "nombre":  "JUAN ANTONIO LUNA VARA",
+    "tipo":    "region",
+    "valores": ["5.-SUR - VER"]
+  },
+  {
+    "usuario": "moi.cha",
+    "nombre":  "MOISES CHAVEZ SUAREZ",
+    "tipo":    "region",
+    "valores": ["1.-CENTRO-CDMX"]
+  },
+  {
+    "usuario": "mariana.pe",
+    "nombre":  "MARIANA PEÑA",
+    "tipo":    "region",
+    "valores": ["1.-CENTRO-CDMX"]
+  },
+  {
+    "usuario": "sar.se",
+    "nombre":  "SILVIA SARYALI SEGURA RODRIGUEZ",
+    "tipo":    "region",
+    "valores": ["5.-SUR - PUE"]
+  },
+  {
+    "usuario": "yes.ga",
+    "nombre":  "YESENIA IBARRA GARRIDO",
+    "tipo":    "region",
+    "valores": ["2.-BAJA-NOR MXI / SLRC", "2.-BAJA-NOR TIJ / ENS"]
+  },
+  {
+    "usuario": "lili.sa",
+    "nombre":  "LILIANA SAAVEDRA",
+    "tipo":    "region",
+    "valores": ["5.-SUR - PUE", "5.-SUR - VER"]
+  },
+  {
+    "usuario": "jor.mu",
+    "nombre":  "JORGE BONILLA MUNIVE",
+    "tipo":    "region",
+    "valores": ["5.-SUR - PUE"]
+  },
+  {
+    "usuario": "rafa.za",
+    "nombre": "JOSE RAFAEL TORRES ZAMUDIO",
+    "tipo": "tienda",
+    "valores":["EXP CHEDRAUI CRUZ DEL SUR","EXPERTCELL-GRANPLAZASURPUE","EXP REFORMA LA PAZ PUE","EXP ANTEQUERA PUE","EXP PLAZA ASESORES PUE","EXP PLAZA MAGESTIC PUE","EXP 5 DE MAYO PUE","EXP LA MARGARITA PUE"]
+  },
+  {
+    "usuario":"nes.tun",
+    "nombre": "NESTOR MANUEL TUNALES TELLO",
+    "tipo": "tienda",
+    "valores": ["EXP SENDERO APODACA","EXP PASEO TEC","EXP MOL CONCORDIA","EXP SENDERO APODACA 2","EXP PLAZA CONCORDIA","EXP SORIANA COUNTRY","EXP VALLE SOLEADO NL","EXP HEB GUADALUPE NL"]
+  },
+  {
+    "usuario": "ana.ca",
+    "nombre":  "ANA LILIA CANGAS HERNANDEZ",
+    "tipo":    "tienda",
+    "valores": ["EXP ATLACOMULCO TOL", "EXP CHEDRAUI METEPEC", "EXP GALERIAS TOLUCA", "EXP PLAZA TOLLOCAN", "EXP SENDERO TOLUCA II"]
+  },
+  {
+    "usuario": "angel.le",
+    "nombre":  "ANGEL DANIEL LEAL LARA",
+    "tipo":    "tienda",
+    "valores": ["EXP CHOLULA II PUE", "EXP GRAN CENTRAL PUE", "EXP PLAZA SAN DIEGO PUE", "EXP PLAZA SANTA JULIA APIZACO TLAXCALA PUE", "EXP SAN MARTIN CENTRO", "EXP SORIANA HIPER TLAXCALA", "EXPERTCELL-PLAZASANDIEGOPUE", "SORIANA HIPER"]
+  },
+  {
+    "usuario": "jorge.al",
+    "nombre":  "JORGE IVAN ALVARADO CRUZ",
+    "tipo":    "tienda",
+    "valores": ["EXP CENTRO MTY", "EXP CUMBRES MONTERREY", "EXP GALERIAS MONTERREY", "EXP KSK GALERIAS MONTERREY", "EXP MALL PLAZA LINCOLN", "EXP SENDERO ESCOBEDO 2", "EXP SENDERO ESCOBEDO NL", "EXP SORIANA DOMINGO NL"]
+  },
+  {
+    "usuario": "jose.ar",
+    "nombre":  "JOSE ALFREDO ARMENTA BELTRAN",
+    "tipo":    "tienda",
+    "valores": ["EXP JAUJA TIJUANA", "EXP KSK SENDERO MEXICALI", "EXP PLAZA SAN PEDRO BC", "EXP PUNTO SUR TIJUANA", "EXP TIJUANA PLAZA SENDERO"]
+  },
+  {
+    "usuario": "jose.az",
+    "nombre":  "JOSE DANIEL ARZATE MARTINEZ",
+    "tipo":    "tienda",
+    "valores": ["EXP CHEDRAUI ANFORA", "EXP COSMOPOL 2", "EXP MACROPLAZA TECAMAC MEX", "EXP NAUCALPAN", "EXP TDA CDMX MULTIPLAZA ARAGON", "EXP TOWN CENTER NICOLAS ROMERO DFN"]
+  },
+  {
+    "usuario": "naila.he",
+    "nombre":  "NAILA ZULEM HERRERA MARTINEZ",
+    "tipo":    "tienda",
+    "valores": ["EXP KSK GALERIAS SALTILLO", "EXP LA NOGALERA SALTILLO COA", "EXP PZA REAL SALTILLO COA", "EXP SENDERO SALTILLO COA"]
+  },
+  {
+    "usuario": "ricardo.ba",
+    "nombre":  "RICARDO BAILON VELAZQUEZ",
+    "tipo":    "tienda",
+    "valores": ["CHEDRAUI EDUARDO MOLINA", "EXP CENTRO TEPOZAN", "EXP IZTAPALAPA 2", "EXP KSK PATIO TEXCOCO", "EXP KSK SENDERO IXTAPALUCA", "EXP PATIO TLALPAN"]
+  }
+];
 
 /* DATOS: cargados desde archivos externos */
 let EXEC_DATA   = [];
