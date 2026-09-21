@@ -41,6 +41,12 @@ const ACCESOS = [
     "valores": ["3.-NORTE"]
   },
   {
+    "usuario": "ga.delos",
+    "nombre":  "GABRIELA DE LOS ANGELES HERNANDEZ LICONA",
+    "tipo":    "region",
+    "valores": ["5.-SUR - VER"]
+  },
+  {
     "usuario": "juan.va",
     "nombre":  "JUAN ANTONIO LUNA VARA",
     "tipo":    "region",
