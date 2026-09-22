@@ -77,6 +77,12 @@ const ACCESOS = [
     "valores": ["2.-BAJA-NOR MXI / SLRC", "2.-BAJA-NOR TIJ / ENS"]
   },
   {
+    "usuario": "ant.her",
+    "nombre":  "ANTONIO HERNAN GOMEZ OLVERA",
+    "tipo":    "region",
+    "valores": ["2.-BAJA-NOR MXI / SLRC", "2.-BAJA-NOR TIJ / ENS", "1.-CENTRO-CDMX", "3.-NORTE", "4.-PACIFICO - BAJIO"]
+  },
+  {
     "usuario": "lili.sa",
     "nombre":  "LILIANA SAAVEDRA",
     "tipo":    "region",
