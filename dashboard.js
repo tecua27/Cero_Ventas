@@ -23,6 +23,10 @@ const ACCESOS = [
     "tipo":    "TODAS",
     "valores": []
   },
+  {"usuario": "edu.arm",
+    "tipo":     "TODAS",
+    "valores": []
+  },
   {
     "usuario": "blanca",
     "tipo":    "TODAS",
@@ -69,6 +73,11 @@ const ACCESOS = [
     "nombre":  "SILVIA SARYALI SEGURA RODRIGUEZ",
     "tipo":    "region",
     "valores": ["5.-SUR - PUE"]
+  },
+  {"usuario": "julio1",
+    "nombre": "JULIO DE TH",
+    "tienda": "region",
+    "valores": ["5.-SUR - PUE", "1.-CENTRO-CDMX"]
   },
   {
     "usuario": "yes.ga",
