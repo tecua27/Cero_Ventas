@@ -79,6 +79,11 @@ const ACCESOS = [
     "tienda": "region",
     "valores": ["5.-SUR - PUE", "1.-CENTRO-CDMX"]
   },
+  {"usuario": "key.gq",
+    "nombre": "KEYLA GONZALEZ QUIROZ",
+    "tienda": "region",
+    "valores": ["3.-NORTE"]
+  },
   {
     "usuario": "yes.ga",
     "nombre":  "YESENIA IBARRA GARRIDO",
