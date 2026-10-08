@@ -2,7 +2,7 @@
 
 /* IMAGENES: actualiza logo.png y expertin.png en tu repo */
 const LOGO_SRC = "Imagenes/Expertcell_logo.png";
-const MASCOT_SRCS = ["Imagenes/Expertin_bandera.png", "Imagenes/Expertin_sombrero.png"];
+const MASCOT_SRCS = ["Imagenes/Expertin_calavera.png", "Imagenes/Expertin_frank.png", "Imagenes/Expertin_Momia.png", "Imagenes/Expertin_brujo.png", "Imagenes/Expertin_calabaza.png"];
 const MASCOT_SRC  = MASCOT_SRCS[0];
 
 /* ACCESOS embebidos */
